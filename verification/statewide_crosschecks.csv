@@ -1,0 +1,68 @@
+check,value_1,value_2,result
+2022 canvass TOTAL column ballots: passA word-position vs passB text,2592313,2592313,MATCH
+2022 sum of 15 counties ballots (passA) vs canvass TOTAL column,2592313,2592313,MATCH
+2022 canvass TOTAL column dem: passA word-position vs passB text,1287891,1287891,MATCH
+2022 sum of 15 counties dem (passA) vs canvass TOTAL column,1287891,1287891,MATCH
+2022 canvass TOTAL column rep: passA word-position vs passB text,1270774,1270774,MATCH
+2022 sum of 15 counties rep (passA) vs canvass TOTAL column,1270774,1270774,MATCH
+2022 canvass TOTAL column govtotal: passA word-position vs passB text,2559485,2559485,MATCH
+2022 sum of 15 counties govtotal (passA) vs canvass TOTAL column,2559485,2559485,MATCH
+2022 canvass Total Eligible Registration (passA) vs registration report G.E. Total (CSV),4143929,4143929,MATCH
+2022 Apache canvass registration vs CSV active total,51981,51981,MATCH
+2022 Cochise canvass registration vs CSV active total,77394,77394,MATCH
+2022 Coconino canvass registration vs CSV active total,90829,90829,MATCH
+2022 Gila canvass registration vs CSV active total,33949,33949,MATCH
+2022 Graham canvass registration vs CSV active total,19487,19487,MATCH
+2022 Greenlee canvass registration vs CSV active total,4669,4669,MATCH
+2022 La Paz canvass registration vs CSV active total,11311,11311,MATCH
+2022 Maricopa canvass registration vs CSV active total,2435397,2435397,MATCH
+2022 Mohave canvass registration vs CSV active total,146919,146919,MATCH
+2022 Navajo canvass registration vs CSV active total,69040,69040,MATCH
+2022 Pima canvass registration vs CSV active total,639885,639885,MATCH
+2022 Pinal canvass registration vs CSV active total,262694,262694,MATCH
+2022 Santa Cruz canvass registration vs CSV active total,29189,29189,MATCH
+2022 Yavapai canvass registration vs CSV active total,166052,166052,MATCH
+2022 Yuma canvass registration vs CSV active total,105133,105133,MATCH
+2022 registration TOTAL row: CSV vs PDF,"{'Democratic': 1270544, 'Libertarian': 32148, 'Republican': 1436852, 'Other': 1404385, 'Total': 4143929}","{'Democratic': 1270544, 'Libertarian': 32148, 'Republican': 1436852, 'Other': 1404385, 'Total': 4143929}",MATCH
+2022 registration Dem: sum of counties vs SOS Totals row,1270544,1270544,MATCH
+2022 registration Active total: sum of counties vs SOS Totals row,4143929,4143929,MATCH
+2026 registration TOTAL row: CSV vs PDF,"{'Democratic': 1239489, 'Green': 5577, 'Libertarian': 30150, 'No Labels': 49203, 'Republican': 1522925, 'Other': 1527483, 'Total': 4374827}","{'Democratic': 1239489, 'Green': 5577, 'Libertarian': 30150, 'No Labels': 49203, 'Republican': 1522925, 'Other': 1527483, 'Total': 4374827}",MATCH
+2026 registration Dem: sum of counties vs SOS Totals row,1239489,1239489,MATCH
+2026 registration Active total: sum of counties vs SOS Totals row,4374827,4374827,MATCH
+2026 statewide Hobbs (API statewide) vs sum of 15 county API files,1434824,1434824,MATCH
+2026 statewide Biggs (API statewide) vs sum of counties,1094393,1094393,MATCH
+2026 statewide governor voteTotal vs sum of counties,2579147,2579147,MATCH
+2026 statewide ballots: API localityElections sum vs county files sum,2608919,2608919,MATCH
+2026 Apache API registered (totalVoters) vs SOS Nov 2026 active GE total,53295,53295,MATCH
+2026 Cochise API registered (totalVoters) vs SOS Nov 2026 active GE total,82634,82634,MATCH
+2026 Coconino API registered (totalVoters) vs SOS Nov 2026 active GE total,88175,88175,MATCH
+2026 Gila API registered (totalVoters) vs SOS Nov 2026 active GE total,34245,34245,MATCH
+2026 Graham API registered (totalVoters) vs SOS Nov 2026 active GE total,20623,20623,MATCH
+2026 Greenlee API registered (totalVoters) vs SOS Nov 2026 active GE total,4611,4611,MATCH
+2026 La Paz API registered (totalVoters) vs SOS Nov 2026 active GE total,11338,11338,MATCH
+2026 Maricopa API registered (totalVoters) vs SOS Nov 2026 active GE total,2589827,2589827,MATCH
+2026 Mohave API registered (totalVoters) vs SOS Nov 2026 active GE total,146942,146942,MATCH
+2026 Navajo API registered (totalVoters) vs SOS Nov 2026 active GE total,73154,73154,MATCH
+2026 Pima API registered (totalVoters) vs SOS Nov 2026 active GE total,657885,657885,MATCH
+2026 Pinal API registered (totalVoters) vs SOS Nov 2026 active GE total,291682,291682,MATCH
+2026 Santa Cruz API registered (totalVoters) vs SOS Nov 2026 active GE total,32952,32952,MATCH
+2026 Yavapai API registered (totalVoters) vs SOS Nov 2026 active GE total,175542,175542,MATCH
+2026 Yuma API registered (totalVoters) vs SOS Nov 2026 active GE total,111922,111922,MATCH
+2026 statewide Hobbs: rendered state page vs API,1434824,1434824,MATCH
+2022 statewide P (2dp) vs SOS printed Percentages 30.66,30.66,30.66,MATCH
+2026 statewide P (2dp) vs SOS printed Percentages 28.33,28.33,28.33,MATCH
+statewide derived S22: A vs B,49.68115347182227,49.68115347182227,MATCH
+statewide derived S26: A vs B,54.996878017293746,54.99687801729375,MATCH
+statewide derived P22: A vs B,30.66037087025381,30.66037087025381,MATCH
+statewide derived P26: A vs B,28.332297482849032,28.332297482849036,MATCH
+statewide derived dS: A vs B,5.315724545471475,5.315724545471484,MATCH
+statewide derived dP: A vs B,-2.3280733874047783,-2.328073387404774,MATCH
+statewide derived dG: A vs B,7.643797932876254,7.643797932876258,MATCH
+statewide derived implied_extra_sum: A vs B,137207.17117295368,137207.17117295368,MATCH
+statewide derived implied_extra_pooled: A vs B,138682.94765446897,138682.9476544692,MATCH
+statewide derived regdem_chg: A vs B,-31055.0,-31055.0,MATCH
+statewide derived regdem_chg_pct: A vs B,-2.444228613885076,-2.444228613885076,MATCH
+statewide derived dem_chg: A vs B,146933.0,146933.0,MATCH
+statewide derived dem_chg_pct: A vs B,11.408807111781975,11.408807111781975,MATCH
+statewide derived ballots_chg: A vs B,16606.0,16606.0,MATCH
+statewide derived ballots_chg_pct: A vs B,0.6405862255059478,0.6405862255059478,MATCH

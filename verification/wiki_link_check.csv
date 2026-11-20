@@ -1,0 +1,109 @@
+page,target_or_element,check,result
+Arizona-County-PDF-Information,https://raw.githubusercontent.com/mbenson8989/Arizona-Election-Analysis/main/Arizona_15_County_Democratic_Registration_and_Vote_Change.pdf,file present in repo/ (live after push),OK
+Arizona-County-PDF-Information,https://github.com/mbenson8989/Arizona-Election-Analysis,external,OK
+Arizona-County-PDF-Information,Home,internal wiki page exists,OK
+Arizona-County-PDF-Information,Reverse-Math,internal wiki page exists,OK
+Arizona-County-PDF-Information,Locked-Arizona-Formula,internal wiki page exists,OK
+Arizona-County-PDF-Information,Floor-and-Ceiling,internal wiki page exists,OK
+Arizona-County-PDF-Information,Graphs,internal wiki page exists,OK
+Arizona-County-PDF-Information,https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit,Cedar Audit exact URL with trailing hyphen,OK
+Arizona-County-PDF-Information,2026 UNOFFICIAL banner,required element,OK
+Arizona-County-PDF-Information,neutral disclaimer,required element,OK
+Arizona-County-PDF-Information,Cedar Audit link,required element,OK
+Arizona-County-PDF-Information,credit/ Related footer,required element,OK
+Arizona-County-PDF-Information,raw PDF link exact,required element,OK
+Floor-and-Ceiling,Home,internal wiki page exists,OK
+Floor-and-Ceiling,Reverse-Math,internal wiki page exists,OK
+Floor-and-Ceiling,Locked-Arizona-Formula,internal wiki page exists,OK
+Floor-and-Ceiling,Graphs,internal wiki page exists,OK
+Floor-and-Ceiling,Arizona-County-PDF-Information,internal wiki page exists,OK
+Floor-and-Ceiling,https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit,Cedar Audit exact URL with trailing hyphen,OK
+Floor-and-Ceiling,2026 UNOFFICIAL banner,required element,OK
+Floor-and-Ceiling,neutral disclaimer,required element,OK
+Floor-and-Ceiling,Cedar Audit link,required element,OK
+Floor-and-Ceiling,credit/ Related footer,required element,OK
+Graphs,https://raw.githubusercontent.com/mbenson8989/Arizona-Election-Analysis/main/AZ_DeltaG_by_Population.png,file present in repo/ (live after push),OK
+Graphs,https://raw.githubusercontent.com/mbenson8989/Arizona-Election-Analysis/main/AZ_DeltaG_vs_RegShareDrop_Scatter.png,file present in repo/ (live after push),OK
+Graphs,https://raw.githubusercontent.com/mbenson8989/Arizona-Election-Analysis/main/AZ_Slope_G2022_to_G2026.png,file present in repo/ (live after push),OK
+Graphs,https://raw.githubusercontent.com/mbenson8989/Arizona-Election-Analysis/main/AZ_DeltaG_Components_dS_vs_dP_by_Population.png,file present in repo/ (live after push),OK
+Graphs,https://raw.githubusercontent.com/mbenson8989/Arizona-Election-Analysis/main/AZ_Share_and_Registration_by_Population.png,file present in repo/ (live after push),OK
+Graphs,https://raw.githubusercontent.com/mbenson8989/Arizona-Election-Analysis/main/AZ_Forward_Fit_G_vs_P_2022_2026.png,file present in repo/ (live after push),OK
+Graphs,https://raw.githubusercontent.com/mbenson8989/Arizona-Election-Analysis/main/AZ_Residual_and_Implied_Votes_by_Population.png,file present in repo/ (live after push),OK
+Graphs,https://raw.githubusercontent.com/mbenson8989/Arizona-Election-Analysis/main/AZ_Overballot_Check_by_Population.png,file present in repo/ (live after push),OK
+Graphs,Home,internal wiki page exists,OK
+Graphs,Reverse-Math,internal wiki page exists,OK
+Graphs,Locked-Arizona-Formula,internal wiki page exists,OK
+Graphs,Floor-and-Ceiling,internal wiki page exists,OK
+Graphs,Arizona-County-PDF-Information,internal wiki page exists,OK
+Graphs,https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit,Cedar Audit exact URL with trailing hyphen,OK
+Graphs,2026 UNOFFICIAL banner,required element,OK
+Graphs,neutral disclaimer,required element,OK
+Graphs,Cedar Audit link,required element,OK
+Graphs,credit/ Related footer,required element,OK
+Home,https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit,Cedar Audit exact URL with trailing hyphen,OK
+Home,https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki,external,OK
+Home,https://azsos.gov/elections/election-information/voter-registration-counts,external,OK
+Home,https://results.arizona.vote/,external,OK
+Home,https://github.com/mbenson8989/Arizona-Election-Analysis,external,OK
+Home,https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit,Cedar Audit exact URL with trailing hyphen,OK
+Home,Reverse-Math,internal wiki page exists,OK
+Home,Locked-Arizona-Formula,internal wiki page exists,OK
+Home,Floor-and-Ceiling,internal wiki page exists,OK
+Home,Graphs,internal wiki page exists,OK
+Home,Arizona-County-PDF-Information,internal wiki page exists,OK
+Home,Locked-Arizona-Formula,internal wiki page exists,OK
+Home,Arizona-County-PDF-Information,internal wiki page exists,OK
+Home,https://raw.githubusercontent.com/mbenson8989/Arizona-Election-Analysis/main/Arizona_15_County_Democratic_Registration_and_Vote_Change.pdf,file present in repo/ (live after push),OK
+Home,Reverse-Math,internal wiki page exists,OK
+Home,Locked-Arizona-Formula,internal wiki page exists,OK
+Home,Floor-and-Ceiling,internal wiki page exists,OK
+Home,Graphs,internal wiki page exists,OK
+Home,Arizona-County-PDF-Information,internal wiki page exists,OK
+Home,https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit,Cedar Audit exact URL with trailing hyphen,OK
+Home,2026 UNOFFICIAL banner,required element,OK
+Home,neutral disclaimer,required element,OK
+Home,Cedar Audit link,required element,OK
+Home,credit/ Related footer,required element,OK
+Home,credit line (Morissa Benson),required element,OK
+Home,links PDF info page,required element,OK
+Locked-Arizona-Formula,Floor-and-Ceiling,internal wiki page exists,OK
+Locked-Arizona-Formula,Home,internal wiki page exists,OK
+Locked-Arizona-Formula,Reverse-Math,internal wiki page exists,OK
+Locked-Arizona-Formula,Floor-and-Ceiling,internal wiki page exists,OK
+Locked-Arizona-Formula,Graphs,internal wiki page exists,OK
+Locked-Arizona-Formula,Arizona-County-PDF-Information,internal wiki page exists,OK
+Locked-Arizona-Formula,https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit,Cedar Audit exact URL with trailing hyphen,OK
+Locked-Arizona-Formula,2026 UNOFFICIAL banner,required element,OK
+Locked-Arizona-Formula,neutral disclaimer,required element,OK
+Locked-Arizona-Formula,Cedar Audit link,required element,OK
+Locked-Arizona-Formula,credit/ Related footer,required element,OK
+Locked-Arizona-Formula,statewide fitted equation,required element,OK
+Reverse-Math,https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit,Cedar Audit exact URL with trailing hyphen,OK
+Reverse-Math,Home,internal wiki page exists,OK
+Reverse-Math,Locked-Arizona-Formula,internal wiki page exists,OK
+Reverse-Math,Floor-and-Ceiling,internal wiki page exists,OK
+Reverse-Math,Graphs,internal wiki page exists,OK
+Reverse-Math,Arizona-County-PDF-Information,internal wiki page exists,OK
+Reverse-Math,https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit,Cedar Audit exact URL with trailing hyphen,OK
+Reverse-Math,2026 UNOFFICIAL banner,required element,OK
+Reverse-Math,neutral disclaimer,required element,OK
+Reverse-Math,Cedar Audit link,required element,OK
+Reverse-Math,credit/ Related footer,required element,OK
+_Sidebar,Home,internal wiki page exists,OK
+_Sidebar,Reverse-Math,internal wiki page exists,OK
+_Sidebar,Locked-Arizona-Formula,internal wiki page exists,OK
+_Sidebar,Floor-and-Ceiling,internal wiki page exists,OK
+_Sidebar,Graphs,internal wiki page exists,OK
+_Sidebar,Arizona-County-PDF-Information,internal wiki page exists,OK
+_Sidebar,https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit,Cedar Audit exact URL with trailing hyphen,OK
+_Sidebar,2026 UNOFFICIAL banner,required element,OK
+_Sidebar,neutral disclaimer,required element,OK
+_Sidebar,Cedar Audit link,required element,OK
+README,https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit,Cedar Audit exact URL with trailing hyphen,OK
+README,https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki,external,OK
+README,https://github.com/mbenson8989/Arizona-Election-Analysis/wiki,external,OK
+README,https://raw.githubusercontent.com/mbenson8989/Arizona-Election-Analysis/main/Arizona_15_County_Democratic_Registration_and_Vote_Change.pdf,file present in repo/ (live after push),OK
+README,2026 UNOFFICIAL banner,required element,OK
+README,neutral disclaimer,required element,OK
+README,Cedar Audit link,required element,OK
+_Sidebar,reading order,"['Home', 'Reverse-Math', 'Locked-Arizona-Formula', 'Floor-and-Ceiling', 'Graphs', 'Arizona-County-PDF-Information']",OK

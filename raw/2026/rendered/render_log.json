@@ -1,0 +1,114 @@
+[
+ {
+  "url": "https://app.enhancedvoting.com/results/public/apache-county-az/elections/110326GeneralElection",
+  "file": "/workspace/az-clean/raw/2026/rendered/apache-county-az.txt",
+  "rendered_at": "2026-11-19T17:23:25-06:00",
+  "chars": 8700,
+  "sha256": "3ec7ea76d68ac61563250381072e7d4eb572e8ce1b4b94b0dd4f3a3b884e340f"
+ },
+ {
+  "url": "https://app.enhancedvoting.com/results/public/cochise-county-az/elections/110326GeneralElection",
+  "file": "/workspace/az-clean/raw/2026/rendered/cochise-county-az.txt",
+  "rendered_at": "2026-11-19T17:23:45-06:00",
+  "chars": 11497,
+  "sha256": "14aa0b5e43d84ff378044ce081b63f15c0028697cbd937b56a48728a43e5d4d8"
+ },
+ {
+  "url": "https://app.enhancedvoting.com/results/public/coconino-county-az/elections/110326GeneralElection",
+  "file": "/workspace/az-clean/raw/2026/rendered/coconino-county-az.txt",
+  "rendered_at": "2026-11-19T17:23:56-06:00",
+  "chars": 10769,
+  "sha256": "878753e3bc80820c03ffda6671b21ece26b596b2b41f9397eb26e659e8066f7d"
+ },
+ {
+  "url": "https://app.enhancedvoting.com/results/public/gila-county-az/elections/110326GeneralElection",
+  "file": "/workspace/az-clean/raw/2026/rendered/gila-county-az.txt",
+  "rendered_at": "2026-11-19T17:24:07-06:00",
+  "chars": 10696,
+  "sha256": "7db2afcbd8ecbd27f9460b8ed80d2d526b01b41a6991ca8ac7368e0d100534b5"
+ },
+ {
+  "url": "https://app.enhancedvoting.com/results/public/graham-county-az/elections/110326GeneralElection",
+  "file": "/workspace/az-clean/raw/2026/rendered/graham-county-az.txt",
+  "rendered_at": "2026-11-19T17:24:18-06:00",
+  "chars": 11506,
+  "sha256": "cdd2cc52e3e677aff56404eb7d16bc4b108b0cdb2cd64a639fdbcd4eae770c86"
+ },
+ {
+  "url": "https://app.enhancedvoting.com/results/public/greenlee-county-az/elections/110326GeneralElection",
+  "file": "/workspace/az-clean/raw/2026/rendered/greenlee-county-az.txt",
+  "rendered_at": "2026-11-19T17:24:29-06:00",
+  "chars": 9897,
+  "sha256": "559f3fb2fc7123a88b4dd35e5be8d61d8caa85dbc7f1d2ddce4a3214d6aa917f"
+ },
+ {
+  "url": "https://app.enhancedvoting.com/results/public/la-paz-county-az/elections/110326GeneralElection",
+  "file": "/workspace/az-clean/raw/2026/rendered/la-paz-county-az.txt",
+  "rendered_at": "2026-11-19T17:24:41-06:00",
+  "chars": 8543,
+  "sha256": "0c38bf081a77583b575e7dfd1186548a95e5d1614602d0255ead95122ecf44b4"
+ },
+ {
+  "url": "https://app.enhancedvoting.com/results/public/maricopa-county-az/elections/110326GeneralElection",
+  "file": "/workspace/az-clean/raw/2026/rendered/maricopa-county-az.txt",
+  "rendered_at": "2026-11-19T17:24:53-06:00",
+  "chars": 25176,
+  "sha256": "f608c37be3f5d764ba329304e0a4bd7f4ef67a353ff9adb70b4ee39b6f9dbf90"
+ },
+ {
+  "url": "https://app.enhancedvoting.com/results/public/mohave-county-az/elections/110326GeneralElection",
+  "file": "/workspace/az-clean/raw/2026/rendered/mohave-county-az.txt",
+  "rendered_at": "2026-11-19T17:25:04-06:00",
+  "chars": 10109,
+  "sha256": "5ce62def60243d2969a3c3eb3850593c8f1dd7e049f88cea8b9434d659e2568e"
+ },
+ {
+  "url": "https://app.enhancedvoting.com/results/public/navajo-county-az/elections/110326GeneralElection",
+  "file": "/workspace/az-clean/raw/2026/rendered/navajo-county-az.txt",
+  "rendered_at": "2026-11-19T17:25:15-06:00",
+  "chars": 9742,
+  "sha256": "9693fdb4d68b259177fa3dafb00daf0bd55822ed48afe7fe14f5f94d0245d631"
+ },
+ {
+  "url": "https://app.enhancedvoting.com/results/public/pima-county-az/elections/110326GeneralElection",
+  "file": "/workspace/az-clean/raw/2026/rendered/pima-county-az.txt",
+  "rendered_at": "2026-11-19T17:25:26-06:00",
+  "chars": 16439,
+  "sha256": "abd19dafc892538af121059c2eec428763c814f5928af2c5c72b56cbefd761e0"
+ },
+ {
+  "url": "https://app.enhancedvoting.com/results/public/pinal-county-az/elections/110326GeneralElection",
+  "file": "/workspace/az-clean/raw/2026/rendered/pinal-county-az.txt",
+  "rendered_at": "2026-11-19T17:25:38-06:00",
+  "chars": 17072,
+  "sha256": "58aa9259689de1c653a4275f28b5113aa498c6c4f5c239939fc5348ffda82660"
+ },
+ {
+  "url": "https://app.enhancedvoting.com/results/public/santa-cruz-county-az/elections/110326GeneralElection",
+  "file": "/workspace/az-clean/raw/2026/rendered/santa-cruz-county-az.txt",
+  "rendered_at": "2026-11-19T17:25:49-06:00",
+  "chars": 10790,
+  "sha256": "77a8e88c2fb5a2b4309214ecb08a1a6831456ecb5e5079b11bd41342c88efbd3"
+ },
+ {
+  "url": "https://app.enhancedvoting.com/results/public/yavapai-county-az/elections/110326GeneralElection",
+  "file": "/workspace/az-clean/raw/2026/rendered/yavapai-county-az.txt",
+  "rendered_at": "2026-11-19T17:26:00-06:00",
+  "chars": 9639,
+  "sha256": "d79baa0ddd23e5cc039fc14dd59d2535391776ca7464517c5f894ce37de2e745"
+ },
+ {
+  "url": "https://app.enhancedvoting.com/results/public/yuma-county-az/elections/110326GeneralElection",
+  "file": "/workspace/az-clean/raw/2026/rendered/yuma-county-az.txt",
+  "rendered_at": "2026-11-19T17:26:12-06:00",
+  "chars": 10190,
+  "sha256": "70a0a340d72f16f26ea91b1db6fbdfae139bb6a95d2498d64a45338b66f8e15a"
+ },
+ {
+  "url": "https://app.enhancedvoting.com/results/public/Arizona/elections/110326GeneralElection",
+  "file": "/workspace/az-clean/raw/2026/rendered/Arizona.txt",
+  "rendered_at": "2026-11-19T17:26:39-06:00",
+  "chars": 24890,
+  "sha256": "3947d942a43d38aa12fbe84928dbbac09e4f927462d6aea21344b2a42069d3ec"
+ }
+]

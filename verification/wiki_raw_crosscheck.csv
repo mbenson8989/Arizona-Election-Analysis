@@ -1,0 +1,1015 @@
+page,number_key,format,displayed,passA_recompute,passB_recompute,match
+Home,k|n_counties,n,15,15,15,MATCH
+Home,k|n_counties,n,15,15,15,MATCH
+Home,k|n_counties,n,15,15,15,MATCH
+Home,k|n_counties,n,15,15,15,MATCH
+Home,g|all|regdem_2022,n,"1,270,544","1,270,544","1,270,544",MATCH
+Home,g|all|regdem_2026,n,"1,239,489","1,239,489","1,239,489",MATCH
+Home,g|all|regdem_chg,sn,"−31,055","−31,055","−31,055",MATCH
+Home,g|all|regdem_chg_pct,sp1,−2.4%,−2.4%,−2.4%,MATCH
+Home,g|all|regact_2022,n,"4,143,929","4,143,929","4,143,929",MATCH
+Home,g|all|regact_2026,n,"4,374,827","4,374,827","4,374,827",MATCH
+Home,g|all|regact_chg,sn,"+230,898","+230,898","+230,898",MATCH
+Home,g|all|P22,p2,30.66%,30.66%,30.66%,MATCH
+Home,g|all|P26,p2,28.33%,28.33%,28.33%,MATCH
+Home,g|all|dP,s2,−2.33,−2.33,−2.33,MATCH
+Home,g|all|dem_2022,n,"1,287,891","1,287,891","1,287,891",MATCH
+Home,g|all|dem_2026,n,"1,434,824","1,434,824","1,434,824",MATCH
+Home,g|all|dem_chg,sn,"+146,933","+146,933","+146,933",MATCH
+Home,g|all|dem_chg_pct,sp1,+11.4%,+11.4%,+11.4%,MATCH
+Home,g|all|ballots_2022,n,"2,592,313","2,592,313","2,592,313",MATCH
+Home,g|all|ballots_2026,n,"2,608,919","2,608,919","2,608,919",MATCH
+Home,g|all|ballots_chg,sn,"+16,606","+16,606","+16,606",MATCH
+Home,g|all|ballots_chg_pct,sp1,+0.6%,+0.6%,+0.6%,MATCH
+Home,g|all|S22,p2,49.68%,49.68%,49.68%,MATCH
+Home,g|all|S26,p2,55.00%,55.00%,55.00%,MATCH
+Home,g|all|dS,s2,+5.32,+5.32,+5.32,MATCH
+Home,g|all|G22,s2,+19.02,+19.02,+19.02,MATCH
+Home,g|all|G26,s2,+26.66,+26.66,+26.66,MATCH
+Home,g|all|dG,s2,+7.64,+7.64,+7.64,MATCH
+Home,g|all|rep_2022,n,"1,270,774","1,270,774","1,270,774",MATCH
+Home,g|all|rep_2026,n,"1,094,393","1,094,393","1,094,393",MATCH
+Home,g|all|govtotal_2022,n,"2,559,485","2,559,485","2,559,485",MATCH
+Home,g|all|govtotal_2026,n,"2,579,147","2,579,147","2,579,147",MATCH
+Home,k|n_loss,n,14,14,14,MATCH
+Home,k|n_counties,n,15,15,15,MATCH
+Home,g|all|regdem_2022,n,"1,270,544","1,270,544","1,270,544",MATCH
+Home,g|all|regdem_2026,n,"1,239,489","1,239,489","1,239,489",MATCH
+Home,g|all|regact_chg,sn,"+230,898","+230,898","+230,898",MATCH
+Home,c|Pinal|regdem_chg,sn,+465,+465,+465,MATCH
+Home,k|n_P_fell,n,15,15,15,MATCH
+Home,c|Yavapai|dP,s2,−1.86,−1.86,−1.86,MATCH
+Home,c|Santa Cruz|dP,s2,−6.55,−6.55,−6.55,MATCH
+Home,k|n_S_rose,n,15,15,15,MATCH
+Home,c|Apache|dS,s2,+0.76,+0.76,+0.76,MATCH
+Home,c|Yuma|dS,s2,+8.89,+8.89,+8.89,MATCH
+Home,k|n_dem_votes_rose,n,13,13,13,MATCH
+Home,k|n_dem_votes_fell,n,2,2,2,MATCH
+Home,k|n_pos,n,15,15,15,MATCH
+Home,c|Yuma|dG,s2,+13.05,+13.05,+13.05,MATCH
+Home,c|Yavapai|dG,s2,+4.15,+4.15,+4.15,MATCH
+Home,k|median_dG,s2,+7.03,+7.03,+7.03,MATCH
+Home,g|all|dG,s2,+7.64,+7.64,+7.64,MATCH
+Home,g|all|implied,sn,"+137,207","+137,207","+137,207",MATCH
+Home,k|n_counties,n,15,15,15,MATCH
+Home,c|Maricopa|implied_extra_votes,sn,"+93,190","+93,190","+93,190",MATCH
+Home,k|maricopa_share_implied,p1,67.9%,67.9%,67.9%,MATCH
+Home,fit|dG_on_drop|b,f2,3.30,3.30,3.30,MATCH
+Home,fit|dG_on_drop|m,f2,1.29,1.29,1.29,MATCH
+Home,fit|dG_on_drop|r2,f2,0.47,0.47,0.47,MATCH
+Home,fit|dG_on_drop|n,n,15,15,15,MATCH
+Home,k|n_counties,n,15,15,15,MATCH
+Reverse-Math,k|n_counties,n,15,15,15,MATCH
+Reverse-Math,c|Maricopa|S22,p2,50.57%,50.57%,50.57%,MATCH
+Reverse-Math,c|Maricopa|dem_2022,n,"790,352","790,352","790,352",MATCH
+Reverse-Math,c|Maricopa|ballots_2022,n,"1,562,758","1,562,758","1,562,758",MATCH
+Reverse-Math,c|Maricopa|S26,p2,56.55%,56.55%,56.55%,MATCH
+Reverse-Math,c|Maricopa|dem_2026,n,"881,998","881,998","881,998",MATCH
+Reverse-Math,c|Maricopa|ballots_2026,n,"1,559,706","1,559,706","1,559,706",MATCH
+Reverse-Math,c|Maricopa|dS,s2,+5.97,+5.97,+5.97,MATCH
+Reverse-Math,c|Maricopa|P22,p2,30.05%,30.05%,30.05%,MATCH
+Reverse-Math,c|Maricopa|regdem_2022,n,"731,792","731,792","731,792",MATCH
+Reverse-Math,c|Maricopa|regact_2022,n,"2,435,397","2,435,397","2,435,397",MATCH
+Reverse-Math,c|Maricopa|P26,p2,28.11%,28.11%,28.11%,MATCH
+Reverse-Math,c|Maricopa|regdem_2026,n,"727,925","727,925","727,925",MATCH
+Reverse-Math,c|Maricopa|regact_2026,n,"2,589,827","2,589,827","2,589,827",MATCH
+Reverse-Math,c|Maricopa|dP,s2,−1.94,−1.94,−1.94,MATCH
+Reverse-Math,c|Maricopa|dG,s2,+7.92,+7.92,+7.92,MATCH
+Reverse-Math,c|Maricopa|residual,s2,+5.97,+5.97,+5.97,MATCH
+Reverse-Math,c|Maricopa|dem_2026,n,"881,998","881,998","881,998",MATCH
+Reverse-Math,c|Maricopa|S22,p2,50.57%,50.57%,50.57%,MATCH
+Reverse-Math,c|Maricopa|ballots_2026,n,"1,559,706","1,559,706","1,559,706",MATCH
+Reverse-Math,c|Maricopa|implied_extra_votes,sn,"+93,190","+93,190","+93,190",MATCH
+Reverse-Math,c|Maricopa|dem_2026,n,"881,998","881,998","881,998",MATCH
+Reverse-Math,c|Maricopa|dem_2022,n,"790,352","790,352","790,352",MATCH
+Reverse-Math,c|Maricopa|regdem_2026,n,"727,925","727,925","727,925",MATCH
+Reverse-Math,c|Maricopa|regdem_2022,n,"731,792","731,792","731,792",MATCH
+Reverse-Math,c|Maricopa|gap_reg_scaled,sn,"+95,822","+95,822","+95,822",MATCH
+Reverse-Math,c|Maricopa|pop2025,n,"4,689,558","4,689,558","4,689,558",MATCH
+Reverse-Math,k|maricopa_share_implied,p1,67.9%,67.9%,67.9%,MATCH
+Reverse-Math,c|Maricopa|regdem_chg,an,"3,867","3,867","3,867",MATCH
+Reverse-Math,c|Maricopa|regact_chg,n,"154,430","154,430","154,430",MATCH
+Reverse-Math,c|Maricopa|dP,a2,1.94,1.94,1.94,MATCH
+Reverse-Math,c|Maricopa|dS,f2,5.97,5.97,5.97,MATCH
+Reverse-Math,c|Maricopa|pop2025,n,"4,689,558","4,689,558","4,689,558",MATCH
+Reverse-Math,c|Maricopa|P22,p2,30.05%,30.05%,30.05%,MATCH
+Reverse-Math,c|Maricopa|P26,p2,28.11%,28.11%,28.11%,MATCH
+Reverse-Math,c|Maricopa|S22,p2,50.57%,50.57%,50.57%,MATCH
+Reverse-Math,c|Maricopa|S26,p2,56.55%,56.55%,56.55%,MATCH
+Reverse-Math,c|Maricopa|dS,s2,+5.97,+5.97,+5.97,MATCH
+Reverse-Math,c|Maricopa|dP,s2,−1.94,−1.94,−1.94,MATCH
+Reverse-Math,c|Maricopa|dG,s2,+7.92,+7.92,+7.92,MATCH
+Reverse-Math,c|Maricopa|implied_extra_votes,sn,"+93,190","+93,190","+93,190",MATCH
+Reverse-Math,c|Pima|pop2025,n,"1,074,685","1,074,685","1,074,685",MATCH
+Reverse-Math,c|Pima|P22,p2,39.07%,39.07%,39.07%,MATCH
+Reverse-Math,c|Pima|P26,p2,36.25%,36.25%,36.25%,MATCH
+Reverse-Math,c|Pima|S22,p2,59.82%,59.82%,59.82%,MATCH
+Reverse-Math,c|Pima|S26,p2,63.99%,63.99%,63.99%,MATCH
+Reverse-Math,c|Pima|dS,s2,+4.17,+4.17,+4.17,MATCH
+Reverse-Math,c|Pima|dP,s2,−2.83,−2.83,−2.83,MATCH
+Reverse-Math,c|Pima|dG,s2,+7.00,+7.00,+7.00,MATCH
+Reverse-Math,c|Pima|implied_extra_votes,sn,"+17,231","+17,231","+17,231",MATCH
+Reverse-Math,c|Pinal|pop2025,n,"539,380","539,380","539,380",MATCH
+Reverse-Math,c|Pinal|P22,p2,24.88%,24.88%,24.88%,MATCH
+Reverse-Math,c|Pinal|P26,p2,22.57%,22.57%,22.57%,MATCH
+Reverse-Math,c|Pinal|S22,p2,41.22%,41.22%,41.22%,MATCH
+Reverse-Math,c|Pinal|S26,p2,47.17%,47.17%,47.17%,MATCH
+Reverse-Math,c|Pinal|dS,s2,+5.95,+5.95,+5.95,MATCH
+Reverse-Math,c|Pinal|dP,s2,−2.31,−2.31,−2.31,MATCH
+Reverse-Math,c|Pinal|dG,s2,+8.26,+8.26,+8.26,MATCH
+Reverse-Math,c|Pinal|implied_extra_votes,sn,"+9,608","+9,608","+9,608",MATCH
+Reverse-Math,c|Yavapai|pop2025,n,"252,552","252,552","252,552",MATCH
+Reverse-Math,c|Yavapai|P22,p2,19.47%,19.47%,19.47%,MATCH
+Reverse-Math,c|Yavapai|P26,p2,17.61%,17.61%,17.61%,MATCH
+Reverse-Math,c|Yavapai|S22,p2,35.49%,35.49%,35.49%,MATCH
+Reverse-Math,c|Yavapai|S26,p2,37.78%,37.78%,37.78%,MATCH
+Reverse-Math,c|Yavapai|dS,s2,+2.29,+2.29,+2.29,MATCH
+Reverse-Math,c|Yavapai|dP,s2,−1.86,−1.86,−1.86,MATCH
+Reverse-Math,c|Yavapai|dG,s2,+4.15,+4.15,+4.15,MATCH
+Reverse-Math,c|Yavapai|implied_extra_votes,sn,"+2,791","+2,791","+2,791",MATCH
+Reverse-Math,c|Mohave|pop2025,n,"228,102","228,102","228,102",MATCH
+Reverse-Math,c|Mohave|P22,p2,14.02%,14.02%,14.02%,MATCH
+Reverse-Math,c|Mohave|P26,p2,11.81%,11.81%,11.81%,MATCH
+Reverse-Math,c|Mohave|S22,p2,24.61%,24.61%,24.61%,MATCH
+Reverse-Math,c|Mohave|S26,p2,26.75%,26.75%,26.75%,MATCH
+Reverse-Math,c|Mohave|dS,s2,+2.13,+2.13,+2.13,MATCH
+Reverse-Math,c|Mohave|dP,s2,−2.21,−2.21,−2.21,MATCH
+Reverse-Math,c|Mohave|dG,s2,+4.34,+4.34,+4.34,MATCH
+Reverse-Math,c|Mohave|implied_extra_votes,sn,"+1,704","+1,704","+1,704",MATCH
+Reverse-Math,c|Yuma|pop2025,n,"224,449","224,449","224,449",MATCH
+Reverse-Math,c|Yuma|P22,p2,30.52%,30.52%,30.52%,MATCH
+Reverse-Math,c|Yuma|P26,p2,26.36%,26.36%,26.36%,MATCH
+Reverse-Math,c|Yuma|S22,p2,42.84%,42.84%,42.84%,MATCH
+Reverse-Math,c|Yuma|S26,p2,51.73%,51.73%,51.73%,MATCH
+Reverse-Math,c|Yuma|dS,s2,+8.89,+8.89,+8.89,MATCH
+Reverse-Math,c|Yuma|dP,s2,−4.16,−4.16,−4.16,MATCH
+Reverse-Math,c|Yuma|dG,s2,+13.05,+13.05,+13.05,MATCH
+Reverse-Math,c|Yuma|implied_extra_votes,sn,"+4,324","+4,324","+4,324",MATCH
+Reverse-Math,g|big6|share_ballots26,p1,91.4%,91.4%,91.4%,MATCH
+Reverse-Math,c|Pinal|regdem_chg,n,465,465,465,MATCH
+Reverse-Math,k|n_counties,n,15,15,15,MATCH
+Reverse-Math,g|big6|n,n,6,6,6,MATCH
+Reverse-Math,g|big6|S22,p2,49.72%,49.72%,49.72%,MATCH
+Reverse-Math,g|big6|S26,p2,55.15%,55.15%,55.15%,MATCH
+Reverse-Math,g|big6|P22,p2,30.14%,30.14%,30.14%,MATCH
+Reverse-Math,g|big6|P26,p2,27.93%,27.93%,27.93%,MATCH
+Reverse-Math,g|big6|dS,s2,+5.43,+5.43,+5.43,MATCH
+Reverse-Math,g|big6|dP,s2,−2.21,−2.21,−2.21,MATCH
+Reverse-Math,g|big6|dG,s2,+7.64,+7.64,+7.64,MATCH
+Reverse-Math,g|big6|median_dG,s2,+7.46,+7.46,+7.46,MATCH
+Reverse-Math,g|big6|min_dG,s2,+4.15,+4.15,+4.15,MATCH
+Reverse-Math,g|big6|max_dG,s2,+13.05,+13.05,+13.05,MATCH
+Reverse-Math,g|big6|implied,sn,"+128,849","+128,849","+128,849",MATCH
+Reverse-Math,g|other|n,n,9,9,9,MATCH
+Reverse-Math,g|other|S22,p2,49.29%,49.29%,49.29%,MATCH
+Reverse-Math,g|other|S26,p2,53.39%,53.39%,53.39%,MATCH
+Reverse-Math,g|other|P22,p2,35.67%,35.67%,35.67%,MATCH
+Reverse-Math,g|other|P26,p2,32.30%,32.30%,32.30%,MATCH
+Reverse-Math,g|other|dS,s2,+4.10,+4.10,+4.10,MATCH
+Reverse-Math,g|other|dP,s2,−3.38,−3.38,−3.38,MATCH
+Reverse-Math,g|other|dG,s2,+7.47,+7.47,+7.47,MATCH
+Reverse-Math,g|other|median_dG,s2,+7.03,+7.03,+7.03,MATCH
+Reverse-Math,g|other|min_dG,s2,+4.18,+4.18,+4.18,MATCH
+Reverse-Math,g|other|max_dG,s2,+11.59,+11.59,+11.59,MATCH
+Reverse-Math,g|other|implied,sn,"+8,358","+8,358","+8,358",MATCH
+Reverse-Math,g|all|n,n,15,15,15,MATCH
+Reverse-Math,g|all|S22,p2,49.68%,49.68%,49.68%,MATCH
+Reverse-Math,g|all|S26,p2,55.00%,55.00%,55.00%,MATCH
+Reverse-Math,g|all|P22,p2,30.66%,30.66%,30.66%,MATCH
+Reverse-Math,g|all|P26,p2,28.33%,28.33%,28.33%,MATCH
+Reverse-Math,g|all|dS,s2,+5.32,+5.32,+5.32,MATCH
+Reverse-Math,g|all|dP,s2,−2.33,−2.33,−2.33,MATCH
+Reverse-Math,g|all|dG,s2,+7.64,+7.64,+7.64,MATCH
+Reverse-Math,g|all|median_dG,s2,+7.03,+7.03,+7.03,MATCH
+Reverse-Math,g|all|min_dG,s2,+4.15,+4.15,+4.15,MATCH
+Reverse-Math,g|all|max_dG,s2,+13.05,+13.05,+13.05,MATCH
+Reverse-Math,g|all|implied,sn,"+137,207","+137,207","+137,207",MATCH
+Reverse-Math,k|n_pos,n,15,15,15,MATCH
+Reverse-Math,k|n_counties,n,15,15,15,MATCH
+Reverse-Math,k|sd_dG,f2,2.69,2.69,2.69,MATCH
+Reverse-Math,k|mean_dG,s2,+7.55,+7.55,+7.55,MATCH
+Reverse-Math,k|size_dG_r,f2,−0.14,−0.14,−0.14,MATCH
+Reverse-Math,k|size_dG_p,f2,0.63,0.63,0.63,MATCH
+Reverse-Math,k|n_counties,n,15,15,15,MATCH
+Reverse-Math,k|spearman_rho,f2,−0.17,−0.17,−0.17,MATCH
+Reverse-Math,k|spearman_p,f2,0.54,0.54,0.54,MATCH
+Reverse-Math,k|size_dS_r,f2,0.22,0.22,0.22,MATCH
+Reverse-Math,k|size_dS_p,f2,0.42,0.42,0.42,MATCH
+Reverse-Math,k|size_dP_r,f2,0.57,0.57,0.57,MATCH
+Reverse-Math,k|size_dP_p,f2,0.03,0.03,0.03,MATCH
+Reverse-Math,g|all|dS,f2,5.32,5.32,5.32,MATCH
+Reverse-Math,g|all|ballots_2026,n,"2,608,919","2,608,919","2,608,919",MATCH
+Reverse-Math,g|all|implied_pooled,sn,"+138,683","+138,683","+138,683",MATCH
+Reverse-Math,g|all|implied,sn,"+137,207","+137,207","+137,207",MATCH
+Reverse-Math,k|n_loss,n,14,14,14,MATCH
+Reverse-Math,g|all|implied_loss,sn,"+127,599","+127,599","+127,599",MATCH
+Reverse-Math,g|all|gap_reg_scaled,sn,"+175,993","+175,993","+175,993",MATCH
+Reverse-Math,k|n_loss,n,14,14,14,MATCH
+Reverse-Math,c|Pinal|regdem_2022,n,"65,357","65,357","65,357",MATCH
+Reverse-Math,c|Pinal|regdem_2026,n,"65,822","65,822","65,822",MATCH
+Reverse-Math,k|median_residual,s2,+4.28,+4.28,+4.28,MATCH
+Reverse-Math,c|Maricopa|pop2025,n,"4,689,558","4,689,558","4,689,558",MATCH
+Reverse-Math,c|Maricopa|regdem_2022,n,"731,792","731,792","731,792",MATCH
+Reverse-Math,c|Maricopa|regdem_2026,n,"727,925","727,925","727,925",MATCH
+Reverse-Math,c|Maricopa|dP,s2,−1.94,−1.94,−1.94,MATCH
+Reverse-Math,c|Maricopa|dG,s2,+7.92,+7.92,+7.92,MATCH
+Reverse-Math,c|Maricopa|residual,s2,+5.97,+5.97,+5.97,MATCH
+Reverse-Math,c|Maricopa|implied_extra_votes,sn,"+93,190","+93,190","+93,190",MATCH
+Reverse-Math,c|Pima|pop2025,n,"1,074,685","1,074,685","1,074,685",MATCH
+Reverse-Math,c|Pima|regdem_2022,n,"250,018","250,018","250,018",MATCH
+Reverse-Math,c|Pima|regdem_2026,n,"238,460","238,460","238,460",MATCH
+Reverse-Math,c|Pima|dP,s2,−2.83,−2.83,−2.83,MATCH
+Reverse-Math,c|Pima|dG,s2,+7.00,+7.00,+7.00,MATCH
+Reverse-Math,c|Pima|residual,s2,+4.17,+4.17,+4.17,MATCH
+Reverse-Math,c|Pima|implied_extra_votes,sn,"+17,231","+17,231","+17,231",MATCH
+Reverse-Math,c|Yavapai|pop2025,n,"252,552","252,552","252,552",MATCH
+Reverse-Math,c|Yavapai|regdem_2022,n,"32,326","32,326","32,326",MATCH
+Reverse-Math,c|Yavapai|regdem_2026,n,"30,907","30,907","30,907",MATCH
+Reverse-Math,c|Yavapai|dP,s2,−1.86,−1.86,−1.86,MATCH
+Reverse-Math,c|Yavapai|dG,s2,+4.15,+4.15,+4.15,MATCH
+Reverse-Math,c|Yavapai|residual,s2,+2.29,+2.29,+2.29,MATCH
+Reverse-Math,c|Yavapai|implied_extra_votes,sn,"+2,791","+2,791","+2,791",MATCH
+Reverse-Math,c|Mohave|pop2025,n,"228,102","228,102","228,102",MATCH
+Reverse-Math,c|Mohave|regdem_2022,n,"20,603","20,603","20,603",MATCH
+Reverse-Math,c|Mohave|regdem_2026,n,"17,359","17,359","17,359",MATCH
+Reverse-Math,c|Mohave|dP,s2,−2.21,−2.21,−2.21,MATCH
+Reverse-Math,c|Mohave|dG,s2,+4.34,+4.34,+4.34,MATCH
+Reverse-Math,c|Mohave|residual,s2,+2.13,+2.13,+2.13,MATCH
+Reverse-Math,c|Mohave|implied_extra_votes,sn,"+1,704","+1,704","+1,704",MATCH
+Reverse-Math,c|Yuma|pop2025,n,"224,449","224,449","224,449",MATCH
+Reverse-Math,c|Yuma|regdem_2022,n,"32,090","32,090","32,090",MATCH
+Reverse-Math,c|Yuma|regdem_2026,n,"29,502","29,502","29,502",MATCH
+Reverse-Math,c|Yuma|dP,s2,−4.16,−4.16,−4.16,MATCH
+Reverse-Math,c|Yuma|dG,s2,+13.05,+13.05,+13.05,MATCH
+Reverse-Math,c|Yuma|residual,s2,+8.89,+8.89,+8.89,MATCH
+Reverse-Math,c|Yuma|implied_extra_votes,sn,"+4,324","+4,324","+4,324",MATCH
+Reverse-Math,c|Coconino|pop2025,n,"144,368","144,368","144,368",MATCH
+Reverse-Math,c|Coconino|regdem_2022,n,"36,569","36,569","36,569",MATCH
+Reverse-Math,c|Coconino|regdem_2026,n,"33,719","33,719","33,719",MATCH
+Reverse-Math,c|Coconino|dP,s2,−2.02,−2.02,−2.02,MATCH
+Reverse-Math,c|Coconino|dG,s2,+6.95,+6.95,+6.95,MATCH
+Reverse-Math,c|Coconino|residual,s2,+4.93,+4.93,+4.93,MATCH
+Reverse-Math,c|Coconino|implied_extra_votes,sn,"+2,767","+2,767","+2,767",MATCH
+Reverse-Math,c|Cochise|pop2025,n,"126,332","126,332","126,332",MATCH
+Reverse-Math,c|Cochise|regdem_2022,n,"19,423","19,423","19,423",MATCH
+Reverse-Math,c|Cochise|regdem_2026,n,"18,287","18,287","18,287",MATCH
+Reverse-Math,c|Cochise|dP,s2,−2.97,−2.97,−2.97,MATCH
+Reverse-Math,c|Cochise|dG,s2,+7.36,+7.36,+7.36,MATCH
+Reverse-Math,c|Cochise|residual,s2,+4.39,+4.39,+4.39,MATCH
+Reverse-Math,c|Cochise|implied_extra_votes,sn,"+2,057","+2,057","+2,057",MATCH
+Reverse-Math,c|Navajo|pop2025,n,"109,946","109,946","109,946",MATCH
+Reverse-Math,c|Navajo|regdem_2022,n,"24,144","24,144","24,144",MATCH
+Reverse-Math,c|Navajo|regdem_2026,n,"22,804","22,804","22,804",MATCH
+Reverse-Math,c|Navajo|dP,s2,−3.80,−3.80,−3.80,MATCH
+Reverse-Math,c|Navajo|dG,s2,+7.03,+7.03,+7.03,MATCH
+Reverse-Math,c|Navajo|residual,s2,+3.24,+3.24,+3.24,MATCH
+Reverse-Math,c|Navajo|implied_extra_votes,sn,"+1,309","+1,309","+1,309",MATCH
+Reverse-Math,c|Apache|pop2025,n,"64,445","64,445","64,445",MATCH
+Reverse-Math,c|Apache|regdem_2022,n,"27,625","27,625","27,625",MATCH
+Reverse-Math,c|Apache|regdem_2026,n,"26,498","26,498","26,498",MATCH
+Reverse-Math,c|Apache|dP,s2,−3.42,−3.42,−3.42,MATCH
+Reverse-Math,c|Apache|dG,s2,+4.18,+4.18,+4.18,MATCH
+Reverse-Math,c|Apache|residual,s2,+0.76,+0.76,+0.76,MATCH
+Reverse-Math,c|Apache|implied_extra_votes,sn,+208,+208,+208,MATCH
+Reverse-Math,c|Gila|pop2025,n,"53,801","53,801","53,801",MATCH
+Reverse-Math,c|Gila|regdem_2022,n,"8,431","8,431","8,431",MATCH
+Reverse-Math,c|Gila|regdem_2026,n,"7,396","7,396","7,396",MATCH
+Reverse-Math,c|Gila|dP,s2,−3.24,−3.24,−3.24,MATCH
+Reverse-Math,c|Gila|dG,s2,+5.64,+5.64,+5.64,MATCH
+Reverse-Math,c|Gila|residual,s2,+2.41,+2.41,+2.41,MATCH
+Reverse-Math,c|Gila|implied_extra_votes,sn,+509,+509,+509,MATCH
+Reverse-Math,c|Santa Cruz|pop2025,n,"50,020","50,020","50,020",MATCH
+Reverse-Math,c|Santa Cruz|regdem_2022,n,"14,022","14,022","14,022",MATCH
+Reverse-Math,c|Santa Cruz|regdem_2026,n,"13,671","13,671","13,671",MATCH
+Reverse-Math,c|Santa Cruz|dP,s2,−6.55,−6.55,−6.55,MATCH
+Reverse-Math,c|Santa Cruz|dG,s2,+11.18,+11.18,+11.18,MATCH
+Reverse-Math,c|Santa Cruz|residual,s2,+4.63,+4.63,+4.63,MATCH
+Reverse-Math,c|Santa Cruz|implied_extra_votes,sn,+659,+659,+659,MATCH
+Reverse-Math,c|Graham|pop2025,n,"40,157","40,157","40,157",MATCH
+Reverse-Math,c|Graham|regdem_2022,n,"4,542","4,542","4,542",MATCH
+Reverse-Math,c|Graham|regdem_2026,n,"4,139","4,139","4,139",MATCH
+Reverse-Math,c|Graham|dP,s2,−3.24,−3.24,−3.24,MATCH
+Reverse-Math,c|Graham|dG,s2,+8.48,+8.48,+8.48,MATCH
+Reverse-Math,c|Graham|residual,s2,+5.24,+5.24,+5.24,MATCH
+Reverse-Math,c|Graham|implied_extra_votes,sn,+552,+552,+552,MATCH
+Reverse-Math,c|La Paz|pop2025,n,"16,711","16,711","16,711",MATCH
+Reverse-Math,c|La Paz|regdem_2022,n,"2,150","2,150","2,150",MATCH
+Reverse-Math,c|La Paz|regdem_2026,n,"1,854","1,854","1,854",MATCH
+Reverse-Math,c|La Paz|dP,s2,−2.66,−2.66,−2.66,MATCH
+Reverse-Math,c|La Paz|dG,s2,+6.13,+6.13,+6.13,MATCH
+Reverse-Math,c|La Paz|residual,s2,+3.48,+3.48,+3.48,MATCH
+Reverse-Math,c|La Paz|implied_extra_votes,sn,+186,+186,+186,MATCH
+Reverse-Math,c|Greenlee|pop2025,n,"9,312","9,312","9,312",MATCH
+Reverse-Math,c|Greenlee|regdem_2022,n,"1,452","1,452","1,452",MATCH
+Reverse-Math,c|Greenlee|regdem_2026,n,"1,146","1,146","1,146",MATCH
+Reverse-Math,c|Greenlee|dP,s2,−6.25,−6.25,−6.25,MATCH
+Reverse-Math,c|Greenlee|dG,s2,+11.59,+11.59,+11.59,MATCH
+Reverse-Math,c|Greenlee|residual,s2,+5.34,+5.34,+5.34,MATCH
+Reverse-Math,c|Greenlee|implied_extra_votes,sn,+112,+112,+112,MATCH
+Reverse-Math,k|n_counties,n,15,15,15,MATCH
+Reverse-Math,c|Maricopa|pop2025,n,"4,689,558","4,689,558","4,689,558",MATCH
+Reverse-Math,c|Maricopa|dem_2022,n,"790,352","790,352","790,352",MATCH
+Reverse-Math,c|Maricopa|ballots_2022,n,"1,562,758","1,562,758","1,562,758",MATCH
+Reverse-Math,c|Maricopa|S22,f2,50.57,50.57,50.57,MATCH
+Reverse-Math,c|Maricopa|regdem_2022,n,"731,792","731,792","731,792",MATCH
+Reverse-Math,c|Maricopa|regact_2022,n,"2,435,397","2,435,397","2,435,397",MATCH
+Reverse-Math,c|Maricopa|P22,f2,30.05,30.05,30.05,MATCH
+Reverse-Math,c|Maricopa|dem_2026,n,"881,998","881,998","881,998",MATCH
+Reverse-Math,c|Maricopa|ballots_2026,n,"1,559,706","1,559,706","1,559,706",MATCH
+Reverse-Math,c|Maricopa|S26,f2,56.55,56.55,56.55,MATCH
+Reverse-Math,c|Maricopa|regdem_2026,n,"727,925","727,925","727,925",MATCH
+Reverse-Math,c|Maricopa|regact_2026,n,"2,589,827","2,589,827","2,589,827",MATCH
+Reverse-Math,c|Maricopa|P26,f2,28.11,28.11,28.11,MATCH
+Reverse-Math,c|Maricopa|dG,s2,+7.92,+7.92,+7.92,MATCH
+Reverse-Math,c|Maricopa|gap_reg_scaled,sn,"+95,822","+95,822","+95,822",MATCH
+Reverse-Math,c|Pima|pop2025,n,"1,074,685","1,074,685","1,074,685",MATCH
+Reverse-Math,c|Pima|dem_2022,n,"241,398","241,398","241,398",MATCH
+Reverse-Math,c|Pima|ballots_2022,n,"403,556","403,556","403,556",MATCH
+Reverse-Math,c|Pima|S22,f2,59.82,59.82,59.82,MATCH
+Reverse-Math,c|Pima|regdem_2022,n,"250,018","250,018","250,018",MATCH
+Reverse-Math,c|Pima|regact_2022,n,"639,885","639,885","639,885",MATCH
+Reverse-Math,c|Pima|P22,f2,39.07,39.07,39.07,MATCH
+Reverse-Math,c|Pima|dem_2026,n,"264,440","264,440","264,440",MATCH
+Reverse-Math,c|Pima|ballots_2026,n,"413,270","413,270","413,270",MATCH
+Reverse-Math,c|Pima|S26,f2,63.99,63.99,63.99,MATCH
+Reverse-Math,c|Pima|regdem_2026,n,"238,460","238,460","238,460",MATCH
+Reverse-Math,c|Pima|regact_2026,n,"657,885","657,885","657,885",MATCH
+Reverse-Math,c|Pima|P26,f2,36.25,36.25,36.25,MATCH
+Reverse-Math,c|Pima|dG,s2,+7.00,+7.00,+7.00,MATCH
+Reverse-Math,c|Pima|gap_reg_scaled,sn,"+34,202","+34,202","+34,202",MATCH
+Reverse-Math,c|Pinal|pop2025,n,"539,380","539,380","539,380",MATCH
+Reverse-Math,c|Pinal|dem_2022,n,"60,019","60,019","60,019",MATCH
+Reverse-Math,c|Pinal|ballots_2022,n,"145,600","145,600","145,600",MATCH
+Reverse-Math,c|Pinal|S22,f2,41.22,41.22,41.22,MATCH
+Reverse-Math,c|Pinal|regdem_2022,n,"65,357","65,357","65,357",MATCH
+Reverse-Math,c|Pinal|regact_2022,n,"262,694","262,694","262,694",MATCH
+Reverse-Math,c|Pinal|P22,f2,24.88,24.88,24.88,MATCH
+Reverse-Math,c|Pinal|dem_2026,n,"76,211","76,211","76,211",MATCH
+Reverse-Math,c|Pinal|ballots_2026,n,"161,571","161,571","161,571",MATCH
+Reverse-Math,c|Pinal|S26,f2,47.17,47.17,47.17,MATCH
+Reverse-Math,c|Pinal|regdem_2026,n,"65,822","65,822","65,822",MATCH
+Reverse-Math,c|Pinal|regact_2026,n,"291,682","291,682","291,682",MATCH
+Reverse-Math,c|Pinal|P26,f2,22.57,22.57,22.57,MATCH
+Reverse-Math,c|Pinal|dG,s2,+8.26,+8.26,+8.26,MATCH
+Reverse-Math,c|Pinal|gap_reg_scaled,sn,"+15,765","+15,765","+15,765",MATCH
+Reverse-Math,c|Yavapai|pop2025,n,"252,552","252,552","252,552",MATCH
+Reverse-Math,c|Yavapai|dem_2022,n,"44,316","44,316","44,316",MATCH
+Reverse-Math,c|Yavapai|ballots_2022,n,"124,871","124,871","124,871",MATCH
+Reverse-Math,c|Yavapai|S22,f2,35.49,35.49,35.49,MATCH
+Reverse-Math,c|Yavapai|regdem_2022,n,"32,326","32,326","32,326",MATCH
+Reverse-Math,c|Yavapai|regact_2022,n,"166,052","166,052","166,052",MATCH
+Reverse-Math,c|Yavapai|P22,f2,19.47,19.47,19.47,MATCH
+Reverse-Math,c|Yavapai|dem_2026,n,"46,024","46,024","46,024",MATCH
+Reverse-Math,c|Yavapai|ballots_2026,n,"121,818","121,818","121,818",MATCH
+Reverse-Math,c|Yavapai|S26,f2,37.78,37.78,37.78,MATCH
+Reverse-Math,c|Yavapai|regdem_2026,n,"30,907","30,907","30,907",MATCH
+Reverse-Math,c|Yavapai|regact_2026,n,"175,542","175,542","175,542",MATCH
+Reverse-Math,c|Yavapai|P26,f2,17.61,17.61,17.61,MATCH
+Reverse-Math,c|Yavapai|dG,s2,+4.15,+4.15,+4.15,MATCH
+Reverse-Math,c|Yavapai|gap_reg_scaled,sn,"+3,653","+3,653","+3,653",MATCH
+Reverse-Math,c|Mohave|pop2025,n,"228,102","228,102","228,102",MATCH
+Reverse-Math,c|Mohave|dem_2022,n,"20,369","20,369","20,369",MATCH
+Reverse-Math,c|Mohave|ballots_2022,n,"82,758","82,758","82,758",MATCH
+Reverse-Math,c|Mohave|S22,f2,24.61,24.61,24.61,MATCH
+Reverse-Math,c|Mohave|regdem_2022,n,"20,603","20,603","20,603",MATCH
+Reverse-Math,c|Mohave|regact_2022,n,"146,919","146,919","146,919",MATCH
+Reverse-Math,c|Mohave|P22,f2,14.02,14.02,14.02,MATCH
+Reverse-Math,c|Mohave|dem_2026,n,"21,355","21,355","21,355",MATCH
+Reverse-Math,c|Mohave|ballots_2026,n,"79,840","79,840","79,840",MATCH
+Reverse-Math,c|Mohave|S26,f2,26.75,26.75,26.75,MATCH
+Reverse-Math,c|Mohave|regdem_2026,n,"17,359","17,359","17,359",MATCH
+Reverse-Math,c|Mohave|regact_2026,n,"146,942","146,942","146,942",MATCH
+Reverse-Math,c|Mohave|P26,f2,11.81,11.81,11.81,MATCH
+Reverse-Math,c|Mohave|dG,s2,+4.34,+4.34,+4.34,MATCH
+Reverse-Math,c|Mohave|gap_reg_scaled,sn,"+4,193","+4,193","+4,193",MATCH
+Reverse-Math,c|Yuma|pop2025,n,"224,449","224,449","224,449",MATCH
+Reverse-Math,c|Yuma|dem_2022,n,"20,063","20,063","20,063",MATCH
+Reverse-Math,c|Yuma|ballots_2022,n,"46,830","46,830","46,830",MATCH
+Reverse-Math,c|Yuma|S22,f2,42.84,42.84,42.84,MATCH
+Reverse-Math,c|Yuma|regdem_2022,n,"32,090","32,090","32,090",MATCH
+Reverse-Math,c|Yuma|regact_2022,n,"105,133","105,133","105,133",MATCH
+Reverse-Math,c|Yuma|P22,f2,30.52,30.52,30.52,MATCH
+Reverse-Math,c|Yuma|dem_2026,n,"25,161","25,161","25,161",MATCH
+Reverse-Math,c|Yuma|ballots_2026,n,"48,636","48,636","48,636",MATCH
+Reverse-Math,c|Yuma|S26,f2,51.73,51.73,51.73,MATCH
+Reverse-Math,c|Yuma|regdem_2026,n,"29,502","29,502","29,502",MATCH
+Reverse-Math,c|Yuma|regact_2026,n,"111,922","111,922","111,922",MATCH
+Reverse-Math,c|Yuma|P26,f2,26.36,26.36,26.36,MATCH
+Reverse-Math,c|Yuma|dG,s2,+13.05,+13.05,+13.05,MATCH
+Reverse-Math,c|Yuma|gap_reg_scaled,sn,"+6,716","+6,716","+6,716",MATCH
+Reverse-Math,c|Coconino|pop2025,n,"144,368","144,368","144,368",MATCH
+Reverse-Math,c|Coconino|dem_2022,n,"34,389","34,389","34,389",MATCH
+Reverse-Math,c|Coconino|ballots_2022,n,"55,475","55,475","55,475",MATCH
+Reverse-Math,c|Coconino|S22,f2,61.99,61.99,61.99,MATCH
+Reverse-Math,c|Coconino|regdem_2022,n,"36,569","36,569","36,569",MATCH
+Reverse-Math,c|Coconino|regact_2022,n,"90,829","90,829","90,829",MATCH
+Reverse-Math,c|Coconino|P22,f2,40.26,40.26,40.26,MATCH
+Reverse-Math,c|Coconino|dem_2026,n,"37,569","37,569","37,569",MATCH
+Reverse-Math,c|Coconino|ballots_2026,n,"56,141","56,141","56,141",MATCH
+Reverse-Math,c|Coconino|S26,f2,66.92,66.92,66.92,MATCH
+Reverse-Math,c|Coconino|regdem_2026,n,"33,719","33,719","33,719",MATCH
+Reverse-Math,c|Coconino|regact_2026,n,"88,175","88,175","88,175",MATCH
+Reverse-Math,c|Coconino|P26,f2,38.24,38.24,38.24,MATCH
+Reverse-Math,c|Coconino|dG,s2,+6.95,+6.95,+6.95,MATCH
+Reverse-Math,c|Coconino|gap_reg_scaled,sn,"+5,860","+5,860","+5,860",MATCH
+Reverse-Math,c|Cochise|pop2025,n,"126,332","126,332","126,332",MATCH
+Reverse-Math,c|Cochise|dem_2022,n,"19,137","19,137","19,137",MATCH
+Reverse-Math,c|Cochise|ballots_2022,n,"47,284","47,284","47,284",MATCH
+Reverse-Math,c|Cochise|S22,f2,40.47,40.47,40.47,MATCH
+Reverse-Math,c|Cochise|regdem_2022,n,"19,423","19,423","19,423",MATCH
+Reverse-Math,c|Cochise|regact_2022,n,"77,394","77,394","77,394",MATCH
+Reverse-Math,c|Cochise|P22,f2,25.10,25.10,25.10,MATCH
+Reverse-Math,c|Cochise|dem_2026,n,"21,005","21,005","21,005",MATCH
+Reverse-Math,c|Cochise|ballots_2026,n,"46,817","46,817","46,817",MATCH
+Reverse-Math,c|Cochise|S26,f2,44.87,44.87,44.87,MATCH
+Reverse-Math,c|Cochise|regdem_2026,n,"18,287","18,287","18,287",MATCH
+Reverse-Math,c|Cochise|regact_2026,n,"82,634","82,634","82,634",MATCH
+Reverse-Math,c|Cochise|P26,f2,22.13,22.13,22.13,MATCH
+Reverse-Math,c|Cochise|dG,s2,+7.36,+7.36,+7.36,MATCH
+Reverse-Math,c|Cochise|gap_reg_scaled,sn,"+2,987","+2,987","+2,987",MATCH
+Reverse-Math,c|Navajo|pop2025,n,"109,946","109,946","109,946",MATCH
+Reverse-Math,c|Navajo|dem_2022,n,"18,058","18,058","18,058",MATCH
+Reverse-Math,c|Navajo|ballots_2022,n,"40,974","40,974","40,974",MATCH
+Reverse-Math,c|Navajo|S22,f2,44.07,44.07,44.07,MATCH
+Reverse-Math,c|Navajo|regdem_2022,n,"24,144","24,144","24,144",MATCH
+Reverse-Math,c|Navajo|regact_2022,n,"69,040","69,040","69,040",MATCH
+Reverse-Math,c|Navajo|P22,f2,34.97,34.97,34.97,MATCH
+Reverse-Math,c|Navajo|dem_2026,n,"19,138","19,138","19,138",MATCH
+Reverse-Math,c|Navajo|ballots_2026,n,"40,455","40,455","40,455",MATCH
+Reverse-Math,c|Navajo|S26,f2,47.31,47.31,47.31,MATCH
+Reverse-Math,c|Navajo|regdem_2026,n,"22,804","22,804","22,804",MATCH
+Reverse-Math,c|Navajo|regact_2026,n,"73,154","73,154","73,154",MATCH
+Reverse-Math,c|Navajo|P26,f2,31.17,31.17,31.17,MATCH
+Reverse-Math,c|Navajo|dG,s2,+7.03,+7.03,+7.03,MATCH
+Reverse-Math,c|Navajo|gap_reg_scaled,sn,"+2,082","+2,082","+2,082",MATCH
+Reverse-Math,c|Apache|pop2025,n,"64,445","64,445","64,445",MATCH
+Reverse-Math,c|Apache|dem_2022,n,"17,739","17,739","17,739",MATCH
+Reverse-Math,c|Apache|ballots_2022,n,"27,010","27,010","27,010",MATCH
+Reverse-Math,c|Apache|S22,f2,65.68,65.68,65.68,MATCH
+Reverse-Math,c|Apache|regdem_2022,n,"27,625","27,625","27,625",MATCH
+Reverse-Math,c|Apache|regact_2022,n,"51,981","51,981","51,981",MATCH
+Reverse-Math,c|Apache|P22,f2,53.14,53.14,53.14,MATCH
+Reverse-Math,c|Apache|dem_2026,n,"18,164","18,164","18,164",MATCH
+Reverse-Math,c|Apache|ballots_2026,n,"27,341","27,341","27,341",MATCH
+Reverse-Math,c|Apache|S26,f2,66.44,66.44,66.44,MATCH
+Reverse-Math,c|Apache|regdem_2026,n,"26,498","26,498","26,498",MATCH
+Reverse-Math,c|Apache|regact_2026,n,"53,295","53,295","53,295",MATCH
+Reverse-Math,c|Apache|P26,f2,49.72,49.72,49.72,MATCH
+Reverse-Math,c|Apache|dG,s2,+4.18,+4.18,+4.18,MATCH
+Reverse-Math,c|Apache|gap_reg_scaled,sn,"+1,149","+1,149","+1,149",MATCH
+Reverse-Math,c|Gila|pop2025,n,"53,801","53,801","53,801",MATCH
+Reverse-Math,c|Gila|dem_2022,n,"7,674","7,674","7,674",MATCH
+Reverse-Math,c|Gila|ballots_2022,n,"22,802","22,802","22,802",MATCH
+Reverse-Math,c|Gila|S22,f2,33.65,33.65,33.65,MATCH
+Reverse-Math,c|Gila|regdem_2022,n,"8,431","8,431","8,431",MATCH
+Reverse-Math,c|Gila|regact_2022,n,"33,949","33,949","33,949",MATCH
+Reverse-Math,c|Gila|P22,f2,24.83,24.83,24.83,MATCH
+Reverse-Math,c|Gila|dem_2026,n,"7,620","7,620","7,620",MATCH
+Reverse-Math,c|Gila|ballots_2026,n,"21,130","21,130","21,130",MATCH
+Reverse-Math,c|Gila|S26,f2,36.06,36.06,36.06,MATCH
+Reverse-Math,c|Gila|regdem_2026,n,"7,396","7,396","7,396",MATCH
+Reverse-Math,c|Gila|regact_2026,n,"34,245","34,245","34,245",MATCH
+Reverse-Math,c|Gila|P26,f2,21.60,21.60,21.60,MATCH
+Reverse-Math,c|Gila|dG,s2,+5.64,+5.64,+5.64,MATCH
+Reverse-Math,c|Gila|gap_reg_scaled,sn,+888,+888,+888,MATCH
+Reverse-Math,c|Santa Cruz|pop2025,n,"50,020","50,020","50,020",MATCH
+Reverse-Math,c|Santa Cruz|dem_2022,n,"8,724","8,724","8,724",MATCH
+Reverse-Math,c|Santa Cruz|ballots_2022,n,"13,308","13,308","13,308",MATCH
+Reverse-Math,c|Santa Cruz|S22,f2,65.55,65.55,65.55,MATCH
+Reverse-Math,c|Santa Cruz|regdem_2022,n,"14,022","14,022","14,022",MATCH
+Reverse-Math,c|Santa Cruz|regact_2022,n,"29,189","29,189","29,189",MATCH
+Reverse-Math,c|Santa Cruz|P22,f2,48.04,48.04,48.04,MATCH
+Reverse-Math,c|Santa Cruz|dem_2026,n,"9,993","9,993","9,993",MATCH
+Reverse-Math,c|Santa Cruz|ballots_2026,n,"14,238","14,238","14,238",MATCH
+Reverse-Math,c|Santa Cruz|S26,f2,70.19,70.19,70.19,MATCH
+Reverse-Math,c|Santa Cruz|regdem_2026,n,"13,671","13,671","13,671",MATCH
+Reverse-Math,c|Santa Cruz|regact_2026,n,"32,952","32,952","32,952",MATCH
+Reverse-Math,c|Santa Cruz|P26,f2,41.49,41.49,41.49,MATCH
+Reverse-Math,c|Santa Cruz|dG,s2,+11.18,+11.18,+11.18,MATCH
+Reverse-Math,c|Santa Cruz|gap_reg_scaled,sn,"+1,487","+1,487","+1,487",MATCH
+Reverse-Math,c|Graham|pop2025,n,"40,157","40,157","40,157",MATCH
+Reverse-Math,c|Graham|dem_2022,n,"3,087","3,087","3,087",MATCH
+Reverse-Math,c|Graham|ballots_2022,n,"11,006","11,006","11,006",MATCH
+Reverse-Math,c|Graham|S22,f2,28.05,28.05,28.05,MATCH
+Reverse-Math,c|Graham|regdem_2022,n,"4,542","4,542","4,542",MATCH
+Reverse-Math,c|Graham|regact_2022,n,"19,487","19,487","19,487",MATCH
+Reverse-Math,c|Graham|P22,f2,23.31,23.31,23.31,MATCH
+Reverse-Math,c|Graham|dem_2026,n,"3,504","3,504","3,504",MATCH
+Reverse-Math,c|Graham|ballots_2026,n,"10,525","10,525","10,525",MATCH
+Reverse-Math,c|Graham|S26,f2,33.29,33.29,33.29,MATCH
+Reverse-Math,c|Graham|regdem_2026,n,"4,139","4,139","4,139",MATCH
+Reverse-Math,c|Graham|regact_2026,n,"20,623","20,623","20,623",MATCH
+Reverse-Math,c|Graham|P26,f2,20.07,20.07,20.07,MATCH
+Reverse-Math,c|Graham|dG,s2,+8.48,+8.48,+8.48,MATCH
+Reverse-Math,c|Graham|gap_reg_scaled,sn,+691,+691,+691,MATCH
+Reverse-Math,c|La Paz|pop2025,n,"16,711","16,711","16,711",MATCH
+Reverse-Math,c|La Paz|dem_2022,n,"1,646","1,646","1,646",MATCH
+Reverse-Math,c|La Paz|ballots_2022,n,"5,594","5,594","5,594",MATCH
+Reverse-Math,c|La Paz|S22,f2,29.42,29.42,29.42,MATCH
+Reverse-Math,c|La Paz|regdem_2022,n,"2,150","2,150","2,150",MATCH
+Reverse-Math,c|La Paz|regact_2022,n,"11,311","11,311","11,311",MATCH
+Reverse-Math,c|La Paz|P22,f2,19.01,19.01,19.01,MATCH
+Reverse-Math,c|La Paz|dem_2026,n,"1,758","1,758","1,758",MATCH
+Reverse-Math,c|La Paz|ballots_2026,n,"5,343","5,343","5,343",MATCH
+Reverse-Math,c|La Paz|S26,f2,32.90,32.90,32.90,MATCH
+Reverse-Math,c|La Paz|regdem_2026,n,"1,854","1,854","1,854",MATCH
+Reverse-Math,c|La Paz|regact_2026,n,"11,338","11,338","11,338",MATCH
+Reverse-Math,c|La Paz|P26,f2,16.35,16.35,16.35,MATCH
+Reverse-Math,c|La Paz|dG,s2,+6.13,+6.13,+6.13,MATCH
+Reverse-Math,c|La Paz|gap_reg_scaled,sn,+339,+339,+339,MATCH
+Reverse-Math,c|Greenlee|pop2025,n,"9,312","9,312","9,312",MATCH
+Reverse-Math,c|Greenlee|dem_2022,n,920,920,920,MATCH
+Reverse-Math,c|Greenlee|ballots_2022,n,"2,487","2,487","2,487",MATCH
+Reverse-Math,c|Greenlee|S22,f2,36.99,36.99,36.99,MATCH
+Reverse-Math,c|Greenlee|regdem_2022,n,"1,452","1,452","1,452",MATCH
+Reverse-Math,c|Greenlee|regact_2022,n,"4,669","4,669","4,669",MATCH
+Reverse-Math,c|Greenlee|P22,f2,31.10,31.10,31.10,MATCH
+Reverse-Math,c|Greenlee|dem_2026,n,884,884,884,MATCH
+Reverse-Math,c|Greenlee|ballots_2026,n,"2,088","2,088","2,088",MATCH
+Reverse-Math,c|Greenlee|S26,f2,42.34,42.34,42.34,MATCH
+Reverse-Math,c|Greenlee|regdem_2026,n,"1,146","1,146","1,146",MATCH
+Reverse-Math,c|Greenlee|regact_2026,n,"4,611","4,611","4,611",MATCH
+Reverse-Math,c|Greenlee|P26,f2,24.85,24.85,24.85,MATCH
+Reverse-Math,c|Greenlee|dG,s2,+11.59,+11.59,+11.59,MATCH
+Reverse-Math,c|Greenlee|gap_reg_scaled,sn,+158,+158,+158,MATCH
+Locked-Arizona-Formula,k|n_counties,n,15,15,15,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|b,s2,+3.30,+3.30,+3.30,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|m,f2,1.29,1.29,1.29,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|b,s4,+3.3019,+3.3019,+3.3019,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|m,f4,1.2892,1.2892,1.2892,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|b,s2,+3.30,+3.30,+3.30,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|b,s4,+3.3019,+3.3019,+3.3019,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|b_ci_lo,f2,0.38,0.38,0.38,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|b_ci_hi,f2,6.22,6.22,6.22,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|m,f2,1.29,1.29,1.29,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|m,f4,1.2892,1.2892,1.2892,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|m_ci_lo,f2,0.47,0.47,0.47,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|m_ci_hi,f2,2.11,2.11,2.11,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|b_se,f2,1.35,1.35,1.35,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|b_se,f4,1.3510,1.3510,1.3510,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|m_se,f2,0.38,0.38,0.38,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|m_se,f4,0.3779,0.3779,0.3779,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|r2,f2,0.47,0.47,0.47,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|r2,f4,0.4724,0.4724,0.4724,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|m_p,f3,0.005,0.005,0.005,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|resid_se,f2,2.03,2.03,2.03,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|n,n,15,15,15,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|n,n,15,15,15,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|m,f2,1.29,1.29,1.29,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|b,s2,+3.30,+3.30,+3.30,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|r2pct,p0,47%,47%,47%,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|n,n,15,15,15,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|m_se,f2,0.38,0.38,0.38,MATCH
+Locked-Arizona-Formula,g|all|dP,a2,2.33,2.33,2.33,MATCH
+Locked-Arizona-Formula,g|all|pred_dG,s2,+6.30,+6.30,+6.30,MATCH
+Locked-Arizona-Formula,g|all|dG,s2,+7.64,+7.64,+7.64,MATCH
+Locked-Arizona-Formula,c|Maricopa|P22,f2,30.05,30.05,30.05,MATCH
+Locked-Arizona-Formula,c|Maricopa|P26,f2,28.11,28.11,28.11,MATCH
+Locked-Arizona-Formula,c|Maricopa|regdrop,f4,1.9411,1.9411,1.9411,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|b,s4,+3.3019,+3.3019,+3.3019,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|m,f4,1.2892,1.2892,1.2892,MATCH
+Locked-Arizona-Formula,c|Maricopa|regdrop,f4,1.9411,1.9411,1.9411,MATCH
+Locked-Arizona-Formula,c|Maricopa|fit_dG,s2,+5.80,+5.80,+5.80,MATCH
+Locked-Arizona-Formula,c|Maricopa|dG,s2,+7.92,+7.92,+7.92,MATCH
+Locked-Arizona-Formula,c|Maricopa|res_dG,s2,+2.11,+2.11,+2.11,MATCH
+Locked-Arizona-Formula,c|Maricopa|residual,s2,+5.97,+5.97,+5.97,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|b,s2,+3.30,+3.30,+3.30,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|b_se,f2,1.35,1.35,1.35,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|m,f2,1.29,1.29,1.29,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|m_se,f2,0.38,0.38,0.38,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|r2,f2,0.47,0.47,0.47,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|n,n,15,15,15,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop_wtd|b,s2,+6.43,+6.43,+6.43,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop_wtd|b_se,f2,1.40,1.40,1.40,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop_wtd|m,f2,0.48,0.48,0.48,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop_wtd|m_se,f2,0.60,0.60,0.60,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop_wtd|r2,f2,0.05,0.05,0.05,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop_wtd|n,n,15,15,15,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop_narrowed|b,s2,+3.46,+3.46,+3.46,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop_narrowed|b_se,f2,1.09,1.09,1.09,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop_narrowed|m,f2,1.14,1.14,1.14,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop_narrowed|m_se,f2,0.31,0.31,0.31,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop_narrowed|r2,f2,0.53,0.53,0.53,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop_narrowed|n,n,14,14,14,MATCH
+Locked-Arizona-Formula,c|Maricopa|dG,s2,+7.92,+7.92,+7.92,MATCH
+Locked-Arizona-Formula,c|Maricopa|regdrop,f2,1.94,1.94,1.94,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop_wtd|m_p,f2,0.44,0.44,0.44,MATCH
+Locked-Arizona-Formula,fit|G22_on_P22|b,s2,+8.38,+8.38,+8.38,MATCH
+Locked-Arizona-Formula,fit|G22_on_P22|b_se,f2,4.10,4.10,4.10,MATCH
+Locked-Arizona-Formula,fit|G22_on_P22|m,f3,0.168,0.168,0.168,MATCH
+Locked-Arizona-Formula,fit|G22_on_P22|m_se,f3,0.127,0.127,0.127,MATCH
+Locked-Arizona-Formula,fit|G22_on_P22|r2,f2,0.12,0.12,0.12,MATCH
+Locked-Arizona-Formula,fit|G22_on_P22|n,n,15,15,15,MATCH
+Locked-Arizona-Formula,fit|G26_on_P26|b,s2,+14.46,+14.46,+14.46,MATCH
+Locked-Arizona-Formula,fit|G26_on_P26|b_se,f2,4.03,4.03,4.03,MATCH
+Locked-Arizona-Formula,fit|G26_on_P26|m,f3,0.243,0.243,0.243,MATCH
+Locked-Arizona-Formula,fit|G26_on_P26|m_se,f3,0.139,0.139,0.139,MATCH
+Locked-Arizona-Formula,fit|G26_on_P26|r2,f2,0.19,0.19,0.19,MATCH
+Locked-Arizona-Formula,fit|G26_on_P26|n,n,15,15,15,MATCH
+Locked-Arizona-Formula,fit|G22_on_P22|m_p,f2,0.21,0.21,0.21,MATCH
+Locked-Arizona-Formula,fit|G26_on_P26|m_p,f2,0.10,0.10,0.10,MATCH
+Locked-Arizona-Formula,k|yi_d_intercept,f2,6.08,6.08,6.08,MATCH
+Locked-Arizona-Formula,k|yi_p_d_intercept,f2,0.30,0.30,0.30,MATCH
+Locked-Arizona-Formula,k|yi_d_slope,f3,0.074,0.074,0.074,MATCH
+Locked-Arizona-Formula,k|yi_p_d_slope,f2,0.70,0.70,0.70,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|b,s4,+3.3019,+3.3019,+3.3019,MATCH
+Locked-Arizona-Formula,fit|dG_on_drop|m,f4,1.2892,1.2892,1.2892,MATCH
+Locked-Arizona-Formula,c|Yuma|dem_2022,n,"20,063","20,063","20,063",MATCH
+Locked-Arizona-Formula,c|Yuma|dem_2026,n,"25,161","25,161","25,161",MATCH
+Locked-Arizona-Formula,c|Yuma|ballots_2022,n,"46,830","46,830","46,830",MATCH
+Locked-Arizona-Formula,c|Yuma|ballots_2026,n,"48,636","48,636","48,636",MATCH
+Locked-Arizona-Formula,c|Yuma|S22,p2,42.84%,42.84%,42.84%,MATCH
+Locked-Arizona-Formula,c|Yuma|S26,p2,51.73%,51.73%,51.73%,MATCH
+Locked-Arizona-Formula,c|Yuma|regdem_2022,n,"32,090","32,090","32,090",MATCH
+Locked-Arizona-Formula,c|Yuma|regdem_2026,n,"29,502","29,502","29,502",MATCH
+Locked-Arizona-Formula,c|Yuma|regact_2022,n,"105,133","105,133","105,133",MATCH
+Locked-Arizona-Formula,c|Yuma|regact_2026,n,"111,922","111,922","111,922",MATCH
+Locked-Arizona-Formula,c|Yuma|P22,p2,30.52%,30.52%,30.52%,MATCH
+Locked-Arizona-Formula,c|Yuma|P26,p2,26.36%,26.36%,26.36%,MATCH
+Locked-Arizona-Formula,c|Yuma|G22,s2,+12.32,+12.32,+12.32,MATCH
+Locked-Arizona-Formula,c|Yuma|G26,s2,+25.37,+25.37,+25.37,MATCH
+Locked-Arizona-Formula,c|Yuma|dG,s2,+13.05,+13.05,+13.05,MATCH
+Locked-Arizona-Formula,c|Yuma|regdrop,f2,4.16,4.16,4.16,MATCH
+Locked-Arizona-Formula,c|Yuma|residual,s2,+8.89,+8.89,+8.89,MATCH
+Locked-Arizona-Formula,c|Yuma|implied_extra_votes,sn,"+4,324","+4,324","+4,324",MATCH
+Locked-Arizona-Formula,c|Yuma|fit_dG,s2,+8.67,+8.67,+8.67,MATCH
+Locked-Arizona-Formula,c|Yuma|res_dG,s2,+4.38,+4.38,+4.38,MATCH
+Locked-Arizona-Formula,c|Maricopa|regdrop,f2,1.94,1.94,1.94,MATCH
+Locked-Arizona-Formula,c|Maricopa|dG,s2,+7.92,+7.92,+7.92,MATCH
+Locked-Arizona-Formula,c|Maricopa|fit_dG,s2,+5.80,+5.80,+5.80,MATCH
+Locked-Arizona-Formula,c|Maricopa|res_dG,s2,+2.11,+2.11,+2.11,MATCH
+Locked-Arizona-Formula,c|Pima|regdrop,f2,2.83,2.83,2.83,MATCH
+Locked-Arizona-Formula,c|Pima|dG,s2,+7.00,+7.00,+7.00,MATCH
+Locked-Arizona-Formula,c|Pima|fit_dG,s2,+6.95,+6.95,+6.95,MATCH
+Locked-Arizona-Formula,c|Pima|res_dG,s2,+0.05,+0.05,+0.05,MATCH
+Locked-Arizona-Formula,c|Pinal|regdrop,f2,2.31,2.31,2.31,MATCH
+Locked-Arizona-Formula,c|Pinal|dG,s2,+8.26,+8.26,+8.26,MATCH
+Locked-Arizona-Formula,c|Pinal|fit_dG,s2,+6.28,+6.28,+6.28,MATCH
+Locked-Arizona-Formula,c|Pinal|res_dG,s2,+1.98,+1.98,+1.98,MATCH
+Locked-Arizona-Formula,c|Yavapai|regdrop,f2,1.86,1.86,1.86,MATCH
+Locked-Arizona-Formula,c|Yavapai|dG,s2,+4.15,+4.15,+4.15,MATCH
+Locked-Arizona-Formula,c|Yavapai|fit_dG,s2,+5.70,+5.70,+5.70,MATCH
+Locked-Arizona-Formula,c|Yavapai|res_dG,s2,−1.55,−1.55,−1.55,MATCH
+Locked-Arizona-Formula,c|Mohave|regdrop,f2,2.21,2.21,2.21,MATCH
+Locked-Arizona-Formula,c|Mohave|dG,s2,+4.34,+4.34,+4.34,MATCH
+Locked-Arizona-Formula,c|Mohave|fit_dG,s2,+6.15,+6.15,+6.15,MATCH
+Locked-Arizona-Formula,c|Mohave|res_dG,s2,−1.81,−1.81,−1.81,MATCH
+Locked-Arizona-Formula,c|Yuma|regdrop,f2,4.16,4.16,4.16,MATCH
+Locked-Arizona-Formula,c|Yuma|dG,s2,+13.05,+13.05,+13.05,MATCH
+Locked-Arizona-Formula,c|Yuma|fit_dG,s2,+8.67,+8.67,+8.67,MATCH
+Locked-Arizona-Formula,c|Yuma|res_dG,s2,+4.38,+4.38,+4.38,MATCH
+Locked-Arizona-Formula,c|Coconino|regdrop,f2,2.02,2.02,2.02,MATCH
+Locked-Arizona-Formula,c|Coconino|dG,s2,+6.95,+6.95,+6.95,MATCH
+Locked-Arizona-Formula,c|Coconino|fit_dG,s2,+5.91,+5.91,+5.91,MATCH
+Locked-Arizona-Formula,c|Coconino|res_dG,s2,+1.04,+1.04,+1.04,MATCH
+Locked-Arizona-Formula,c|Cochise|regdrop,f2,2.97,2.97,2.97,MATCH
+Locked-Arizona-Formula,c|Cochise|dG,s2,+7.36,+7.36,+7.36,MATCH
+Locked-Arizona-Formula,c|Cochise|fit_dG,s2,+7.13,+7.13,+7.13,MATCH
+Locked-Arizona-Formula,c|Cochise|res_dG,s2,+0.23,+0.23,+0.23,MATCH
+Locked-Arizona-Formula,c|Navajo|regdrop,f2,3.80,3.80,3.80,MATCH
+Locked-Arizona-Formula,c|Navajo|dG,s2,+7.03,+7.03,+7.03,MATCH
+Locked-Arizona-Formula,c|Navajo|fit_dG,s2,+8.20,+8.20,+8.20,MATCH
+Locked-Arizona-Formula,c|Navajo|res_dG,s2,−1.17,−1.17,−1.17,MATCH
+Locked-Arizona-Formula,c|Apache|regdrop,f2,3.42,3.42,3.42,MATCH
+Locked-Arizona-Formula,c|Apache|dG,s2,+4.18,+4.18,+4.18,MATCH
+Locked-Arizona-Formula,c|Apache|fit_dG,s2,+7.72,+7.72,+7.72,MATCH
+Locked-Arizona-Formula,c|Apache|res_dG,s2,−3.53,−3.53,−3.53,MATCH
+Locked-Arizona-Formula,c|Gila|regdrop,f2,3.24,3.24,3.24,MATCH
+Locked-Arizona-Formula,c|Gila|dG,s2,+5.64,+5.64,+5.64,MATCH
+Locked-Arizona-Formula,c|Gila|fit_dG,s2,+7.48,+7.48,+7.48,MATCH
+Locked-Arizona-Formula,c|Gila|res_dG,s2,−1.83,−1.83,−1.83,MATCH
+Locked-Arizona-Formula,c|Santa Cruz|regdrop,f2,6.55,6.55,6.55,MATCH
+Locked-Arizona-Formula,c|Santa Cruz|dG,s2,+11.18,+11.18,+11.18,MATCH
+Locked-Arizona-Formula,c|Santa Cruz|fit_dG,s2,+11.75,+11.75,+11.75,MATCH
+Locked-Arizona-Formula,c|Santa Cruz|res_dG,s2,−0.57,−0.57,−0.57,MATCH
+Locked-Arizona-Formula,c|Graham|regdrop,f2,3.24,3.24,3.24,MATCH
+Locked-Arizona-Formula,c|Graham|dG,s2,+8.48,+8.48,+8.48,MATCH
+Locked-Arizona-Formula,c|Graham|fit_dG,s2,+7.48,+7.48,+7.48,MATCH
+Locked-Arizona-Formula,c|Graham|res_dG,s2,+1.01,+1.01,+1.01,MATCH
+Locked-Arizona-Formula,c|La Paz|regdrop,f2,2.66,2.66,2.66,MATCH
+Locked-Arizona-Formula,c|La Paz|dG,s2,+6.13,+6.13,+6.13,MATCH
+Locked-Arizona-Formula,c|La Paz|fit_dG,s2,+6.73,+6.73,+6.73,MATCH
+Locked-Arizona-Formula,c|La Paz|res_dG,s2,−0.59,−0.59,−0.59,MATCH
+Locked-Arizona-Formula,c|Greenlee|regdrop,f2,6.25,6.25,6.25,MATCH
+Locked-Arizona-Formula,c|Greenlee|dG,s2,+11.59,+11.59,+11.59,MATCH
+Locked-Arizona-Formula,c|Greenlee|fit_dG,s2,+11.35,+11.35,+11.35,MATCH
+Locked-Arizona-Formula,c|Greenlee|res_dG,s2,+0.24,+0.24,+0.24,MATCH
+Floor-and-Ceiling,k|n_counties,n,15,15,15,MATCH
+Floor-and-Ceiling,c|Yuma|dG,s2,+13.05,+13.05,+13.05,MATCH
+Floor-and-Ceiling,c|Yuma|dS,f2,8.89,8.89,8.89,MATCH
+Floor-and-Ceiling,c|Yuma|dP,a2,4.16,4.16,4.16,MATCH
+Floor-and-Ceiling,c|Yavapai|dG,s2,+4.15,+4.15,+4.15,MATCH
+Floor-and-Ceiling,c|Yavapai|dS,f2,2.29,2.29,2.29,MATCH
+Floor-and-Ceiling,c|Yavapai|dP,a2,1.86,1.86,1.86,MATCH
+Floor-and-Ceiling,c|Yuma|dG,s2,+13.05,+13.05,+13.05,MATCH
+Floor-and-Ceiling,c|Greenlee|dG,s2,+11.59,+11.59,+11.59,MATCH
+Floor-and-Ceiling,c|Santa Cruz|dG,s2,+11.18,+11.18,+11.18,MATCH
+Floor-and-Ceiling,c|Graham|dG,s2,+8.48,+8.48,+8.48,MATCH
+Floor-and-Ceiling,c|Pinal|dG,s2,+8.26,+8.26,+8.26,MATCH
+Floor-and-Ceiling,c|Yuma|dS,s2,+8.89,+8.89,+8.89,MATCH
+Floor-and-Ceiling,c|Greenlee|dS,s2,+5.34,+5.34,+5.34,MATCH
+Floor-and-Ceiling,c|Santa Cruz|dS,s2,+4.63,+4.63,+4.63,MATCH
+Floor-and-Ceiling,c|Graham|dS,s2,+5.24,+5.24,+5.24,MATCH
+Floor-and-Ceiling,c|Pinal|dS,s2,+5.95,+5.95,+5.95,MATCH
+Floor-and-Ceiling,c|Yuma|dP,s2,−4.16,−4.16,−4.16,MATCH
+Floor-and-Ceiling,c|Greenlee|dP,s2,−6.25,−6.25,−6.25,MATCH
+Floor-and-Ceiling,c|Santa Cruz|dP,s2,−6.55,−6.55,−6.55,MATCH
+Floor-and-Ceiling,c|Graham|dP,s2,−3.24,−3.24,−3.24,MATCH
+Floor-and-Ceiling,c|Pinal|dP,s2,−2.31,−2.31,−2.31,MATCH
+Floor-and-Ceiling,c|Mohave|P22,p2,14.02%,14.02%,14.02%,MATCH
+Floor-and-Ceiling,c|Mohave|dG,s2,+4.34,+4.34,+4.34,MATCH
+Floor-and-Ceiling,c|La Paz|P22,p2,19.01%,19.01%,19.01%,MATCH
+Floor-and-Ceiling,c|La Paz|dG,s2,+6.13,+6.13,+6.13,MATCH
+Floor-and-Ceiling,c|Yavapai|P22,p2,19.47%,19.47%,19.47%,MATCH
+Floor-and-Ceiling,c|Yavapai|dG,s2,+4.15,+4.15,+4.15,MATCH
+Floor-and-Ceiling,c|Graham|P22,p2,23.31%,23.31%,23.31%,MATCH
+Floor-and-Ceiling,c|Graham|dG,s2,+8.48,+8.48,+8.48,MATCH
+Floor-and-Ceiling,c|Gila|P22,p2,24.83%,24.83%,24.83%,MATCH
+Floor-and-Ceiling,c|Gila|dG,s2,+5.64,+5.64,+5.64,MATCH
+Floor-and-Ceiling,c|Graham|P22,p2,23.31%,23.31%,23.31%,MATCH
+Floor-and-Ceiling,c|Graham|dG,s2,+8.48,+8.48,+8.48,MATCH
+Floor-and-Ceiling,c|Pinal|regdem_chg,sn,+465,+465,+465,MATCH
+Floor-and-Ceiling,k|n_loss,n,14,14,14,MATCH
+Floor-and-Ceiling,c|Pinal|pop2025,n,"539,380","539,380","539,380",MATCH
+Floor-and-Ceiling,c|Pinal|P22,p2,24.88%,24.88%,24.88%,MATCH
+Floor-and-Ceiling,c|Pinal|P26,p2,22.57%,22.57%,22.57%,MATCH
+Floor-and-Ceiling,c|Pinal|S22,p2,41.22%,41.22%,41.22%,MATCH
+Floor-and-Ceiling,c|Pinal|S26,p2,47.17%,47.17%,47.17%,MATCH
+Floor-and-Ceiling,c|Pinal|G22,s2,+16.34,+16.34,+16.34,MATCH
+Floor-and-Ceiling,c|Pinal|G26,s2,+24.60,+24.60,+24.60,MATCH
+Floor-and-Ceiling,c|Pinal|dG,s2,+8.26,+8.26,+8.26,MATCH
+Floor-and-Ceiling,c|Pinal|implied_extra_votes,sn,"+9,608","+9,608","+9,608",MATCH
+Floor-and-Ceiling,c|Yavapai|pop2025,n,"252,552","252,552","252,552",MATCH
+Floor-and-Ceiling,c|Yavapai|P22,p2,19.47%,19.47%,19.47%,MATCH
+Floor-and-Ceiling,c|Yavapai|P26,p2,17.61%,17.61%,17.61%,MATCH
+Floor-and-Ceiling,c|Yavapai|S22,p2,35.49%,35.49%,35.49%,MATCH
+Floor-and-Ceiling,c|Yavapai|S26,p2,37.78%,37.78%,37.78%,MATCH
+Floor-and-Ceiling,c|Yavapai|G22,s2,+16.02,+16.02,+16.02,MATCH
+Floor-and-Ceiling,c|Yavapai|G26,s2,+20.17,+20.17,+20.17,MATCH
+Floor-and-Ceiling,c|Yavapai|dG,s2,+4.15,+4.15,+4.15,MATCH
+Floor-and-Ceiling,c|Yavapai|implied_extra_votes,sn,"+2,791","+2,791","+2,791",MATCH
+Floor-and-Ceiling,c|Mohave|pop2025,n,"228,102","228,102","228,102",MATCH
+Floor-and-Ceiling,c|Mohave|P22,p2,14.02%,14.02%,14.02%,MATCH
+Floor-and-Ceiling,c|Mohave|P26,p2,11.81%,11.81%,11.81%,MATCH
+Floor-and-Ceiling,c|Mohave|S22,p2,24.61%,24.61%,24.61%,MATCH
+Floor-and-Ceiling,c|Mohave|S26,p2,26.75%,26.75%,26.75%,MATCH
+Floor-and-Ceiling,c|Mohave|G22,s2,+10.59,+10.59,+10.59,MATCH
+Floor-and-Ceiling,c|Mohave|G26,s2,+14.93,+14.93,+14.93,MATCH
+Floor-and-Ceiling,c|Mohave|dG,s2,+4.34,+4.34,+4.34,MATCH
+Floor-and-Ceiling,c|Mohave|implied_extra_votes,sn,"+1,704","+1,704","+1,704",MATCH
+Floor-and-Ceiling,c|Yuma|pop2025,n,"224,449","224,449","224,449",MATCH
+Floor-and-Ceiling,c|Yuma|P22,p2,30.52%,30.52%,30.52%,MATCH
+Floor-and-Ceiling,c|Yuma|P26,p2,26.36%,26.36%,26.36%,MATCH
+Floor-and-Ceiling,c|Yuma|S22,p2,42.84%,42.84%,42.84%,MATCH
+Floor-and-Ceiling,c|Yuma|S26,p2,51.73%,51.73%,51.73%,MATCH
+Floor-and-Ceiling,c|Yuma|G22,s2,+12.32,+12.32,+12.32,MATCH
+Floor-and-Ceiling,c|Yuma|G26,s2,+25.37,+25.37,+25.37,MATCH
+Floor-and-Ceiling,c|Yuma|dG,s2,+13.05,+13.05,+13.05,MATCH
+Floor-and-Ceiling,c|Yuma|implied_extra_votes,sn,"+4,324","+4,324","+4,324",MATCH
+Floor-and-Ceiling,c|Gila|pop2025,n,"53,801","53,801","53,801",MATCH
+Floor-and-Ceiling,c|Gila|P22,p2,24.83%,24.83%,24.83%,MATCH
+Floor-and-Ceiling,c|Gila|P26,p2,21.60%,21.60%,21.60%,MATCH
+Floor-and-Ceiling,c|Gila|S22,p2,33.65%,33.65%,33.65%,MATCH
+Floor-and-Ceiling,c|Gila|S26,p2,36.06%,36.06%,36.06%,MATCH
+Floor-and-Ceiling,c|Gila|G22,s2,+8.82,+8.82,+8.82,MATCH
+Floor-and-Ceiling,c|Gila|G26,s2,+14.47,+14.47,+14.47,MATCH
+Floor-and-Ceiling,c|Gila|dG,s2,+5.64,+5.64,+5.64,MATCH
+Floor-and-Ceiling,c|Gila|implied_extra_votes,sn,+509,+509,+509,MATCH
+Floor-and-Ceiling,c|Santa Cruz|pop2025,n,"50,020","50,020","50,020",MATCH
+Floor-and-Ceiling,c|Santa Cruz|P22,p2,48.04%,48.04%,48.04%,MATCH
+Floor-and-Ceiling,c|Santa Cruz|P26,p2,41.49%,41.49%,41.49%,MATCH
+Floor-and-Ceiling,c|Santa Cruz|S22,p2,65.55%,65.55%,65.55%,MATCH
+Floor-and-Ceiling,c|Santa Cruz|S26,p2,70.19%,70.19%,70.19%,MATCH
+Floor-and-Ceiling,c|Santa Cruz|G22,s2,+17.52,+17.52,+17.52,MATCH
+Floor-and-Ceiling,c|Santa Cruz|G26,s2,+28.70,+28.70,+28.70,MATCH
+Floor-and-Ceiling,c|Santa Cruz|dG,s2,+11.18,+11.18,+11.18,MATCH
+Floor-and-Ceiling,c|Santa Cruz|implied_extra_votes,sn,+659,+659,+659,MATCH
+Floor-and-Ceiling,c|Graham|pop2025,n,"40,157","40,157","40,157",MATCH
+Floor-and-Ceiling,c|Graham|P22,p2,23.31%,23.31%,23.31%,MATCH
+Floor-and-Ceiling,c|Graham|P26,p2,20.07%,20.07%,20.07%,MATCH
+Floor-and-Ceiling,c|Graham|S22,p2,28.05%,28.05%,28.05%,MATCH
+Floor-and-Ceiling,c|Graham|S26,p2,33.29%,33.29%,33.29%,MATCH
+Floor-and-Ceiling,c|Graham|G22,s2,+4.74,+4.74,+4.74,MATCH
+Floor-and-Ceiling,c|Graham|G26,s2,+13.22,+13.22,+13.22,MATCH
+Floor-and-Ceiling,c|Graham|dG,s2,+8.48,+8.48,+8.48,MATCH
+Floor-and-Ceiling,c|Graham|implied_extra_votes,sn,+552,+552,+552,MATCH
+Floor-and-Ceiling,c|La Paz|pop2025,n,"16,711","16,711","16,711",MATCH
+Floor-and-Ceiling,c|La Paz|P22,p2,19.01%,19.01%,19.01%,MATCH
+Floor-and-Ceiling,c|La Paz|P26,p2,16.35%,16.35%,16.35%,MATCH
+Floor-and-Ceiling,c|La Paz|S22,p2,29.42%,29.42%,29.42%,MATCH
+Floor-and-Ceiling,c|La Paz|S26,p2,32.90%,32.90%,32.90%,MATCH
+Floor-and-Ceiling,c|La Paz|G22,s2,+10.42,+10.42,+10.42,MATCH
+Floor-and-Ceiling,c|La Paz|G26,s2,+16.55,+16.55,+16.55,MATCH
+Floor-and-Ceiling,c|La Paz|dG,s2,+6.13,+6.13,+6.13,MATCH
+Floor-and-Ceiling,c|La Paz|implied_extra_votes,sn,+186,+186,+186,MATCH
+Floor-and-Ceiling,c|Greenlee|pop2025,n,"9,312","9,312","9,312",MATCH
+Floor-and-Ceiling,c|Greenlee|P22,p2,31.10%,31.10%,31.10%,MATCH
+Floor-and-Ceiling,c|Greenlee|P26,p2,24.85%,24.85%,24.85%,MATCH
+Floor-and-Ceiling,c|Greenlee|S22,p2,36.99%,36.99%,36.99%,MATCH
+Floor-and-Ceiling,c|Greenlee|S26,p2,42.34%,42.34%,42.34%,MATCH
+Floor-and-Ceiling,c|Greenlee|G22,s2,+5.89,+5.89,+5.89,MATCH
+Floor-and-Ceiling,c|Greenlee|G26,s2,+17.48,+17.48,+17.48,MATCH
+Floor-and-Ceiling,c|Greenlee|dG,s2,+11.59,+11.59,+11.59,MATCH
+Floor-and-Ceiling,c|Greenlee|implied_extra_votes,sn,+112,+112,+112,MATCH
+Floor-and-Ceiling,k|n_counties,n,15,15,15,MATCH
+Floor-and-Ceiling,c|Maricopa|share_ballots26,p1,59.8%,59.8%,59.8%,MATCH
+Floor-and-Ceiling,k|cooks_cut,f3,0.267,0.267,0.267,MATCH
+Floor-and-Ceiling,k|nar_Yuma_cooks,f3,0.264,0.264,0.264,MATCH
+Floor-and-Ceiling,k|nar_Yuma_stud,f2,2.81,2.81,2.81,MATCH
+Floor-and-Ceiling,c|Yuma|regdrop,f2,4.16,4.16,4.16,MATCH
+Floor-and-Ceiling,c|Yuma|dG,s2,+13.05,+13.05,+13.05,MATCH
+Floor-and-Ceiling,fit|dG_on_drop_narrowed|b,s2,+3.46,+3.46,+3.46,MATCH
+Floor-and-Ceiling,fit|dG_on_drop_narrowed|m,f2,1.14,1.14,1.14,MATCH
+Floor-and-Ceiling,fit|dG_on_drop_narrowed|r2,f2,0.53,0.53,0.53,MATCH
+Floor-and-Ceiling,fit|dG_on_drop_narrowed|n,n,14,14,14,MATCH
+Floor-and-Ceiling,k|size_dG_slope,s2,−0.53,−0.53,−0.53,MATCH
+Floor-and-Ceiling,k|size_dG_r,f2,−0.14,−0.14,−0.14,MATCH
+Floor-and-Ceiling,k|size_dG_p,f2,0.63,0.63,0.63,MATCH
+Floor-and-Ceiling,c|Maricopa|dG,s2,+7.92,+7.92,+7.92,MATCH
+Floor-and-Ceiling,g|all|dG,s2,+7.64,+7.64,+7.64,MATCH
+Floor-and-Ceiling,k|tx|2022|min_ballots_minus_gov,n,41,41,41,MATCH
+Floor-and-Ceiling,k|tx|2026|min_ballots_minus_gov,n,21,21,21,MATCH
+Floor-and-Ceiling,k|nogov_lo|2022,p2,1.22%,1.22%,1.22%,MATCH
+Floor-and-Ceiling,k|nogov_hi|2022,p2,1.70%,1.70%,1.70%,MATCH
+Floor-and-Ceiling,k|nogov_lo|2026,p2,0.75%,0.75%,0.75%,MATCH
+Floor-and-Ceiling,k|nogov_hi|2026,p2,1.82%,1.82%,1.82%,MATCH
+Floor-and-Ceiling,c|Yavapai|turnout22,p2,75.20%,75.20%,75.20%,MATCH
+Floor-and-Ceiling,c|Yavapai|turnout26,p2,69.40%,69.40%,69.40%,MATCH
+Floor-and-Ceiling,g|all|turnout22,p2,62.56%,62.56%,62.56%,MATCH
+Floor-and-Ceiling,g|all|turnout26,p2,59.63%,59.63%,59.63%,MATCH
+Floor-and-Ceiling,c|Maricopa|ballots_2022,n,"1,562,758","1,562,758","1,562,758",MATCH
+Floor-and-Ceiling,c|Maricopa|govtotal_2022,n,"1,543,535","1,543,535","1,543,535",MATCH
+Floor-and-Ceiling,c|Maricopa|nogov22,n,"19,223","19,223","19,223",MATCH
+Floor-and-Ceiling,c|Maricopa|turnout22,p2,64.17%,64.17%,64.17%,MATCH
+Floor-and-Ceiling,c|Maricopa|ballots_2026,n,"1,559,706","1,559,706","1,559,706",MATCH
+Floor-and-Ceiling,c|Maricopa|govtotal_2026,n,"1,539,513","1,539,513","1,539,513",MATCH
+Floor-and-Ceiling,c|Maricopa|nogov26,n,"20,193","20,193","20,193",MATCH
+Floor-and-Ceiling,c|Maricopa|turnout26,p2,60.22%,60.22%,60.22%,MATCH
+Floor-and-Ceiling,c|Pima|ballots_2022,n,"403,556","403,556","403,556",MATCH
+Floor-and-Ceiling,c|Pima|govtotal_2022,n,"398,553","398,553","398,553",MATCH
+Floor-and-Ceiling,c|Pima|nogov22,n,"5,003","5,003","5,003",MATCH
+Floor-and-Ceiling,c|Pima|turnout22,p2,63.07%,63.07%,63.07%,MATCH
+Floor-and-Ceiling,c|Pima|ballots_2026,n,"413,270","413,270","413,270",MATCH
+Floor-and-Ceiling,c|Pima|govtotal_2026,n,"410,185","410,185","410,185",MATCH
+Floor-and-Ceiling,c|Pima|nogov26,n,"3,085","3,085","3,085",MATCH
+Floor-and-Ceiling,c|Pima|turnout26,p2,62.82%,62.82%,62.82%,MATCH
+Floor-and-Ceiling,c|Pinal|ballots_2022,n,"145,600","145,600","145,600",MATCH
+Floor-and-Ceiling,c|Pinal|govtotal_2022,n,"143,826","143,826","143,826",MATCH
+Floor-and-Ceiling,c|Pinal|nogov22,n,"1,774","1,774","1,774",MATCH
+Floor-and-Ceiling,c|Pinal|turnout22,p2,55.43%,55.43%,55.43%,MATCH
+Floor-and-Ceiling,c|Pinal|ballots_2026,n,"161,571","161,571","161,571",MATCH
+Floor-and-Ceiling,c|Pinal|govtotal_2026,n,"160,327","160,327","160,327",MATCH
+Floor-and-Ceiling,c|Pinal|nogov26,n,"1,244","1,244","1,244",MATCH
+Floor-and-Ceiling,c|Pinal|turnout26,p2,55.39%,55.39%,55.39%,MATCH
+Floor-and-Ceiling,c|Yavapai|ballots_2022,n,"124,871","124,871","124,871",MATCH
+Floor-and-Ceiling,c|Yavapai|govtotal_2022,n,"123,191","123,191","123,191",MATCH
+Floor-and-Ceiling,c|Yavapai|nogov22,n,"1,680","1,680","1,680",MATCH
+Floor-and-Ceiling,c|Yavapai|turnout22,p2,75.20%,75.20%,75.20%,MATCH
+Floor-and-Ceiling,c|Yavapai|ballots_2026,n,"121,818","121,818","121,818",MATCH
+Floor-and-Ceiling,c|Yavapai|govtotal_2026,n,"120,679","120,679","120,679",MATCH
+Floor-and-Ceiling,c|Yavapai|nogov26,n,"1,139","1,139","1,139",MATCH
+Floor-and-Ceiling,c|Yavapai|turnout26,p2,69.40%,69.40%,69.40%,MATCH
+Floor-and-Ceiling,c|Mohave|ballots_2022,n,"82,758","82,758","82,758",MATCH
+Floor-and-Ceiling,c|Mohave|govtotal_2022,n,"81,510","81,510","81,510",MATCH
+Floor-and-Ceiling,c|Mohave|nogov22,n,"1,248","1,248","1,248",MATCH
+Floor-and-Ceiling,c|Mohave|turnout22,p2,56.33%,56.33%,56.33%,MATCH
+Floor-and-Ceiling,c|Mohave|ballots_2026,n,"79,840","79,840","79,840",MATCH
+Floor-and-Ceiling,c|Mohave|govtotal_2026,n,"79,058","79,058","79,058",MATCH
+Floor-and-Ceiling,c|Mohave|nogov26,n,782,782,782,MATCH
+Floor-and-Ceiling,c|Mohave|turnout26,p2,54.33%,54.33%,54.33%,MATCH
+Floor-and-Ceiling,c|Yuma|ballots_2022,n,"46,830","46,830","46,830",MATCH
+Floor-and-Ceiling,c|Yuma|govtotal_2022,n,"46,111","46,111","46,111",MATCH
+Floor-and-Ceiling,c|Yuma|nogov22,n,719,719,719,MATCH
+Floor-and-Ceiling,c|Yuma|turnout22,p2,44.54%,44.54%,44.54%,MATCH
+Floor-and-Ceiling,c|Yuma|ballots_2026,n,"48,636","48,636","48,636",MATCH
+Floor-and-Ceiling,c|Yuma|govtotal_2026,n,"47,998","47,998","47,998",MATCH
+Floor-and-Ceiling,c|Yuma|nogov26,n,638,638,638,MATCH
+Floor-and-Ceiling,c|Yuma|turnout26,p2,43.46%,43.46%,43.46%,MATCH
+Floor-and-Ceiling,c|Coconino|ballots_2022,n,"55,475","55,475","55,475",MATCH
+Floor-and-Ceiling,c|Coconino|govtotal_2022,n,"54,727","54,727","54,727",MATCH
+Floor-and-Ceiling,c|Coconino|nogov22,n,748,748,748,MATCH
+Floor-and-Ceiling,c|Coconino|turnout22,p2,61.08%,61.08%,61.08%,MATCH
+Floor-and-Ceiling,c|Coconino|ballots_2026,n,"56,141","56,141","56,141",MATCH
+Floor-and-Ceiling,c|Coconino|govtotal_2026,n,"55,529","55,529","55,529",MATCH
+Floor-and-Ceiling,c|Coconino|nogov26,n,612,612,612,MATCH
+Floor-and-Ceiling,c|Coconino|turnout26,p2,63.67%,63.67%,63.67%,MATCH
+Floor-and-Ceiling,c|Cochise|ballots_2022,n,"47,284","47,284","47,284",MATCH
+Floor-and-Ceiling,c|Cochise|govtotal_2022,n,"46,666","46,666","46,666",MATCH
+Floor-and-Ceiling,c|Cochise|nogov22,n,618,618,618,MATCH
+Floor-and-Ceiling,c|Cochise|turnout22,p2,61.10%,61.10%,61.10%,MATCH
+Floor-and-Ceiling,c|Cochise|ballots_2026,n,"46,817","46,817","46,817",MATCH
+Floor-and-Ceiling,c|Cochise|govtotal_2026,n,"46,360","46,360","46,360",MATCH
+Floor-and-Ceiling,c|Cochise|nogov26,n,457,457,457,MATCH
+Floor-and-Ceiling,c|Cochise|turnout26,p2,56.66%,56.66%,56.66%,MATCH
+Floor-and-Ceiling,c|Navajo|ballots_2022,n,"40,974","40,974","40,974",MATCH
+Floor-and-Ceiling,c|Navajo|govtotal_2022,n,"40,411","40,411","40,411",MATCH
+Floor-and-Ceiling,c|Navajo|nogov22,n,563,563,563,MATCH
+Floor-and-Ceiling,c|Navajo|turnout22,p2,59.35%,59.35%,59.35%,MATCH
+Floor-and-Ceiling,c|Navajo|ballots_2026,n,"40,455","40,455","40,455",MATCH
+Floor-and-Ceiling,c|Navajo|govtotal_2026,n,"39,971","39,971","39,971",MATCH
+Floor-and-Ceiling,c|Navajo|nogov26,n,484,484,484,MATCH
+Floor-and-Ceiling,c|Navajo|turnout26,p2,55.30%,55.30%,55.30%,MATCH
+Floor-and-Ceiling,c|Apache|ballots_2022,n,"27,010","27,010","27,010",MATCH
+Floor-and-Ceiling,c|Apache|govtotal_2022,n,"26,614","26,614","26,614",MATCH
+Floor-and-Ceiling,c|Apache|nogov22,n,396,396,396,MATCH
+Floor-and-Ceiling,c|Apache|turnout22,p2,51.96%,51.96%,51.96%,MATCH
+Floor-and-Ceiling,c|Apache|ballots_2026,n,"27,341","27,341","27,341",MATCH
+Floor-and-Ceiling,c|Apache|govtotal_2026,n,"26,843","26,843","26,843",MATCH
+Floor-and-Ceiling,c|Apache|nogov26,n,498,498,498,MATCH
+Floor-and-Ceiling,c|Apache|turnout26,p2,51.30%,51.30%,51.30%,MATCH
+Floor-and-Ceiling,c|Gila|ballots_2022,n,"22,802","22,802","22,802",MATCH
+Floor-and-Ceiling,c|Gila|govtotal_2022,n,"22,450","22,450","22,450",MATCH
+Floor-and-Ceiling,c|Gila|nogov22,n,352,352,352,MATCH
+Floor-and-Ceiling,c|Gila|turnout22,p2,67.17%,67.17%,67.17%,MATCH
+Floor-and-Ceiling,c|Gila|ballots_2026,n,"21,130","21,130","21,130",MATCH
+Floor-and-Ceiling,c|Gila|govtotal_2026,n,"20,884","20,884","20,884",MATCH
+Floor-and-Ceiling,c|Gila|nogov26,n,246,246,246,MATCH
+Floor-and-Ceiling,c|Gila|turnout26,p2,61.70%,61.70%,61.70%,MATCH
+Floor-and-Ceiling,c|Santa Cruz|ballots_2022,n,"13,308","13,308","13,308",MATCH
+Floor-and-Ceiling,c|Santa Cruz|govtotal_2022,n,"13,099","13,099","13,099",MATCH
+Floor-and-Ceiling,c|Santa Cruz|nogov22,n,209,209,209,MATCH
+Floor-and-Ceiling,c|Santa Cruz|turnout22,p2,45.59%,45.59%,45.59%,MATCH
+Floor-and-Ceiling,c|Santa Cruz|ballots_2026,n,"14,238","14,238","14,238",MATCH
+Floor-and-Ceiling,c|Santa Cruz|govtotal_2026,n,"14,061","14,061","14,061",MATCH
+Floor-and-Ceiling,c|Santa Cruz|nogov26,n,177,177,177,MATCH
+Floor-and-Ceiling,c|Santa Cruz|turnout26,p2,43.21%,43.21%,43.21%,MATCH
+Floor-and-Ceiling,c|Graham|ballots_2022,n,"11,006","11,006","11,006",MATCH
+Floor-and-Ceiling,c|Graham|govtotal_2022,n,"10,847","10,847","10,847",MATCH
+Floor-and-Ceiling,c|Graham|nogov22,n,159,159,159,MATCH
+Floor-and-Ceiling,c|Graham|turnout22,p2,56.48%,56.48%,56.48%,MATCH
+Floor-and-Ceiling,c|Graham|ballots_2026,n,"10,525","10,525","10,525",MATCH
+Floor-and-Ceiling,c|Graham|govtotal_2026,n,"10,395","10,395","10,395",MATCH
+Floor-and-Ceiling,c|Graham|nogov26,n,130,130,130,MATCH
+Floor-and-Ceiling,c|Graham|turnout26,p2,51.04%,51.04%,51.04%,MATCH
+Floor-and-Ceiling,c|La Paz|ballots_2022,n,"5,594","5,594","5,594",MATCH
+Floor-and-Ceiling,c|La Paz|govtotal_2022,n,"5,499","5,499","5,499",MATCH
+Floor-and-Ceiling,c|La Paz|nogov22,n,95,95,95,MATCH
+Floor-and-Ceiling,c|La Paz|turnout22,p2,49.46%,49.46%,49.46%,MATCH
+Floor-and-Ceiling,c|La Paz|ballots_2026,n,"5,343","5,343","5,343",MATCH
+Floor-and-Ceiling,c|La Paz|govtotal_2026,n,"5,277","5,277","5,277",MATCH
+Floor-and-Ceiling,c|La Paz|nogov26,n,66,66,66,MATCH
+Floor-and-Ceiling,c|La Paz|turnout26,p2,47.12%,47.12%,47.12%,MATCH
+Floor-and-Ceiling,c|Greenlee|ballots_2022,n,"2,487","2,487","2,487",MATCH
+Floor-and-Ceiling,c|Greenlee|govtotal_2022,n,"2,446","2,446","2,446",MATCH
+Floor-and-Ceiling,c|Greenlee|nogov22,n,41,41,41,MATCH
+Floor-and-Ceiling,c|Greenlee|turnout22,p2,53.27%,53.27%,53.27%,MATCH
+Floor-and-Ceiling,c|Greenlee|ballots_2026,n,"2,088","2,088","2,088",MATCH
+Floor-and-Ceiling,c|Greenlee|govtotal_2026,n,"2,067","2,067","2,067",MATCH
+Floor-and-Ceiling,c|Greenlee|nogov26,n,21,21,21,MATCH
+Floor-and-Ceiling,c|Greenlee|turnout26,p2,45.28%,45.28%,45.28%,MATCH
+Graphs,g|all|dG,s2,+7.64,+7.64,+7.64,MATCH
+Graphs,fit|dG_on_drop|b,f2,3.30,3.30,3.30,MATCH
+Graphs,fit|dG_on_drop|m,f2,1.29,1.29,1.29,MATCH
+Graphs,fit|dG_on_drop|r2,f2,0.47,0.47,0.47,MATCH
+Graphs,fit|G22_on_P22|r2,f2,0.12,0.12,0.12,MATCH
+Graphs,fit|G26_on_P26|r2,f2,0.19,0.19,0.19,MATCH
+Graphs,k|n_loss,n,14,14,14,MATCH
+Graphs,k|n_counties,n,15,15,15,MATCH
+Arizona-County-PDF-Information,k|n_counties,n,15,15,15,MATCH
+Arizona-County-PDF-Information,k|n_counties,n,15,15,15,MATCH
+Arizona-County-PDF-Information,c|Apache|P26,p1,49.7%,49.7%,49.7%,MATCH
+Arizona-County-PDF-Information,k|n_counties,n,15,15,15,MATCH
+Arizona-County-PDF-Information,g|all|regdem_2022,n,"1,270,544","1,270,544","1,270,544",MATCH
+Arizona-County-PDF-Information,g|all|regdem_2026,n,"1,239,489","1,239,489","1,239,489",MATCH
+Arizona-County-PDF-Information,g|all|dem_2022,n,"1,287,891","1,287,891","1,287,891",MATCH
+Arizona-County-PDF-Information,g|all|dem_2026,n,"1,434,824","1,434,824","1,434,824",MATCH
+Arizona-County-PDF-Information,g|all|ballots_2022,n,"2,592,313","2,592,313","2,592,313",MATCH
+Arizona-County-PDF-Information,g|all|ballots_2026,n,"2,608,919","2,608,919","2,608,919",MATCH
+Arizona-County-PDF-Information,g|all|P26,p1,28.3%,28.3%,28.3%,MATCH
+README,k|n_counties,n,15,15,15,MATCH
+README,k|n_counties,n,15,15,15,MATCH
+README,g|all|S22,p2,49.68%,49.68%,49.68%,MATCH
+README,g|all|S26,p2,55.00%,55.00%,55.00%,MATCH
+README,g|all|dS,s2,+5.32,+5.32,+5.32,MATCH
+README,g|all|P22,p2,30.66%,30.66%,30.66%,MATCH
+README,g|all|P26,p2,28.33%,28.33%,28.33%,MATCH
+README,g|all|dP,s2,−2.33,−2.33,−2.33,MATCH
+README,g|all|G22,s2,+19.02,+19.02,+19.02,MATCH
+README,g|all|G26,s2,+26.66,+26.66,+26.66,MATCH
+README,g|all|dG,s2,+7.64,+7.64,+7.64,MATCH
+README,fit|dG_on_drop|b,f2,3.30,3.30,3.30,MATCH
+README,fit|dG_on_drop|m,f2,1.29,1.29,1.29,MATCH
+README,fit|dG_on_drop|r2,f2,0.47,0.47,0.47,MATCH
+README,fit|dG_on_drop|n,n,15,15,15,MATCH
+README,g|all|implied,sn,"+137,207","+137,207","+137,207",MATCH
+README,k|n_counties,n,15,15,15,MATCH
+(claims),ceiling (max ΔG) is Yuma,,true,true,true,MATCH
+(claims),lowest ΔG is Yavapai,,true,true,true,MATCH
+(claims),only non-loss county is Pinal,,true,true,true,MATCH
+(claims),"largest P drop Santa Cruz, smallest Yavapai",,true,true,true,MATCH
+(claims),"smallest ΔS Apache, largest Yuma",,true,true,true,MATCH
+(claims),Dem votes fell in Gila and Greenlee only,,true,true,true,MATCH
+(claims),Apache highest 2026 P,,true,true,true,MATCH
+(claims),Maricopa largest Dem registration 2026,,true,true,true,MATCH
+(claims),Maricopa largest population,,true,true,true,MATCH
+(claims),"ceiling five = Yuma, Greenlee, Santa Cruz, Graham, Pinal",,true,true,true,MATCH
+(claims),"floor five (lowest P22) = Mohave, La Paz, Yavapai, Graham, Gila",,true,true,true,MATCH
+(claims),"lowest five S22 = Mohave, Graham, La Paz, Gila, Yavapai",,true,true,true,MATCH
+(claims),"lowest five ΔG = Yavapai, Apache, Mohave, Gila, La Paz",,true,true,true,MATCH
+(claims),Graham is floor and ceiling,,true,true,true,MATCH
+(claims),narrowed-out = Yuma only,,true,true,true,MATCH
+(claims),min ballots−gov margin Greenlee both years,,true,true,true,MATCH
+(claims),max turnout Yavapai both years,,true,true,true,MATCH
+(claims),"no gov>ballots, no ballots>active reg",,true,true,true,MATCH
+(claims),"six largest = Maricopa, Pima, Pinal, Yavapai, Mohave, Yuma",,true,true,true,MATCH
+(claims),G rose in all counties,,true,true,true,MATCH

@@ -1,0 +1,94 @@
+<meta charset=utf-8><style>body{font-family:sans-serif;max-width:1200px;margin:20px}table{border-collapse:collapse}td,th{border:1px solid #ccc;padding:3px 6px;font-size:12px}img{max-width:100%}</style><blockquote>
+<p><strong>2026 UNOFFICIAL.</strong> *2026 figures are UNOFFICIAL. The Arizona Secretary of State (SOS) results site (results.arizona.vote, served by app.enhancedvoting.com) labels the Nov 3, 2026 general election results "Unofficial Results" (data as of Nov 19, 2026, 4:35 PM CST; pulled Nov 19, 2026). All 15 counties report fully. The statewide canvass is scheduled for Nov 23, 2026, so these pages need a re-run after it. 2022 figures are the official SOS canvass of Dec 5, 2022. <strong>P</strong> = Democratic share of ACTIVE registered voters, from the G.E. (general election) row of the SOS State Voter Registration reports (2022 General Election and November 2026). Governor race only. Votes are votes for the Democratic candidate, not a count of registered Democrats who voted. These pages measure a pattern; they make no claim about intent, fraud or cause.</p>
+</blockquote>
+<h1>Arizona 2022 vs 2026* Governor Race: ΔG Method</h1>
+<p>Method developed by Morissa Benson (CD3 Vice Chair, Nebraska GOP). It began with her <a href="https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit">Cedar County Audit</a> on the <a href="https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki">Nebraska Election Analysis wiki</a>. That audit is where the ΔG method and the reverse step come from. This wiki applies the same arithmetic to all 15 Arizona counties. Arizona has party registration, so it uses the registration baseline, as the Nevada, North Carolina, Kansas and Pennsylvania analyses do. Data: Arizona Secretary of State results, official canvass and voter registration reports (<a href="https://azsos.gov/elections/election-information/voter-registration-counts">azsos.gov</a>, <a href="https://results.arizona.vote/">results.arizona.vote</a>). Population comes from the U.S. Census Bureau. Compiled Nov 19, 2026. Code and data: <a href="https://github.com/mbenson8989/Arizona-Election-Analysis">Arizona-Election-Analysis</a>.</p>
+<h2>Pages</h2>
+<ol>
+<li><a href="https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit">Cedar County Audit</a> (Nebraska wiki): where the method started</li>
+<li><a href="Reverse-Math">Bottom-Up Reverse Math</a>: Maricopa → the six largest counties → all 15 counties, then solved backward for implied extra votes</li>
+<li><a href="Locked-Arizona-Formula">Locked Arizona Formula</a>: the statewide fitted equation, a blank template, a worked example and the Arizona-only constants</li>
+<li><a href="Floor-and-Ceiling">Floor and Ceiling Counties</a>: the floor and ceiling counties, the counties narrowed out of the fit, and the over-ballot check</li>
+<li><a href="Graphs">Graphs</a>: ΔG by population, the locked-formula scatter, slope chart, ΔS and ΔP components, forward fit, residuals and the over-ballot check</li>
+<li><a href="Arizona-County-PDF-Information">Arizona County PDF Information</a>: the 15-county PDF table (registration, votes and ballots, 2022 vs 2026*) and what each column means</li>
+</ol>
+<h2>Statewide at a glance</h2>
+<table>
+<thead>
+<tr>
+<th>Measure</th>
+<th>2022</th>
+<th>2026*</th>
+<th>Change</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Democratic active registered voters (G.E. row)</td>
+<td>1,270,544</td>
+<td>1,239,489</td>
+<td>−31,055 (−2.4%)</td>
+</tr>
+<tr>
+<td>All active registered voters (G.E. row)</td>
+<td>4,143,929</td>
+<td>4,374,827</td>
+<td>+230,898</td>
+</tr>
+<tr>
+<td><strong>P</strong>: Democratic share of active registration</td>
+<td>30.66%</td>
+<td>28.33%</td>
+<td>−2.33 pts</td>
+</tr>
+<tr>
+<td>Democratic governor votes</td>
+<td>1,287,891</td>
+<td>1,434,824</td>
+<td>+146,933 (+11.4%)</td>
+</tr>
+<tr>
+<td>Total ballots cast</td>
+<td>2,592,313</td>
+<td>2,608,919</td>
+<td>+16,606 (+0.6%)</td>
+</tr>
+<tr>
+<td><strong>S</strong>: Democratic share of ballots cast</td>
+<td>49.68%</td>
+<td>55.00%</td>
+<td>+5.32 pts</td>
+</tr>
+<tr>
+<td><strong>G</strong> = S − P</td>
+<td>+19.02</td>
+<td>+26.66</td>
+<td>ΔG +7.64</td>
+</tr>
+<tr>
+<td>Republican governor votes</td>
+<td>1,270,774</td>
+<td>1,094,393</td>
+<td></td>
+</tr>
+<tr>
+<td>All governor votes (incl. write-ins)</td>
+<td>2,559,485</td>
+<td>2,579,147</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Candidates: 2022 Katie Hobbs (D) and Kari Lake (R), plus write-ins. 2026* Katie Hobbs (D, incumbent; running mate John Giles), Andy Biggs (R), Risa Lombardo (Green), Teri Ann Hourihan (No Labels), plus write-ins.</p>
+<h2>County results in brief</h2>
+<ul>
+<li><strong>Democratic active registration fell in 14 of 15 counties</strong> (1,270,544 → 1,239,489 statewide), while all active registration rose +230,898. Pinal is the exception: its Democratic active registration rose +465. P fell in all 15 counties, from −1.86 (Yavapai) to −6.55 (Santa Cruz).</li>
+<li><strong>S rose in all 15 counties</strong>, from +0.76 (Apache) to +8.89 (Yuma). Democratic governor votes rose in 13 counties and fell in 2 (Gila, Greenlee).</li>
+<li><strong>ΔG rose in all 15 counties.</strong> The ceiling is <strong>Yuma</strong> at +13.05; the lowest ΔG is <strong>Yavapai</strong> at +4.15. County median +7.03; statewide pooled +7.64.</li>
+<li><strong>Implied extra votes</strong> (votes above what the 2022 Democratic share of ballots would give on 2026* turnout) sum to +137,207 across the 15 counties; Maricopa alone is +93,190 (67.9%).</li>
+<li><strong>Locked Arizona formula:</strong> ΔG = 3.30 + 1.29 × (drop in Democratic registration share, points), R² 0.47, n = 15. See <a href="Locked-Arizona-Formula">Locked Arizona Formula</a>.</li>
+</ul>
+<h2>County PDF</h2>
+<p>The <a href="Arizona-County-PDF-Information">Arizona County PDF Information</a> page describes the 15-county PDF and links the download: <strong><a href="file:///workspace/az-clean/repo/Arizona_15_County_Democratic_Registration_and_Vote_Change.pdf">Arizona_15_County_Democratic_Registration_and_Vote_Change.pdf</a></strong>.</p>
+<hr />
+<p><strong>Related:</strong> <a href="Reverse-Math">Bottom-Up Reverse Math</a> · <a href="Locked-Arizona-Formula">Locked Arizona Formula</a> · <a href="Floor-and-Ceiling">Floor and Ceiling Counties</a> · <a href="Graphs">Graphs</a> · <a href="Arizona-County-PDF-Information">Arizona County PDF Information</a> · <a href="https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit">Cedar County Audit (Nebraska)</a></p>

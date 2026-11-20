@@ -1,0 +1,2 @@
+url,local_path,fetched_at_local,http_status,bytes,sha256
+https://apps.azsos.gov/election/2022/General/canvass/2022dec05_general_election_canvass_web.pdf,/workspace/az-clean/raw/2022/2022dec05_general_election_canvass_web.pdf,2026-11-19T17:16:15-06:00,403,5780,acf9cc38dbeed26e0621a8216101c98f7eb582bb5b98d6fa43d290ee09294d98

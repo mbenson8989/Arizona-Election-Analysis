@@ -1,0 +1,29 @@
+<meta charset=utf-8><style>body{font-family:sans-serif;max-width:1200px;margin:20px}table{border-collapse:collapse}td,th{border:1px solid #ccc;padding:3px 6px;font-size:12px}img{max-width:100%}</style><blockquote>
+<p><strong>2026 UNOFFICIAL.</strong> *2026 figures are UNOFFICIAL. The Arizona Secretary of State (SOS) results site (results.arizona.vote, served by app.enhancedvoting.com) labels the Nov 3, 2026 general election results "Unofficial Results" (data as of Nov 19, 2026, 4:35 PM CST; pulled Nov 19, 2026). All 15 counties report fully. The statewide canvass is scheduled for Nov 23, 2026, so these pages need a re-run after it. 2022 figures are the official SOS canvass of Dec 5, 2022. <strong>P</strong> = Democratic share of ACTIVE registered voters, from the G.E. (general election) row of the SOS State Voter Registration reports (2022 General Election and November 2026). Governor race only. Votes are votes for the Democratic candidate, not a count of registered Democrats who voted. These pages measure a pattern; they make no claim about intent, fraud or cause.</p>
+</blockquote>
+<h1>Arizona County PDF Information</h1>
+<p>A 3-page PDF covering all 15 Arizona counties, 2022 vs 2026*, modeled on Nebraska's 93-county summary PDF. Counties are sorted by 2026 Democratic share of active registration, highest first (Apache, 49.7%). Every page carries the 2026 UNOFFICIAL banner. Page 1 is the registration, vote and ballot table; page 2 gives the shares of ballots and registration; page 3 has the notes and sources.</p>
+<p><strong><a href="file:///workspace/az-clean/repo/Arizona_15_County_Democratic_Registration_and_Vote_Change.pdf">Download the Arizona 15-County Summary (PDF)</a></strong></p>
+<p><strong>Columns (page 1)</strong></p>
+<ul>
+<li><strong>Dem Reg Share 2026 %:</strong> Democratic active registered voters ÷ all active registered voters, SOS November 2026 report, G.E. row. The sort column.</li>
+<li><strong>Dem Reg 2022 / 2026 (G.E.):</strong> Democratic active registered voters, G.E. row of each year's SOS State Voter Registration report.</li>
+<li><strong>Reg Change (number and percent):</strong> 2026 minus 2022, and that change as a percent of the 2022 figure.</li>
+<li><strong>Dem Gov Votes 2022 / 2026*:</strong> votes for the Democratic governor candidate, Katie Hobbs in both years (2022 official canvass; 2026 UNOFFICIAL).</li>
+<li><strong>Vote Change (number and percent):</strong> 2026 minus 2022, and that change as a percent of the 2022 figure.</li>
+<li><strong>Total Ballots 2022 / 2026*:</strong> total ballots cast in the county.</li>
+<li><strong>Ballot Change (number and percent):</strong> 2026 minus 2022, and that change as a percent of the 2022 figure.</li>
+<li><strong>Shading:</strong> blue = Democratic active registration rose (Pinal); peach = Democratic governor votes fell (Greenlee, Gila).</li>
+</ul>
+<p><strong>Columns (page 2)</strong>: Democratic share of ballots 2022 and 2026* and the change in points; Democratic share of registration and total active registered voters for each year; registration-share change in points.</p>
+<p>Statewide totals row: Democratic active registration 1,270,544 → 1,239,489; Democratic governor votes 1,287,891 → 1,434,824; total ballots 2,592,313 → 2,608,919; 2026 Democratic registration share 28.3%.</p>
+<h2>How the PDF was checked</h2>
+<p>Every cell was computed by two independent passes from the raw SOS files and then recomputed a third time by a separate checker that parses the raw files itself and compares against the PDF's own text at the displayed precision. The cell-by-cell log is <code>verification/pdf_raw_crosscheck.csv</code> in the <a href="https://github.com/mbenson8989/Arizona-Election-Analysis">repository</a>.</p>
+<h2>Read this before using the numbers</h2>
+<ul>
+<li><strong>2026 figures are UNOFFICIAL</strong> until the Nov 23, 2026 statewide canvass. Cochise and Coconino show their county canvass as official on the SOS site; the other counties are unofficial.</li>
+<li><strong>Registration share and vote share measure different things.</strong> Unaffiliated and other-party voters, Republicans who voted for the Democratic candidate, turnout and candidate choice all move these numbers.</li>
+<li><strong>A change is not evidence of altered votes.</strong></li>
+</ul>
+<hr />
+<p><strong>Related:</strong> <a href="Home">Home</a> · <a href="Reverse-Math">Bottom-Up Reverse Math</a> · <a href="Locked-Arizona-Formula">Locked Arizona Formula</a> · <a href="Floor-and-Ceiling">Floor and Ceiling Counties</a> · <a href="Graphs">Graphs</a> · <a href="https://github.com/mbenson8989/Nebraska-Election-Analysis-/wiki/Cedar-Audit">Cedar County Audit (Nebraska)</a></p>

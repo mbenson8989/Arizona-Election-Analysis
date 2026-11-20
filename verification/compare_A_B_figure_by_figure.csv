@@ -1,0 +1,481 @@
+county,figure,passA,passB,result
+Apache,ballots_2022,"27,010","27,010",MATCH
+Apache,dem_2022,"17,739","17,739",MATCH
+Apache,rep_2022,"8,870","8,870",MATCH
+Apache,govtotal_2022,"26,614","26,614",MATCH
+Apache,regdem_2022,"27,625","27,625",MATCH
+Apache,regrep_2022,"10,666","10,666",MATCH
+Apache,regact_2022,"51,981","51,981",MATCH
+Apache,ballots_2026,"27,341","27,341",MATCH
+Apache,dem_2026,"18,164","18,164",MATCH
+Apache,rep_2026,"7,833","7,833",MATCH
+Apache,govtotal_2026,"26,843","26,843",MATCH
+Apache,regdem_2026,"26,498","26,498",MATCH
+Apache,regrep_2026,"12,073","12,073",MATCH
+Apache,regact_2026,"53,295","53,295",MATCH
+Apache,regdem_chg,"-1,127","-1,127",MATCH
+Apache,dem_chg,425,425,MATCH
+Apache,ballots_chg,331,331,MATCH
+Apache,S22,65.675676,65.675676,MATCH
+Apache,S26,66.435024,66.435024,MATCH
+Apache,P22,53.144418,53.144418,MATCH
+Apache,P26,49.719486,49.719486,MATCH
+Apache,G22,12.531258,12.531258,MATCH
+Apache,G26,16.715538,16.715538,MATCH
+Apache,dS,0.759349,0.759349,MATCH
+Apache,dP,-3.424932,-3.424932,MATCH
+Apache,dG,4.184281,4.184281,MATCH
+Apache,residual,0.759349,0.759349,MATCH
+Apache,implied_extra_votes,207.613514,207.613514,MATCH
+Apache,gap_reg_scaled,1148.686986,1148.686986,MATCH
+Apache,regdem_chg_pct,-4.079638,-4.079638,MATCH
+Apache,dem_chg_pct,2.395851,2.395851,MATCH
+Apache,ballots_chg_pct,1.225472,1.225472,MATCH
+Cochise,ballots_2022,"47,284","47,284",MATCH
+Cochise,dem_2022,"19,137","19,137",MATCH
+Cochise,rep_2022,"27,481","27,481",MATCH
+Cochise,govtotal_2022,"46,666","46,666",MATCH
+Cochise,regdem_2022,"19,423","19,423",MATCH
+Cochise,regrep_2022,"30,370","30,370",MATCH
+Cochise,regact_2022,"77,394","77,394",MATCH
+Cochise,ballots_2026,"46,817","46,817",MATCH
+Cochise,dem_2026,"21,005","21,005",MATCH
+Cochise,rep_2026,"24,197","24,197",MATCH
+Cochise,govtotal_2026,"46,360","46,360",MATCH
+Cochise,regdem_2026,"18,287","18,287",MATCH
+Cochise,regrep_2026,"32,818","32,818",MATCH
+Cochise,regact_2026,"82,634","82,634",MATCH
+Cochise,regdem_chg,"-1,136","-1,136",MATCH
+Cochise,dem_chg,"1,868","1,868",MATCH
+Cochise,ballots_chg,-467,-467,MATCH
+Cochise,S22,40.472464,40.472464,MATCH
+Cochise,S26,44.866181,44.866181,MATCH
+Cochise,P22,25.096261,25.096261,MATCH
+Cochise,P26,22.130116,22.130116,MATCH
+Cochise,G22,15.376204,15.376204,MATCH
+Cochise,G26,22.736065,22.736065,MATCH
+Cochise,dS,4.393717,4.393717,MATCH
+Cochise,dP,-2.966145,-2.966145,MATCH
+Cochise,dG,7.359862,7.359862,MATCH
+Cochise,residual,4.393717,4.393717,MATCH
+Cochise,implied_extra_votes,2057.006408,2057.006408,MATCH
+Cochise,gap_reg_scaled,2987.272615,2987.272615,MATCH
+Cochise,regdem_chg_pct,-5.848736,-5.848736,MATCH
+Cochise,dem_chg_pct,9.761196,9.761196,MATCH
+Cochise,ballots_chg_pct,-0.987649,-0.987649,MATCH
+Coconino,ballots_2022,"55,475","55,475",MATCH
+Coconino,dem_2022,"34,389","34,389",MATCH
+Coconino,rep_2022,"20,298","20,298",MATCH
+Coconino,govtotal_2022,"54,727","54,727",MATCH
+Coconino,regdem_2022,"36,569","36,569",MATCH
+Coconino,regrep_2022,"23,170","23,170",MATCH
+Coconino,regact_2022,"90,829","90,829",MATCH
+Coconino,ballots_2026,"56,141","56,141",MATCH
+Coconino,dem_2026,"37,569","37,569",MATCH
+Coconino,rep_2026,"16,462","16,462",MATCH
+Coconino,govtotal_2026,"55,529","55,529",MATCH
+Coconino,regdem_2026,"33,719","33,719",MATCH
+Coconino,regrep_2026,"22,868","22,868",MATCH
+Coconino,regact_2026,"88,175","88,175",MATCH
+Coconino,regdem_chg,"-2,850","-2,850",MATCH
+Coconino,dem_chg,"3,180","3,180",MATCH
+Coconino,ballots_chg,666,666,MATCH
+Coconino,S22,61.990086,61.990086,MATCH
+Coconino,S26,66.919007,66.919007,MATCH
+Coconino,P22,40.261370,40.261370,MATCH
+Coconino,P26,38.240998,38.240998,MATCH
+Coconino,G22,21.728715,21.728715,MATCH
+Coconino,G26,28.678009,28.678009,MATCH
+Coconino,dS,4.928922,4.928922,MATCH
+Coconino,dP,-2.020372,-2.020372,MATCH
+Coconino,dG,6.949294,6.949294,MATCH
+Coconino,residual,4.928922,4.928922,MATCH
+Coconino,implied_extra_votes,2767.146030,2767.146030,MATCH
+Coconino,gap_reg_scaled,5860.101999,5860.101999,MATCH
+Coconino,regdem_chg_pct,-7.793486,-7.793486,MATCH
+Coconino,dem_chg_pct,9.247143,9.247143,MATCH
+Coconino,ballots_chg_pct,1.200541,1.200541,MATCH
+Gila,ballots_2022,"22,802","22,802",MATCH
+Gila,dem_2022,"7,674","7,674",MATCH
+Gila,rep_2022,"14,763","14,763",MATCH
+Gila,govtotal_2022,"22,450","22,450",MATCH
+Gila,regdem_2022,"8,431","8,431",MATCH
+Gila,regrep_2022,"16,125","16,125",MATCH
+Gila,regact_2022,"33,949","33,949",MATCH
+Gila,ballots_2026,"21,130","21,130",MATCH
+Gila,dem_2026,"7,620","7,620",MATCH
+Gila,rep_2026,"12,786","12,786",MATCH
+Gila,govtotal_2026,"20,884","20,884",MATCH
+Gila,regdem_2026,"7,396","7,396",MATCH
+Gila,regrep_2026,"16,772","16,772",MATCH
+Gila,regact_2026,"34,245","34,245",MATCH
+Gila,regdem_chg,"-1,035","-1,035",MATCH
+Gila,dem_chg,-54,-54,MATCH
+Gila,ballots_chg,"-1,672","-1,672",MATCH
+Gila,S22,33.654943,33.654943,MATCH
+Gila,S26,36.062470,36.062470,MATCH
+Gila,P22,24.834310,24.834310,MATCH
+Gila,P26,21.597313,21.597313,MATCH
+Gila,G22,8.820632,8.820632,MATCH
+Gila,G26,14.465157,14.465157,MATCH
+Gila,dS,2.407528,2.407528,MATCH
+Gila,dP,-3.236997,-3.236997,MATCH
+Gila,dG,5.644525,5.644525,MATCH
+Gila,residual,2.407528,2.407528,MATCH
+Gila,implied_extra_votes,508.710639,508.710639,MATCH
+Gila,gap_reg_scaled,888.069743,888.069743,MATCH
+Gila,regdem_chg_pct,-12.276124,-12.276124,MATCH
+Gila,dem_chg_pct,-0.703675,-0.703675,MATCH
+Gila,ballots_chg_pct,-7.332690,-7.332690,MATCH
+Graham,ballots_2022,"11,006","11,006",MATCH
+Graham,dem_2022,"3,087","3,087",MATCH
+Graham,rep_2022,"7,760","7,760",MATCH
+Graham,govtotal_2022,"10,847","10,847",MATCH
+Graham,regdem_2022,"4,542","4,542",MATCH
+Graham,regrep_2022,"9,810","9,810",MATCH
+Graham,regact_2022,"19,487","19,487",MATCH
+Graham,ballots_2026,"10,525","10,525",MATCH
+Graham,dem_2026,"3,504","3,504",MATCH
+Graham,rep_2026,"6,651","6,651",MATCH
+Graham,govtotal_2026,"10,395","10,395",MATCH
+Graham,regdem_2026,"4,139","4,139",MATCH
+Graham,regrep_2026,"10,617","10,617",MATCH
+Graham,regact_2026,"20,623","20,623",MATCH
+Graham,regdem_chg,-403,-403,MATCH
+Graham,dem_chg,417,417,MATCH
+Graham,ballots_chg,-481,-481,MATCH
+Graham,S22,28.048337,28.048337,MATCH
+Graham,S26,33.292162,33.292162,MATCH
+Graham,P22,23.307846,23.307846,MATCH
+Graham,P26,20.069825,20.069825,MATCH
+Graham,G22,4.740491,4.740491,MATCH
+Graham,G26,13.222337,13.222337,MATCH
+Graham,dS,5.243824,5.243824,MATCH
+Graham,dP,-3.238021,-3.238021,MATCH
+Graham,dG,8.481846,8.481846,MATCH
+Graham,residual,5.243824,5.243824,MATCH
+Graham,implied_extra_votes,551.912502,551.912502,MATCH
+Graham,gap_reg_scaled,690.901585,690.901585,MATCH
+Graham,regdem_chg_pct,-8.872743,-8.872743,MATCH
+Graham,dem_chg_pct,13.508260,13.508260,MATCH
+Graham,ballots_chg_pct,-4.370343,-4.370343,MATCH
+Greenlee,ballots_2022,"2,487","2,487",MATCH
+Greenlee,dem_2022,920,920,MATCH
+Greenlee,rep_2022,"1,526","1,526",MATCH
+Greenlee,govtotal_2022,"2,446","2,446",MATCH
+Greenlee,regdem_2022,"1,452","1,452",MATCH
+Greenlee,regrep_2022,"1,728","1,728",MATCH
+Greenlee,regact_2022,"4,669","4,669",MATCH
+Greenlee,ballots_2026,"2,088","2,088",MATCH
+Greenlee,dem_2026,884,884,MATCH
+Greenlee,rep_2026,"1,116","1,116",MATCH
+Greenlee,govtotal_2026,"2,067","2,067",MATCH
+Greenlee,regdem_2026,"1,146","1,146",MATCH
+Greenlee,regrep_2026,"1,824","1,824",MATCH
+Greenlee,regact_2026,"4,611","4,611",MATCH
+Greenlee,regdem_chg,-306,-306,MATCH
+Greenlee,dem_chg,-36,-36,MATCH
+Greenlee,ballots_chg,-399,-399,MATCH
+Greenlee,S22,36.992360,36.992360,MATCH
+Greenlee,S26,42.337165,42.337165,MATCH
+Greenlee,P22,31.098736,31.098736,MATCH
+Greenlee,P26,24.853611,24.853611,MATCH
+Greenlee,G22,5.893624,5.893624,MATCH
+Greenlee,G26,17.483554,17.483554,MATCH
+Greenlee,dS,5.344804,5.344804,MATCH
+Greenlee,dP,-6.245125,-6.245125,MATCH
+Greenlee,dG,11.589930,11.589930,MATCH
+Greenlee,residual,5.344804,5.344804,MATCH
+Greenlee,implied_extra_votes,111.599517,111.599517,MATCH
+Greenlee,gap_reg_scaled,157.884298,157.884298,MATCH
+Greenlee,regdem_chg_pct,-21.074380,-21.074380,MATCH
+Greenlee,dem_chg_pct,-3.913043,-3.913043,MATCH
+Greenlee,ballots_chg_pct,-16.043426,-16.043426,MATCH
+La Paz,ballots_2022,"5,594","5,594",MATCH
+La Paz,dem_2022,"1,646","1,646",MATCH
+La Paz,rep_2022,"3,847","3,847",MATCH
+La Paz,govtotal_2022,"5,499","5,499",MATCH
+La Paz,regdem_2022,"2,150","2,150",MATCH
+La Paz,regrep_2022,"5,161","5,161",MATCH
+La Paz,regact_2022,"11,311","11,311",MATCH
+La Paz,ballots_2026,"5,343","5,343",MATCH
+La Paz,dem_2026,"1,758","1,758",MATCH
+La Paz,rep_2026,"3,392","3,392",MATCH
+La Paz,govtotal_2026,"5,277","5,277",MATCH
+La Paz,regdem_2026,"1,854","1,854",MATCH
+La Paz,regrep_2026,"5,435","5,435",MATCH
+La Paz,regact_2026,"11,338","11,338",MATCH
+La Paz,regdem_chg,-296,-296,MATCH
+La Paz,dem_chg,112,112,MATCH
+La Paz,ballots_chg,-251,-251,MATCH
+La Paz,S22,29.424383,29.424383,MATCH
+La Paz,S26,32.902864,32.902864,MATCH
+La Paz,P22,19.008045,19.008045,MATCH
+La Paz,P26,16.352090,16.352090,MATCH
+La Paz,G22,10.416338,10.416338,MATCH
+La Paz,G26,16.550773,16.550773,MATCH
+La Paz,dS,3.478480,3.478480,MATCH
+La Paz,dP,-2.655955,-2.655955,MATCH
+La Paz,dG,6.134435,6.134435,MATCH
+La Paz,residual,3.478480,3.478480,MATCH
+La Paz,implied_extra_votes,185.855202,185.855202,MATCH
+La Paz,gap_reg_scaled,338.612093,338.612093,MATCH
+La Paz,regdem_chg_pct,-13.767442,-13.767442,MATCH
+La Paz,dem_chg_pct,6.804374,6.804374,MATCH
+La Paz,ballots_chg_pct,-4.486950,-4.486950,MATCH
+Maricopa,ballots_2022,"1,562,758","1,562,758",MATCH
+Maricopa,dem_2022,"790,352","790,352",MATCH
+Maricopa,rep_2022,"752,714","752,714",MATCH
+Maricopa,govtotal_2022,"1,543,535","1,543,535",MATCH
+Maricopa,regdem_2022,"731,792","731,792",MATCH
+Maricopa,regrep_2022,"841,142","841,142",MATCH
+Maricopa,regact_2022,"2,435,397","2,435,397",MATCH
+Maricopa,ballots_2026,"1,559,706","1,559,706",MATCH
+Maricopa,dem_2026,"881,998","881,998",MATCH
+Maricopa,rep_2026,"630,966","630,966",MATCH
+Maricopa,govtotal_2026,"1,539,513","1,539,513",MATCH
+Maricopa,regdem_2026,"727,925","727,925",MATCH
+Maricopa,regrep_2026,"884,285","884,285",MATCH
+Maricopa,regact_2026,"2,589,827","2,589,827",MATCH
+Maricopa,regdem_chg,"-3,867","-3,867",MATCH
+Maricopa,dem_chg,"91,646","91,646",MATCH
+Maricopa,ballots_chg,"-3,052","-3,052",MATCH
+Maricopa,S22,50.574177,50.574177,MATCH
+Maricopa,S26,56.548991,56.548991,MATCH
+Maricopa,P22,30.048161,30.048161,MATCH
+Maricopa,P26,28.107090,28.107090,MATCH
+Maricopa,G22,20.526017,20.526017,MATCH
+Maricopa,G26,28.441901,28.441901,MATCH
+Maricopa,dS,5.974813,5.974813,MATCH
+Maricopa,dP,-1.941071,-1.941071,MATCH
+Maricopa,dG,7.915884,7.915884,MATCH
+Maricopa,residual,5.974813,5.974813,MATCH
+Maricopa,implied_extra_votes,93189.523888,93189.523888,MATCH
+Maricopa,gap_reg_scaled,95822.447931,95822.447931,MATCH
+Maricopa,regdem_chg_pct,-0.528429,-0.528429,MATCH
+Maricopa,dem_chg_pct,11.595593,11.595593,MATCH
+Maricopa,ballots_chg_pct,-0.195296,-0.195296,MATCH
+Mohave,ballots_2022,"82,758","82,758",MATCH
+Mohave,dem_2022,"20,369","20,369",MATCH
+Mohave,rep_2022,"61,125","61,125",MATCH
+Mohave,govtotal_2022,"81,510","81,510",MATCH
+Mohave,regdem_2022,"20,603","20,603",MATCH
+Mohave,regrep_2022,"76,986","76,986",MATCH
+Mohave,regact_2022,"146,919","146,919",MATCH
+Mohave,ballots_2026,"79,840","79,840",MATCH
+Mohave,dem_2026,"21,355","21,355",MATCH
+Mohave,rep_2026,"56,034","56,034",MATCH
+Mohave,govtotal_2026,"79,058","79,058",MATCH
+Mohave,regdem_2026,"17,359","17,359",MATCH
+Mohave,regrep_2026,"82,574","82,574",MATCH
+Mohave,regact_2026,"146,942","146,942",MATCH
+Mohave,regdem_chg,"-3,244","-3,244",MATCH
+Mohave,dem_chg,986,986,MATCH
+Mohave,ballots_chg,"-2,918","-2,918",MATCH
+Mohave,S22,24.612726,24.612726,MATCH
+Mohave,S26,26.747244,26.747244,MATCH
+Mohave,P22,14.023373,14.023373,MATCH
+Mohave,P26,11.813505,11.813505,MATCH
+Mohave,G22,10.589353,10.589353,MATCH
+Mohave,G26,14.933740,14.933740,MATCH
+Mohave,dS,2.134518,2.134518,MATCH
+Mohave,dP,-2.209869,-2.209869,MATCH
+Mohave,dG,4.344387,4.344387,MATCH
+Mohave,residual,2.134518,2.134518,MATCH
+Mohave,implied_extra_votes,1704.199352,1704.199352,MATCH
+Mohave,gap_reg_scaled,4193.156045,4193.156045,MATCH
+Mohave,regdem_chg_pct,-15.745280,-15.745280,MATCH
+Mohave,dem_chg_pct,4.840689,4.840689,MATCH
+Mohave,ballots_chg_pct,-3.525943,-3.525943,MATCH
+Navajo,ballots_2022,"40,974","40,974",MATCH
+Navajo,dem_2022,"18,058","18,058",MATCH
+Navajo,rep_2022,"22,340","22,340",MATCH
+Navajo,govtotal_2022,"40,411","40,411",MATCH
+Navajo,regdem_2022,"24,144","24,144",MATCH
+Navajo,regrep_2022,"25,417","25,417",MATCH
+Navajo,regact_2022,"69,040","69,040",MATCH
+Navajo,ballots_2026,"40,455","40,455",MATCH
+Navajo,dem_2026,"19,138","19,138",MATCH
+Navajo,rep_2026,"19,724","19,724",MATCH
+Navajo,govtotal_2026,"39,971","39,971",MATCH
+Navajo,regdem_2026,"22,804","22,804",MATCH
+Navajo,regrep_2026,"28,112","28,112",MATCH
+Navajo,regact_2026,"73,154","73,154",MATCH
+Navajo,regdem_chg,"-1,340","-1,340",MATCH
+Navajo,dem_chg,"1,080","1,080",MATCH
+Navajo,ballots_chg,-519,-519,MATCH
+Navajo,S22,44.071850,44.071850,MATCH
+Navajo,S26,47.306884,47.306884,MATCH
+Navajo,P22,34.971031,34.971031,MATCH
+Navajo,P26,31.172595,31.172595,MATCH
+Navajo,G22,9.100819,9.100819,MATCH
+Navajo,G26,16.134289,16.134289,MATCH
+Navajo,dS,3.235034,3.235034,MATCH
+Navajo,dP,-3.798436,-3.798436,MATCH
+Navajo,dG,7.033470,7.033470,MATCH
+Navajo,residual,3.235034,3.235034,MATCH
+Navajo,implied_extra_votes,1308.732904,1308.732904,MATCH
+Navajo,gap_reg_scaled,2082.224983,2082.224983,MATCH
+Navajo,regdem_chg_pct,-5.550033,-5.550033,MATCH
+Navajo,dem_chg_pct,5.980729,5.980729,MATCH
+Navajo,ballots_chg_pct,-1.266657,-1.266657,MATCH
+Pima,ballots_2022,"403,556","403,556",MATCH
+Pima,dem_2022,"241,398","241,398",MATCH
+Pima,rep_2022,"157,034","157,034",MATCH
+Pima,govtotal_2022,"398,553","398,553",MATCH
+Pima,regdem_2022,"250,018","250,018",MATCH
+Pima,regrep_2022,"178,320","178,320",MATCH
+Pima,regact_2022,"639,885","639,885",MATCH
+Pima,ballots_2026,"413,270","413,270",MATCH
+Pima,dem_2026,"264,440","264,440",MATCH
+Pima,rep_2026,"136,914","136,914",MATCH
+Pima,govtotal_2026,"410,185","410,185",MATCH
+Pima,regdem_2026,"238,460","238,460",MATCH
+Pima,regrep_2026,"180,560","180,560",MATCH
+Pima,regact_2026,"657,885","657,885",MATCH
+Pima,regdem_chg,"-11,558","-11,558",MATCH
+Pima,dem_chg,"23,042","23,042",MATCH
+Pima,ballots_chg,"9,714","9,714",MATCH
+Pima,S22,59.817720,59.817720,MATCH
+Pima,S26,63.987224,63.987224,MATCH
+Pima,P22,39.072333,39.072333,MATCH
+Pima,P26,36.246456,36.246456,MATCH
+Pima,G22,20.745387,20.745387,MATCH
+Pima,G26,27.740767,27.740767,MATCH
+Pima,dS,4.169503,4.169503,MATCH
+Pima,dP,-2.825877,-2.825877,MATCH
+Pima,dG,6.995380,6.995380,MATCH
+Pima,residual,4.169503,4.169503,MATCH
+Pima,implied_extra_votes,17231.306634,17231.306634,MATCH
+Pima,gap_reg_scaled,34201.508851,34201.508851,MATCH
+Pima,regdem_chg_pct,-4.622867,-4.622867,MATCH
+Pima,dem_chg_pct,9.545232,9.545232,MATCH
+Pima,ballots_chg_pct,2.407101,2.407101,MATCH
+Pinal,ballots_2022,"145,600","145,600",MATCH
+Pinal,dem_2022,"60,019","60,019",MATCH
+Pinal,rep_2022,"83,773","83,773",MATCH
+Pinal,govtotal_2022,"143,826","143,826",MATCH
+Pinal,regdem_2022,"65,357","65,357",MATCH
+Pinal,regrep_2022,"99,667","99,667",MATCH
+Pinal,regact_2022,"262,694","262,694",MATCH
+Pinal,ballots_2026,"161,571","161,571",MATCH
+Pinal,dem_2026,"76,211","76,211",MATCH
+Pinal,rep_2026,"80,729","80,729",MATCH
+Pinal,govtotal_2026,"160,327","160,327",MATCH
+Pinal,regdem_2026,"65,822","65,822",MATCH
+Pinal,regrep_2026,"113,482","113,482",MATCH
+Pinal,regact_2026,"291,682","291,682",MATCH
+Pinal,regdem_chg,465,465,MATCH
+Pinal,dem_chg,"16,192","16,192",MATCH
+Pinal,ballots_chg,"15,971","15,971",MATCH
+Pinal,S22,41.221841,41.221841,MATCH
+Pinal,S26,47.168737,47.168737,MATCH
+Pinal,P22,24.879518,24.879518,MATCH
+Pinal,P26,22.566357,22.566357,MATCH
+Pinal,G22,16.342323,16.342323,MATCH
+Pinal,G26,24.602380,24.602380,MATCH
+Pinal,dS,5.946896,5.946896,MATCH
+Pinal,dP,-2.313161,-2.313161,MATCH
+Pinal,dG,8.260057,8.260057,MATCH
+Pinal,residual,n/a,n/a,MATCH
+Pinal,implied_extra_votes,9608.459828,9608.459828,MATCH
+Pinal,gap_reg_scaled,15764.978640,15764.978640,MATCH
+Pinal,regdem_chg_pct,0.711477,0.711477,MATCH
+Pinal,dem_chg_pct,26.978124,26.978124,MATCH
+Pinal,ballots_chg_pct,10.969093,10.969093,MATCH
+Santa Cruz,ballots_2022,"13,308","13,308",MATCH
+Santa Cruz,dem_2022,"8,724","8,724",MATCH
+Santa Cruz,rep_2022,"4,371","4,371",MATCH
+Santa Cruz,govtotal_2022,"13,099","13,099",MATCH
+Santa Cruz,regdem_2022,"14,022","14,022",MATCH
+Santa Cruz,regrep_2022,"4,897","4,897",MATCH
+Santa Cruz,regact_2022,"29,189","29,189",MATCH
+Santa Cruz,ballots_2026,"14,238","14,238",MATCH
+Santa Cruz,dem_2026,"9,993","9,993",MATCH
+Santa Cruz,rep_2026,"3,731","3,731",MATCH
+Santa Cruz,govtotal_2026,"14,061","14,061",MATCH
+Santa Cruz,regdem_2026,"13,671","13,671",MATCH
+Santa Cruz,regrep_2026,"6,082","6,082",MATCH
+Santa Cruz,regact_2026,"32,952","32,952",MATCH
+Santa Cruz,regdem_chg,-351,-351,MATCH
+Santa Cruz,dem_chg,"1,269","1,269",MATCH
+Santa Cruz,ballots_chg,930,930,MATCH
+Santa Cruz,S22,65.554554,65.554554,MATCH
+Santa Cruz,S26,70.185419,70.185419,MATCH
+Santa Cruz,P22,48.038645,48.038645,MATCH
+Santa Cruz,P26,41.487618,41.487618,MATCH
+Santa Cruz,G22,17.515909,17.515909,MATCH
+Santa Cruz,G26,28.697801,28.697801,MATCH
+Santa Cruz,dS,4.630866,4.630866,MATCH
+Santa Cruz,dP,-6.551026,-6.551026,MATCH
+Santa Cruz,dG,11.181892,11.181892,MATCH
+Santa Cruz,residual,4.630866,4.630866,MATCH
+Santa Cruz,implied_extra_votes,659.342651,659.342651,MATCH
+Santa Cruz,gap_reg_scaled,1487.379974,1487.379974,MATCH
+Santa Cruz,regdem_chg_pct,-2.503209,-2.503209,MATCH
+Santa Cruz,dem_chg_pct,14.546080,14.546080,MATCH
+Santa Cruz,ballots_chg_pct,6.988278,6.988278,MATCH
+Yavapai,ballots_2022,"124,871","124,871",MATCH
+Yavapai,dem_2022,"44,316","44,316",MATCH
+Yavapai,rep_2022,"78,832","78,832",MATCH
+Yavapai,govtotal_2022,"123,191","123,191",MATCH
+Yavapai,regdem_2022,"32,326","32,326",MATCH
+Yavapai,regrep_2022,"81,695","81,695",MATCH
+Yavapai,regact_2022,"166,052","166,052",MATCH
+Yavapai,ballots_2026,"121,818","121,818",MATCH
+Yavapai,dem_2026,"46,024","46,024",MATCH
+Yavapai,rep_2026,"72,354","72,354",MATCH
+Yavapai,govtotal_2026,"120,679","120,679",MATCH
+Yavapai,regdem_2026,"30,907","30,907",MATCH
+Yavapai,regrep_2026,"89,945","89,945",MATCH
+Yavapai,regact_2026,"175,542","175,542",MATCH
+Yavapai,regdem_chg,"-1,419","-1,419",MATCH
+Yavapai,dem_chg,"1,708","1,708",MATCH
+Yavapai,ballots_chg,"-3,053","-3,053",MATCH
+Yavapai,S22,35.489425,35.489425,MATCH
+Yavapai,S26,37.780952,37.780952,MATCH
+Yavapai,P22,19.467396,19.467396,MATCH
+Yavapai,P26,17.606613,17.606613,MATCH
+Yavapai,G22,16.022029,16.022029,MATCH
+Yavapai,G26,20.174339,20.174339,MATCH
+Yavapai,dS,2.291527,2.291527,MATCH
+Yavapai,dP,-1.860783,-1.860783,MATCH
+Yavapai,dG,4.152310,4.152310,MATCH
+Yavapai,residual,2.291527,2.291527,MATCH
+Yavapai,implied_extra_votes,2791.492148,2791.492148,MATCH
+Yavapai,gap_reg_scaled,3653.319681,3653.319681,MATCH
+Yavapai,regdem_chg_pct,-4.389655,-4.389655,MATCH
+Yavapai,dem_chg_pct,3.854138,3.854138,MATCH
+Yavapai,ballots_chg_pct,-2.444923,-2.444923,MATCH
+Yuma,ballots_2022,"46,830","46,830",MATCH
+Yuma,dem_2022,"20,063","20,063",MATCH
+Yuma,rep_2022,"26,040","26,040",MATCH
+Yuma,govtotal_2022,"46,111","46,111",MATCH
+Yuma,regdem_2022,"32,090","32,090",MATCH
+Yuma,regrep_2022,"31,698","31,698",MATCH
+Yuma,regact_2022,"105,133","105,133",MATCH
+Yuma,ballots_2026,"48,636","48,636",MATCH
+Yuma,dem_2026,"25,161","25,161",MATCH
+Yuma,rep_2026,"21,504","21,504",MATCH
+Yuma,govtotal_2026,"47,998","47,998",MATCH
+Yuma,regdem_2026,"29,502","29,502",MATCH
+Yuma,regrep_2026,"35,478","35,478",MATCH
+Yuma,regact_2026,"111,922","111,922",MATCH
+Yuma,regdem_chg,"-2,588","-2,588",MATCH
+Yuma,dem_chg,"5,098","5,098",MATCH
+Yuma,ballots_chg,"1,806","1,806",MATCH
+Yuma,S22,42.842195,42.842195,MATCH
+Yuma,S26,51.733284,51.733284,MATCH
+Yuma,P22,30.523242,30.523242,MATCH
+Yuma,P26,26.359429,26.359429,MATCH
+Yuma,G22,12.318953,12.318953,MATCH
+Yuma,G26,25.373855,25.373855,MATCH
+Yuma,dS,8.891089,8.891089,MATCH
+Yuma,dP,-4.163813,-4.163813,MATCH
+Yuma,dG,13.054902,13.054902,MATCH
+Yuma,residual,8.891089,8.891089,MATCH
+Yuma,implied_extra_votes,4324.269955,4324.269955,MATCH
+Yuma,gap_reg_scaled,6716.044375,6716.044375,MATCH
+Yuma,regdem_chg_pct,-8.064818,-8.064818,MATCH
+Yuma,dem_chg_pct,25.409959,25.409959,MATCH
+Yuma,ballots_chg_pct,3.856502,3.856502,MATCH

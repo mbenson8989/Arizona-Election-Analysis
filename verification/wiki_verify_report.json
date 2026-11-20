@@ -1,0 +1,66 @@
+{
+ "numbers_checked": 994,
+ "numbers_matched": 994,
+ "claims_checked": 20,
+ "claims_true": 20,
+ "links_and_elements": 108,
+ "links_ok": 108,
+ "token_accounting": {
+  "Arizona-County-PDF-Information": {
+   "tokens": 63,
+   "manifest": 63,
+   "unaccounted_tokens": {},
+   "manifest_not_found": {}
+  },
+  "Floor-and-Ceiling": {
+   "tokens": 301,
+   "manifest": 301,
+   "unaccounted_tokens": {},
+   "manifest_not_found": {}
+  },
+  "Graphs": {
+   "tokens": 45,
+   "manifest": 45,
+   "unaccounted_tokens": {},
+   "manifest_not_found": {}
+  },
+  "Home": {
+   "tokens": 94,
+   "manifest": 94,
+   "unaccounted_tokens": {},
+   "manifest_not_found": {}
+  },
+  "Locked-Arizona-Formula": {
+   "tokens": 260,
+   "manifest": 260,
+   "unaccounted_tokens": {},
+   "manifest_not_found": {}
+  },
+  "Reverse-Math": {
+   "tokens": 521,
+   "manifest": 521,
+   "unaccounted_tokens": {},
+   "manifest_not_found": {}
+  },
+  "_Sidebar": {
+   "tokens": 10,
+   "manifest": 10,
+   "unaccounted_tokens": {},
+   "manifest_not_found": {}
+  },
+  "README": {
+   "tokens": 57,
+   "manifest": 57,
+   "unaccounted_tokens": {},
+   "manifest_not_found": {}
+  }
+ },
+ "passA_narrowed": [
+  "Yuma"
+ ],
+ "passB_narrowed": [
+  "Yuma"
+ ],
+ "failures": [],
+ "CLEAN": true
+}

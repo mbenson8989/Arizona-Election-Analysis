@@ -1,0 +1,113 @@
+{
+ "pdf": {
+  "pages": 3,
+  "size": [
+   792.0,
+   612.0
+  ],
+  "page1_words_outside_margins": [],
+  "page2_words_outside_margins": [],
+  "page3_words_outside_margins": []
+ },
+ "wiki": {
+  "Arizona-County-PDF-Information": {
+   "tables_markdown": 0,
+   "tables_rendered": 0,
+   "table_cell_issues": [],
+   "images": [],
+   "images_broken": [],
+   "markdown_leaks": 0
+  },
+  "Floor-and-Ceiling": {
+   "tables_markdown": 4,
+   "tables_rendered": 4,
+   "table_cell_issues": [],
+   "images": [],
+   "images_broken": [],
+   "markdown_leaks": 0
+  },
+  "Graphs": {
+   "tables_markdown": 0,
+   "tables_rendered": 0,
+   "table_cell_issues": [],
+   "images": [
+    [
+     "AZ_DeltaG_by_Population.png",
+     1320
+    ],
+    [
+     "AZ_DeltaG_vs_RegShareDrop_Scatter.png",
+     990
+    ],
+    [
+     "AZ_Slope_G2022_to_G2026.png",
+     880
+    ],
+    [
+     "AZ_DeltaG_Components_dS_vs_dP_by_Population.png",
+     1320
+    ],
+    [
+     "AZ_Share_and_Registration_by_Population.png",
+     1320
+    ],
+    [
+     "AZ_Forward_Fit_G_vs_P_2022_2026.png",
+     990
+    ],
+    [
+     "AZ_Residual_and_Implied_Votes_by_Population.png",
+     1320
+    ],
+    [
+     "AZ_Overballot_Check_by_Population.png",
+     1320
+    ]
+   ],
+   "images_broken": [],
+   "markdown_leaks": 0
+  },
+  "Home": {
+   "tables_markdown": 1,
+   "tables_rendered": 1,
+   "table_cell_issues": [],
+   "images": [],
+   "images_broken": [],
+   "markdown_leaks": 0
+  },
+  "Locked-Arizona-Formula": {
+   "tables_markdown": 6,
+   "tables_rendered": 6,
+   "table_cell_issues": [],
+   "images": [],
+   "images_broken": [],
+   "markdown_leaks": 0
+  },
+  "Reverse-Math": {
+   "tables_markdown": 5,
+   "tables_rendered": 5,
+   "table_cell_issues": [],
+   "images": [],
+   "images_broken": [],
+   "markdown_leaks": 0
+  },
+  "_Sidebar": {
+   "tables_markdown": 0,
+   "tables_rendered": 0,
+   "table_cell_issues": [],
+   "images": [],
+   "images_broken": [],
+   "markdown_leaks": 0
+  },
+  "README": {
+   "tables_markdown": 2,
+   "tables_rendered": 2,
+   "table_cell_issues": [],
+   "images": [],
+   "images_broken": [],
+   "markdown_leaks": 0
+  }
+ },
+ "failures": [],
+ "CLEAN": true
+}

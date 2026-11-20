@@ -1,0 +1,340 @@
+page,county,column,raw_checker_recompute,passA_recompute,passB_recompute,pdf_text,result
+1,Apache,Dem Reg Share 2026 %,49.7%,49.7%,49.7%,49.7%,MATCH
+1,Apache,Dem Reg 2022,"27,625","27,625","27,625","27,625",MATCH
+1,Apache,Dem Reg 2026,"26,498","26,498","26,498","26,498",MATCH
+1,Apache,Reg Change #,"-1,127","-1,127","-1,127","-1,127",MATCH
+1,Apache,Reg Change %,-4.1%,-4.1%,-4.1%,-4.1%,MATCH
+1,Apache,Dem Gov Votes 2022,"17,739","17,739","17,739","17,739",MATCH
+1,Apache,Dem Gov Votes 2026*,"18,164","18,164","18,164","18,164",MATCH
+1,Apache,Vote Change #,+425,+425,+425,+425,MATCH
+1,Apache,Vote Change %,+2.4%,+2.4%,+2.4%,+2.4%,MATCH
+1,Apache,Total Ballots 2022,"27,010","27,010","27,010","27,010",MATCH
+1,Apache,Total Ballots 2026*,"27,341","27,341","27,341","27,341",MATCH
+1,Apache,Ballot Change #,+331,+331,+331,+331,MATCH
+1,Apache,Ballot Change %,+1.2%,+1.2%,+1.2%,+1.2%,MATCH
+1,Santa Cruz,Dem Reg Share 2026 %,41.5%,41.5%,41.5%,41.5%,MATCH
+1,Santa Cruz,Dem Reg 2022,"14,022","14,022","14,022","14,022",MATCH
+1,Santa Cruz,Dem Reg 2026,"13,671","13,671","13,671","13,671",MATCH
+1,Santa Cruz,Reg Change #,-351,-351,-351,-351,MATCH
+1,Santa Cruz,Reg Change %,-2.5%,-2.5%,-2.5%,-2.5%,MATCH
+1,Santa Cruz,Dem Gov Votes 2022,"8,724","8,724","8,724","8,724",MATCH
+1,Santa Cruz,Dem Gov Votes 2026*,"9,993","9,993","9,993","9,993",MATCH
+1,Santa Cruz,Vote Change #,"+1,269","+1,269","+1,269","+1,269",MATCH
+1,Santa Cruz,Vote Change %,+14.5%,+14.5%,+14.5%,+14.5%,MATCH
+1,Santa Cruz,Total Ballots 2022,"13,308","13,308","13,308","13,308",MATCH
+1,Santa Cruz,Total Ballots 2026*,"14,238","14,238","14,238","14,238",MATCH
+1,Santa Cruz,Ballot Change #,+930,+930,+930,+930,MATCH
+1,Santa Cruz,Ballot Change %,+7.0%,+7.0%,+7.0%,+7.0%,MATCH
+1,Coconino,Dem Reg Share 2026 %,38.2%,38.2%,38.2%,38.2%,MATCH
+1,Coconino,Dem Reg 2022,"36,569","36,569","36,569","36,569",MATCH
+1,Coconino,Dem Reg 2026,"33,719","33,719","33,719","33,719",MATCH
+1,Coconino,Reg Change #,"-2,850","-2,850","-2,850","-2,850",MATCH
+1,Coconino,Reg Change %,-7.8%,-7.8%,-7.8%,-7.8%,MATCH
+1,Coconino,Dem Gov Votes 2022,"34,389","34,389","34,389","34,389",MATCH
+1,Coconino,Dem Gov Votes 2026*,"37,569","37,569","37,569","37,569",MATCH
+1,Coconino,Vote Change #,"+3,180","+3,180","+3,180","+3,180",MATCH
+1,Coconino,Vote Change %,+9.2%,+9.2%,+9.2%,+9.2%,MATCH
+1,Coconino,Total Ballots 2022,"55,475","55,475","55,475","55,475",MATCH
+1,Coconino,Total Ballots 2026*,"56,141","56,141","56,141","56,141",MATCH
+1,Coconino,Ballot Change #,+666,+666,+666,+666,MATCH
+1,Coconino,Ballot Change %,+1.2%,+1.2%,+1.2%,+1.2%,MATCH
+1,Pima,Dem Reg Share 2026 %,36.2%,36.2%,36.2%,36.2%,MATCH
+1,Pima,Dem Reg 2022,"250,018","250,018","250,018","250,018",MATCH
+1,Pima,Dem Reg 2026,"238,460","238,460","238,460","238,460",MATCH
+1,Pima,Reg Change #,"-11,558","-11,558","-11,558","-11,558",MATCH
+1,Pima,Reg Change %,-4.6%,-4.6%,-4.6%,-4.6%,MATCH
+1,Pima,Dem Gov Votes 2022,"241,398","241,398","241,398","241,398",MATCH
+1,Pima,Dem Gov Votes 2026*,"264,440","264,440","264,440","264,440",MATCH
+1,Pima,Vote Change #,"+23,042","+23,042","+23,042","+23,042",MATCH
+1,Pima,Vote Change %,+9.5%,+9.5%,+9.5%,+9.5%,MATCH
+1,Pima,Total Ballots 2022,"403,556","403,556","403,556","403,556",MATCH
+1,Pima,Total Ballots 2026*,"413,270","413,270","413,270","413,270",MATCH
+1,Pima,Ballot Change #,"+9,714","+9,714","+9,714","+9,714",MATCH
+1,Pima,Ballot Change %,+2.4%,+2.4%,+2.4%,+2.4%,MATCH
+1,Navajo,Dem Reg Share 2026 %,31.2%,31.2%,31.2%,31.2%,MATCH
+1,Navajo,Dem Reg 2022,"24,144","24,144","24,144","24,144",MATCH
+1,Navajo,Dem Reg 2026,"22,804","22,804","22,804","22,804",MATCH
+1,Navajo,Reg Change #,"-1,340","-1,340","-1,340","-1,340",MATCH
+1,Navajo,Reg Change %,-5.6%,-5.6%,-5.6%,-5.6%,MATCH
+1,Navajo,Dem Gov Votes 2022,"18,058","18,058","18,058","18,058",MATCH
+1,Navajo,Dem Gov Votes 2026*,"19,138","19,138","19,138","19,138",MATCH
+1,Navajo,Vote Change #,"+1,080","+1,080","+1,080","+1,080",MATCH
+1,Navajo,Vote Change %,+6.0%,+6.0%,+6.0%,+6.0%,MATCH
+1,Navajo,Total Ballots 2022,"40,974","40,974","40,974","40,974",MATCH
+1,Navajo,Total Ballots 2026*,"40,455","40,455","40,455","40,455",MATCH
+1,Navajo,Ballot Change #,-519,-519,-519,-519,MATCH
+1,Navajo,Ballot Change %,-1.3%,-1.3%,-1.3%,-1.3%,MATCH
+1,Maricopa,Dem Reg Share 2026 %,28.1%,28.1%,28.1%,28.1%,MATCH
+1,Maricopa,Dem Reg 2022,"731,792","731,792","731,792","731,792",MATCH
+1,Maricopa,Dem Reg 2026,"727,925","727,925","727,925","727,925",MATCH
+1,Maricopa,Reg Change #,"-3,867","-3,867","-3,867","-3,867",MATCH
+1,Maricopa,Reg Change %,-0.5%,-0.5%,-0.5%,-0.5%,MATCH
+1,Maricopa,Dem Gov Votes 2022,"790,352","790,352","790,352","790,352",MATCH
+1,Maricopa,Dem Gov Votes 2026*,"881,998","881,998","881,998","881,998",MATCH
+1,Maricopa,Vote Change #,"+91,646","+91,646","+91,646","+91,646",MATCH
+1,Maricopa,Vote Change %,+11.6%,+11.6%,+11.6%,+11.6%,MATCH
+1,Maricopa,Total Ballots 2022,"1,562,758","1,562,758","1,562,758","1,562,758",MATCH
+1,Maricopa,Total Ballots 2026*,"1,559,706","1,559,706","1,559,706","1,559,706",MATCH
+1,Maricopa,Ballot Change #,"-3,052","-3,052","-3,052","-3,052",MATCH
+1,Maricopa,Ballot Change %,-0.2%,-0.2%,-0.2%,-0.2%,MATCH
+1,Yuma,Dem Reg Share 2026 %,26.4%,26.4%,26.4%,26.4%,MATCH
+1,Yuma,Dem Reg 2022,"32,090","32,090","32,090","32,090",MATCH
+1,Yuma,Dem Reg 2026,"29,502","29,502","29,502","29,502",MATCH
+1,Yuma,Reg Change #,"-2,588","-2,588","-2,588","-2,588",MATCH
+1,Yuma,Reg Change %,-8.1%,-8.1%,-8.1%,-8.1%,MATCH
+1,Yuma,Dem Gov Votes 2022,"20,063","20,063","20,063","20,063",MATCH
+1,Yuma,Dem Gov Votes 2026*,"25,161","25,161","25,161","25,161",MATCH
+1,Yuma,Vote Change #,"+5,098","+5,098","+5,098","+5,098",MATCH
+1,Yuma,Vote Change %,+25.4%,+25.4%,+25.4%,+25.4%,MATCH
+1,Yuma,Total Ballots 2022,"46,830","46,830","46,830","46,830",MATCH
+1,Yuma,Total Ballots 2026*,"48,636","48,636","48,636","48,636",MATCH
+1,Yuma,Ballot Change #,"+1,806","+1,806","+1,806","+1,806",MATCH
+1,Yuma,Ballot Change %,+3.9%,+3.9%,+3.9%,+3.9%,MATCH
+1,Greenlee,Dem Reg Share 2026 %,24.9%,24.9%,24.9%,24.9%,MATCH
+1,Greenlee,Dem Reg 2022,"1,452","1,452","1,452","1,452",MATCH
+1,Greenlee,Dem Reg 2026,"1,146","1,146","1,146","1,146",MATCH
+1,Greenlee,Reg Change #,-306,-306,-306,-306,MATCH
+1,Greenlee,Reg Change %,-21.1%,-21.1%,-21.1%,-21.1%,MATCH
+1,Greenlee,Dem Gov Votes 2022,920,920,920,920,MATCH
+1,Greenlee,Dem Gov Votes 2026*,884,884,884,884,MATCH
+1,Greenlee,Vote Change #,-36,-36,-36,-36,MATCH
+1,Greenlee,Vote Change %,-3.9%,-3.9%,-3.9%,-3.9%,MATCH
+1,Greenlee,Total Ballots 2022,"2,487","2,487","2,487","2,487",MATCH
+1,Greenlee,Total Ballots 2026*,"2,088","2,088","2,088","2,088",MATCH
+1,Greenlee,Ballot Change #,-399,-399,-399,-399,MATCH
+1,Greenlee,Ballot Change %,-16.0%,-16.0%,-16.0%,-16.0%,MATCH
+1,Pinal,Dem Reg Share 2026 %,22.6%,22.6%,22.6%,22.6%,MATCH
+1,Pinal,Dem Reg 2022,"65,357","65,357","65,357","65,357",MATCH
+1,Pinal,Dem Reg 2026,"65,822","65,822","65,822","65,822",MATCH
+1,Pinal,Reg Change #,+465,+465,+465,+465,MATCH
+1,Pinal,Reg Change %,+0.7%,+0.7%,+0.7%,+0.7%,MATCH
+1,Pinal,Dem Gov Votes 2022,"60,019","60,019","60,019","60,019",MATCH
+1,Pinal,Dem Gov Votes 2026*,"76,211","76,211","76,211","76,211",MATCH
+1,Pinal,Vote Change #,"+16,192","+16,192","+16,192","+16,192",MATCH
+1,Pinal,Vote Change %,+27.0%,+27.0%,+27.0%,+27.0%,MATCH
+1,Pinal,Total Ballots 2022,"145,600","145,600","145,600","145,600",MATCH
+1,Pinal,Total Ballots 2026*,"161,571","161,571","161,571","161,571",MATCH
+1,Pinal,Ballot Change #,"+15,971","+15,971","+15,971","+15,971",MATCH
+1,Pinal,Ballot Change %,+11.0%,+11.0%,+11.0%,+11.0%,MATCH
+1,Cochise,Dem Reg Share 2026 %,22.1%,22.1%,22.1%,22.1%,MATCH
+1,Cochise,Dem Reg 2022,"19,423","19,423","19,423","19,423",MATCH
+1,Cochise,Dem Reg 2026,"18,287","18,287","18,287","18,287",MATCH
+1,Cochise,Reg Change #,"-1,136","-1,136","-1,136","-1,136",MATCH
+1,Cochise,Reg Change %,-5.8%,-5.8%,-5.8%,-5.8%,MATCH
+1,Cochise,Dem Gov Votes 2022,"19,137","19,137","19,137","19,137",MATCH
+1,Cochise,Dem Gov Votes 2026*,"21,005","21,005","21,005","21,005",MATCH
+1,Cochise,Vote Change #,"+1,868","+1,868","+1,868","+1,868",MATCH
+1,Cochise,Vote Change %,+9.8%,+9.8%,+9.8%,+9.8%,MATCH
+1,Cochise,Total Ballots 2022,"47,284","47,284","47,284","47,284",MATCH
+1,Cochise,Total Ballots 2026*,"46,817","46,817","46,817","46,817",MATCH
+1,Cochise,Ballot Change #,-467,-467,-467,-467,MATCH
+1,Cochise,Ballot Change %,-1.0%,-1.0%,-1.0%,-1.0%,MATCH
+1,Gila,Dem Reg Share 2026 %,21.6%,21.6%,21.6%,21.6%,MATCH
+1,Gila,Dem Reg 2022,"8,431","8,431","8,431","8,431",MATCH
+1,Gila,Dem Reg 2026,"7,396","7,396","7,396","7,396",MATCH
+1,Gila,Reg Change #,"-1,035","-1,035","-1,035","-1,035",MATCH
+1,Gila,Reg Change %,-12.3%,-12.3%,-12.3%,-12.3%,MATCH
+1,Gila,Dem Gov Votes 2022,"7,674","7,674","7,674","7,674",MATCH
+1,Gila,Dem Gov Votes 2026*,"7,620","7,620","7,620","7,620",MATCH
+1,Gila,Vote Change #,-54,-54,-54,-54,MATCH
+1,Gila,Vote Change %,-0.7%,-0.7%,-0.7%,-0.7%,MATCH
+1,Gila,Total Ballots 2022,"22,802","22,802","22,802","22,802",MATCH
+1,Gila,Total Ballots 2026*,"21,130","21,130","21,130","21,130",MATCH
+1,Gila,Ballot Change #,"-1,672","-1,672","-1,672","-1,672",MATCH
+1,Gila,Ballot Change %,-7.3%,-7.3%,-7.3%,-7.3%,MATCH
+1,Graham,Dem Reg Share 2026 %,20.1%,20.1%,20.1%,20.1%,MATCH
+1,Graham,Dem Reg 2022,"4,542","4,542","4,542","4,542",MATCH
+1,Graham,Dem Reg 2026,"4,139","4,139","4,139","4,139",MATCH
+1,Graham,Reg Change #,-403,-403,-403,-403,MATCH
+1,Graham,Reg Change %,-8.9%,-8.9%,-8.9%,-8.9%,MATCH
+1,Graham,Dem Gov Votes 2022,"3,087","3,087","3,087","3,087",MATCH
+1,Graham,Dem Gov Votes 2026*,"3,504","3,504","3,504","3,504",MATCH
+1,Graham,Vote Change #,+417,+417,+417,+417,MATCH
+1,Graham,Vote Change %,+13.5%,+13.5%,+13.5%,+13.5%,MATCH
+1,Graham,Total Ballots 2022,"11,006","11,006","11,006","11,006",MATCH
+1,Graham,Total Ballots 2026*,"10,525","10,525","10,525","10,525",MATCH
+1,Graham,Ballot Change #,-481,-481,-481,-481,MATCH
+1,Graham,Ballot Change %,-4.4%,-4.4%,-4.4%,-4.4%,MATCH
+1,Yavapai,Dem Reg Share 2026 %,17.6%,17.6%,17.6%,17.6%,MATCH
+1,Yavapai,Dem Reg 2022,"32,326","32,326","32,326","32,326",MATCH
+1,Yavapai,Dem Reg 2026,"30,907","30,907","30,907","30,907",MATCH
+1,Yavapai,Reg Change #,"-1,419","-1,419","-1,419","-1,419",MATCH
+1,Yavapai,Reg Change %,-4.4%,-4.4%,-4.4%,-4.4%,MATCH
+1,Yavapai,Dem Gov Votes 2022,"44,316","44,316","44,316","44,316",MATCH
+1,Yavapai,Dem Gov Votes 2026*,"46,024","46,024","46,024","46,024",MATCH
+1,Yavapai,Vote Change #,"+1,708","+1,708","+1,708","+1,708",MATCH
+1,Yavapai,Vote Change %,+3.9%,+3.9%,+3.9%,+3.9%,MATCH
+1,Yavapai,Total Ballots 2022,"124,871","124,871","124,871","124,871",MATCH
+1,Yavapai,Total Ballots 2026*,"121,818","121,818","121,818","121,818",MATCH
+1,Yavapai,Ballot Change #,"-3,053","-3,053","-3,053","-3,053",MATCH
+1,Yavapai,Ballot Change %,-2.4%,-2.4%,-2.4%,-2.4%,MATCH
+1,La Paz,Dem Reg Share 2026 %,16.4%,16.4%,16.4%,16.4%,MATCH
+1,La Paz,Dem Reg 2022,"2,150","2,150","2,150","2,150",MATCH
+1,La Paz,Dem Reg 2026,"1,854","1,854","1,854","1,854",MATCH
+1,La Paz,Reg Change #,-296,-296,-296,-296,MATCH
+1,La Paz,Reg Change %,-13.8%,-13.8%,-13.8%,-13.8%,MATCH
+1,La Paz,Dem Gov Votes 2022,"1,646","1,646","1,646","1,646",MATCH
+1,La Paz,Dem Gov Votes 2026*,"1,758","1,758","1,758","1,758",MATCH
+1,La Paz,Vote Change #,+112,+112,+112,+112,MATCH
+1,La Paz,Vote Change %,+6.8%,+6.8%,+6.8%,+6.8%,MATCH
+1,La Paz,Total Ballots 2022,"5,594","5,594","5,594","5,594",MATCH
+1,La Paz,Total Ballots 2026*,"5,343","5,343","5,343","5,343",MATCH
+1,La Paz,Ballot Change #,-251,-251,-251,-251,MATCH
+1,La Paz,Ballot Change %,-4.5%,-4.5%,-4.5%,-4.5%,MATCH
+1,Mohave,Dem Reg Share 2026 %,11.8%,11.8%,11.8%,11.8%,MATCH
+1,Mohave,Dem Reg 2022,"20,603","20,603","20,603","20,603",MATCH
+1,Mohave,Dem Reg 2026,"17,359","17,359","17,359","17,359",MATCH
+1,Mohave,Reg Change #,"-3,244","-3,244","-3,244","-3,244",MATCH
+1,Mohave,Reg Change %,-15.7%,-15.7%,-15.7%,-15.7%,MATCH
+1,Mohave,Dem Gov Votes 2022,"20,369","20,369","20,369","20,369",MATCH
+1,Mohave,Dem Gov Votes 2026*,"21,355","21,355","21,355","21,355",MATCH
+1,Mohave,Vote Change #,+986,+986,+986,+986,MATCH
+1,Mohave,Vote Change %,+4.8%,+4.8%,+4.8%,+4.8%,MATCH
+1,Mohave,Total Ballots 2022,"82,758","82,758","82,758","82,758",MATCH
+1,Mohave,Total Ballots 2026*,"79,840","79,840","79,840","79,840",MATCH
+1,Mohave,Ballot Change #,"-2,918","-2,918","-2,918","-2,918",MATCH
+1,Mohave,Ballot Change %,-3.5%,-3.5%,-3.5%,-3.5%,MATCH
+1,Statewide total,Dem Reg Share 2026 %,28.3%,28.3%,28.3%,28.3%,MATCH
+1,Statewide total,Dem Reg 2022,"1,270,544","1,270,544","1,270,544","1,270,544",MATCH
+1,Statewide total,Dem Reg 2026,"1,239,489","1,239,489","1,239,489","1,239,489",MATCH
+1,Statewide total,Reg Change #,"-31,055","-31,055","-31,055","-31,055",MATCH
+1,Statewide total,Reg Change %,-2.4%,-2.4%,-2.4%,-2.4%,MATCH
+1,Statewide total,Dem Gov Votes 2022,"1,287,891","1,287,891","1,287,891","1,287,891",MATCH
+1,Statewide total,Dem Gov Votes 2026*,"1,434,824","1,434,824","1,434,824","1,434,824",MATCH
+1,Statewide total,Vote Change #,"+146,933","+146,933","+146,933","+146,933",MATCH
+1,Statewide total,Vote Change %,+11.4%,+11.4%,+11.4%,+11.4%,MATCH
+1,Statewide total,Total Ballots 2022,"2,592,313","2,592,313","2,592,313","2,592,313",MATCH
+1,Statewide total,Total Ballots 2026*,"2,608,919","2,608,919","2,608,919","2,608,919",MATCH
+1,Statewide total,Ballot Change #,"+16,606","+16,606","+16,606","+16,606",MATCH
+1,Statewide total,Ballot Change %,+0.6%,+0.6%,+0.6%,+0.6%,MATCH
+2,Apache,Dem Share of Ballots 2022 %,65.7%,65.7%,65.7%,65.7%,MATCH
+2,Apache,Dem Share of Ballots 2026* %,66.4%,66.4%,66.4%,66.4%,MATCH
+2,Apache,Change (pts),+0.76,+0.76,+0.76,+0.76,MATCH
+2,Apache,Dem Share of Registration 2022 %,53.1%,53.1%,53.1%,53.1%,MATCH
+2,Apache,Total Active Registered 2022,"51,981","51,981","51,981","51,981",MATCH
+2,Apache,Dem Share of Registration 2026 %,49.7%,49.7%,49.7%,49.7%,MATCH
+2,Apache,Total Active Registered 2026,"53,295","53,295","53,295","53,295",MATCH
+2,Apache,Registration Share Change (pts),-3.42,-3.42,-3.42,-3.42,MATCH
+2,Santa Cruz,Dem Share of Ballots 2022 %,65.6%,65.6%,65.6%,65.6%,MATCH
+2,Santa Cruz,Dem Share of Ballots 2026* %,70.2%,70.2%,70.2%,70.2%,MATCH
+2,Santa Cruz,Change (pts),+4.63,+4.63,+4.63,+4.63,MATCH
+2,Santa Cruz,Dem Share of Registration 2022 %,48.0%,48.0%,48.0%,48.0%,MATCH
+2,Santa Cruz,Total Active Registered 2022,"29,189","29,189","29,189","29,189",MATCH
+2,Santa Cruz,Dem Share of Registration 2026 %,41.5%,41.5%,41.5%,41.5%,MATCH
+2,Santa Cruz,Total Active Registered 2026,"32,952","32,952","32,952","32,952",MATCH
+2,Santa Cruz,Registration Share Change (pts),-6.55,-6.55,-6.55,-6.55,MATCH
+2,Coconino,Dem Share of Ballots 2022 %,62.0%,62.0%,62.0%,62.0%,MATCH
+2,Coconino,Dem Share of Ballots 2026* %,66.9%,66.9%,66.9%,66.9%,MATCH
+2,Coconino,Change (pts),+4.93,+4.93,+4.93,+4.93,MATCH
+2,Coconino,Dem Share of Registration 2022 %,40.3%,40.3%,40.3%,40.3%,MATCH
+2,Coconino,Total Active Registered 2022,"90,829","90,829","90,829","90,829",MATCH
+2,Coconino,Dem Share of Registration 2026 %,38.2%,38.2%,38.2%,38.2%,MATCH
+2,Coconino,Total Active Registered 2026,"88,175","88,175","88,175","88,175",MATCH
+2,Coconino,Registration Share Change (pts),-2.02,-2.02,-2.02,-2.02,MATCH
+2,Pima,Dem Share of Ballots 2022 %,59.8%,59.8%,59.8%,59.8%,MATCH
+2,Pima,Dem Share of Ballots 2026* %,64.0%,64.0%,64.0%,64.0%,MATCH
+2,Pima,Change (pts),+4.17,+4.17,+4.17,+4.17,MATCH
+2,Pima,Dem Share of Registration 2022 %,39.1%,39.1%,39.1%,39.1%,MATCH
+2,Pima,Total Active Registered 2022,"639,885","639,885","639,885","639,885",MATCH
+2,Pima,Dem Share of Registration 2026 %,36.2%,36.2%,36.2%,36.2%,MATCH
+2,Pima,Total Active Registered 2026,"657,885","657,885","657,885","657,885",MATCH
+2,Pima,Registration Share Change (pts),-2.83,-2.83,-2.83,-2.83,MATCH
+2,Navajo,Dem Share of Ballots 2022 %,44.1%,44.1%,44.1%,44.1%,MATCH
+2,Navajo,Dem Share of Ballots 2026* %,47.3%,47.3%,47.3%,47.3%,MATCH
+2,Navajo,Change (pts),+3.24,+3.24,+3.24,+3.24,MATCH
+2,Navajo,Dem Share of Registration 2022 %,35.0%,35.0%,35.0%,35.0%,MATCH
+2,Navajo,Total Active Registered 2022,"69,040","69,040","69,040","69,040",MATCH
+2,Navajo,Dem Share of Registration 2026 %,31.2%,31.2%,31.2%,31.2%,MATCH
+2,Navajo,Total Active Registered 2026,"73,154","73,154","73,154","73,154",MATCH
+2,Navajo,Registration Share Change (pts),-3.80,-3.80,-3.80,-3.80,MATCH
+2,Maricopa,Dem Share of Ballots 2022 %,50.6%,50.6%,50.6%,50.6%,MATCH
+2,Maricopa,Dem Share of Ballots 2026* %,56.5%,56.5%,56.5%,56.5%,MATCH
+2,Maricopa,Change (pts),+5.97,+5.97,+5.97,+5.97,MATCH
+2,Maricopa,Dem Share of Registration 2022 %,30.0%,30.0%,30.0%,30.0%,MATCH
+2,Maricopa,Total Active Registered 2022,"2,435,397","2,435,397","2,435,397","2,435,397",MATCH
+2,Maricopa,Dem Share of Registration 2026 %,28.1%,28.1%,28.1%,28.1%,MATCH
+2,Maricopa,Total Active Registered 2026,"2,589,827","2,589,827","2,589,827","2,589,827",MATCH
+2,Maricopa,Registration Share Change (pts),-1.94,-1.94,-1.94,-1.94,MATCH
+2,Yuma,Dem Share of Ballots 2022 %,42.8%,42.8%,42.8%,42.8%,MATCH
+2,Yuma,Dem Share of Ballots 2026* %,51.7%,51.7%,51.7%,51.7%,MATCH
+2,Yuma,Change (pts),+8.89,+8.89,+8.89,+8.89,MATCH
+2,Yuma,Dem Share of Registration 2022 %,30.5%,30.5%,30.5%,30.5%,MATCH
+2,Yuma,Total Active Registered 2022,"105,133","105,133","105,133","105,133",MATCH
+2,Yuma,Dem Share of Registration 2026 %,26.4%,26.4%,26.4%,26.4%,MATCH
+2,Yuma,Total Active Registered 2026,"111,922","111,922","111,922","111,922",MATCH
+2,Yuma,Registration Share Change (pts),-4.16,-4.16,-4.16,-4.16,MATCH
+2,Greenlee,Dem Share of Ballots 2022 %,37.0%,37.0%,37.0%,37.0%,MATCH
+2,Greenlee,Dem Share of Ballots 2026* %,42.3%,42.3%,42.3%,42.3%,MATCH
+2,Greenlee,Change (pts),+5.34,+5.34,+5.34,+5.34,MATCH
+2,Greenlee,Dem Share of Registration 2022 %,31.1%,31.1%,31.1%,31.1%,MATCH
+2,Greenlee,Total Active Registered 2022,"4,669","4,669","4,669","4,669",MATCH
+2,Greenlee,Dem Share of Registration 2026 %,24.9%,24.9%,24.9%,24.9%,MATCH
+2,Greenlee,Total Active Registered 2026,"4,611","4,611","4,611","4,611",MATCH
+2,Greenlee,Registration Share Change (pts),-6.25,-6.25,-6.25,-6.25,MATCH
+2,Pinal,Dem Share of Ballots 2022 %,41.2%,41.2%,41.2%,41.2%,MATCH
+2,Pinal,Dem Share of Ballots 2026* %,47.2%,47.2%,47.2%,47.2%,MATCH
+2,Pinal,Change (pts),+5.95,+5.95,+5.95,+5.95,MATCH
+2,Pinal,Dem Share of Registration 2022 %,24.9%,24.9%,24.9%,24.9%,MATCH
+2,Pinal,Total Active Registered 2022,"262,694","262,694","262,694","262,694",MATCH
+2,Pinal,Dem Share of Registration 2026 %,22.6%,22.6%,22.6%,22.6%,MATCH
+2,Pinal,Total Active Registered 2026,"291,682","291,682","291,682","291,682",MATCH
+2,Pinal,Registration Share Change (pts),-2.31,-2.31,-2.31,-2.31,MATCH
+2,Cochise,Dem Share of Ballots 2022 %,40.5%,40.5%,40.5%,40.5%,MATCH
+2,Cochise,Dem Share of Ballots 2026* %,44.9%,44.9%,44.9%,44.9%,MATCH
+2,Cochise,Change (pts),+4.39,+4.39,+4.39,+4.39,MATCH
+2,Cochise,Dem Share of Registration 2022 %,25.1%,25.1%,25.1%,25.1%,MATCH
+2,Cochise,Total Active Registered 2022,"77,394","77,394","77,394","77,394",MATCH
+2,Cochise,Dem Share of Registration 2026 %,22.1%,22.1%,22.1%,22.1%,MATCH
+2,Cochise,Total Active Registered 2026,"82,634","82,634","82,634","82,634",MATCH
+2,Cochise,Registration Share Change (pts),-2.97,-2.97,-2.97,-2.97,MATCH
+2,Gila,Dem Share of Ballots 2022 %,33.7%,33.7%,33.7%,33.7%,MATCH
+2,Gila,Dem Share of Ballots 2026* %,36.1%,36.1%,36.1%,36.1%,MATCH
+2,Gila,Change (pts),+2.41,+2.41,+2.41,+2.41,MATCH
+2,Gila,Dem Share of Registration 2022 %,24.8%,24.8%,24.8%,24.8%,MATCH
+2,Gila,Total Active Registered 2022,"33,949","33,949","33,949","33,949",MATCH
+2,Gila,Dem Share of Registration 2026 %,21.6%,21.6%,21.6%,21.6%,MATCH
+2,Gila,Total Active Registered 2026,"34,245","34,245","34,245","34,245",MATCH
+2,Gila,Registration Share Change (pts),-3.24,-3.24,-3.24,-3.24,MATCH
+2,Graham,Dem Share of Ballots 2022 %,28.0%,28.0%,28.0%,28.0%,MATCH
+2,Graham,Dem Share of Ballots 2026* %,33.3%,33.3%,33.3%,33.3%,MATCH
+2,Graham,Change (pts),+5.24,+5.24,+5.24,+5.24,MATCH
+2,Graham,Dem Share of Registration 2022 %,23.3%,23.3%,23.3%,23.3%,MATCH
+2,Graham,Total Active Registered 2022,"19,487","19,487","19,487","19,487",MATCH
+2,Graham,Dem Share of Registration 2026 %,20.1%,20.1%,20.1%,20.1%,MATCH
+2,Graham,Total Active Registered 2026,"20,623","20,623","20,623","20,623",MATCH
+2,Graham,Registration Share Change (pts),-3.24,-3.24,-3.24,-3.24,MATCH
+2,Yavapai,Dem Share of Ballots 2022 %,35.5%,35.5%,35.5%,35.5%,MATCH
+2,Yavapai,Dem Share of Ballots 2026* %,37.8%,37.8%,37.8%,37.8%,MATCH
+2,Yavapai,Change (pts),+2.29,+2.29,+2.29,+2.29,MATCH
+2,Yavapai,Dem Share of Registration 2022 %,19.5%,19.5%,19.5%,19.5%,MATCH
+2,Yavapai,Total Active Registered 2022,"166,052","166,052","166,052","166,052",MATCH
+2,Yavapai,Dem Share of Registration 2026 %,17.6%,17.6%,17.6%,17.6%,MATCH
+2,Yavapai,Total Active Registered 2026,"175,542","175,542","175,542","175,542",MATCH
+2,Yavapai,Registration Share Change (pts),-1.86,-1.86,-1.86,-1.86,MATCH
+2,La Paz,Dem Share of Ballots 2022 %,29.4%,29.4%,29.4%,29.4%,MATCH
+2,La Paz,Dem Share of Ballots 2026* %,32.9%,32.9%,32.9%,32.9%,MATCH
+2,La Paz,Change (pts),+3.48,+3.48,+3.48,+3.48,MATCH
+2,La Paz,Dem Share of Registration 2022 %,19.0%,19.0%,19.0%,19.0%,MATCH
+2,La Paz,Total Active Registered 2022,"11,311","11,311","11,311","11,311",MATCH
+2,La Paz,Dem Share of Registration 2026 %,16.4%,16.4%,16.4%,16.4%,MATCH
+2,La Paz,Total Active Registered 2026,"11,338","11,338","11,338","11,338",MATCH
+2,La Paz,Registration Share Change (pts),-2.66,-2.66,-2.66,-2.66,MATCH
+2,Mohave,Dem Share of Ballots 2022 %,24.6%,24.6%,24.6%,24.6%,MATCH
+2,Mohave,Dem Share of Ballots 2026* %,26.7%,26.7%,26.7%,26.7%,MATCH
+2,Mohave,Change (pts),+2.13,+2.13,+2.13,+2.13,MATCH
+2,Mohave,Dem Share of Registration 2022 %,14.0%,14.0%,14.0%,14.0%,MATCH
+2,Mohave,Total Active Registered 2022,"146,919","146,919","146,919","146,919",MATCH
+2,Mohave,Dem Share of Registration 2026 %,11.8%,11.8%,11.8%,11.8%,MATCH
+2,Mohave,Total Active Registered 2026,"146,942","146,942","146,942","146,942",MATCH
+2,Mohave,Registration Share Change (pts),-2.21,-2.21,-2.21,-2.21,MATCH
+2,Statewide total,Dem Share of Ballots 2022 %,49.7%,49.7%,49.7%,49.7%,MATCH
+2,Statewide total,Dem Share of Ballots 2026* %,55.0%,55.0%,55.0%,55.0%,MATCH
+2,Statewide total,Change (pts),+5.32,+5.32,+5.32,+5.32,MATCH
+2,Statewide total,Dem Share of Registration 2022 %,30.7%,30.7%,30.7%,30.7%,MATCH
+2,Statewide total,Total Active Registered 2022,"4,143,929","4,143,929","4,143,929","4,143,929",MATCH
+2,Statewide total,Dem Share of Registration 2026 %,28.3%,28.3%,28.3%,28.3%,MATCH
+2,Statewide total,Total Active Registered 2026,"4,374,827","4,374,827","4,374,827","4,374,827",MATCH
+2,Statewide total,Registration Share Change (pts),-2.33,-2.33,-2.33,-2.33,MATCH
+1,(page),2026 UNOFFICIAL banner + footer,present,,,present,MATCH
+2,(page),2026 UNOFFICIAL banner + footer,present,,,present,MATCH
+3,(page),2026 UNOFFICIAL banner + footer,present,,,present,MATCH

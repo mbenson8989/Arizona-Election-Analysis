@@ -1,0 +1,89 @@
+{
+ "sos2022": {
+  "ballots": 2592313,
+  "dem": 1287891,
+  "rep": 1270774,
+  "govtotal": 2559485,
+  "canvass_reg": 4143929,
+  "gov_rows": [
+   "(REP) Kari Lake",
+   "(DEM) Katie Hobbs *",
+   "(REP) Steph \"Steph\" Noelle Denny (Write",
+   "(REP) Alice Novoa (Write-In)",
+   "(LBT) Mikaela \"Mikki\" Shonnie Lutes-",
+   "(NON) Anthony Camboni (Write-In)",
+   "(IND) RayShawn \"Shawn\" D'Anthony",
+   "(GRN) William Josu\u00e9 Pounds IV (Write-",
+   "(GRN) Liana West (Write-In)"
+  ]
+ },
+ "sos2026": {
+  "asOf_utc": "2026-11-19T22:35:40.2155817Z",
+  "isOfficialResults": false,
+  "dem": 1434824,
+  "rep": 1094393,
+  "govtotal": 2579147,
+  "ballots_sum_localities": 2608919,
+  "candidates": {
+   "Katie Hobbs (DEM) / John Giles (PND)": 1434824,
+   "Andy Biggs (REP) / Sine Kerr (REP)": 1094393,
+   "Risa Lombardo (GRN) / Lisa Castillo (GRN)": 24644,
+   "Teri Ann Hourihan (NOL) / Angela Harrolle Mohan (PND)": 23520,
+   "Unofficial Write-in": 1728,
+   "Alice Novoa ": 18,
+   "Gertritrude Gonzalez ": 11,
+   "Unassigned Write-in": 9
+  }
+ },
+ "reg2022_total": {
+  "Democratic": 1270544,
+  "Libertarian": 32148,
+  "Republican": 1436852,
+  "Other": 1404385,
+  "Total": 4143929
+ },
+ "reg2026_total": {
+  "Democratic": 1239489,
+  "Green": 5577,
+  "Libertarian": 30150,
+  "No Labels": 49203,
+  "Republican": 1522925,
+  "Other": 1527483,
+  "Total": 4374827
+ },
+ "sums": {
+  "ballots_2022": 2592313,
+  "dem_2022": 1287891,
+  "rep_2022": 1270774,
+  "govtotal_2022": 2559485,
+  "canvass_reg_2022": 4143929,
+  "regdem_2022": 1270544,
+  "regrep_2022": 1436852,
+  "regact_2022": 4143929,
+  "ballots_2026": 2608919,
+  "dem_2026": 1434824,
+  "rep_2026": 1094393,
+  "govtotal_2026": 2579147,
+  "api_reg_total_2026": 4374827,
+  "regdem_2026": 1239489,
+  "regrep_2026": 1522925,
+  "regact_2026": 4374827
+ },
+ "statewide_derived": {
+  "S22": 49.68115347182227,
+  "S26": 54.996878017293746,
+  "P22": 30.66037087025381,
+  "P26": 28.332297482849032,
+  "dS": 5.315724545471475,
+  "dP": -2.3280733874047783,
+  "dG": 7.643797932876254,
+  "implied_extra_sum": 137207.17117295368,
+  "implied_extra_pooled": 138682.94765446897,
+  "regdem_chg": -31055.0,
+  "regdem_chg_pct": -2.444228613885076,
+  "dem_chg": 146933.0,
+  "dem_chg_pct": 11.408807111781975,
+  "ballots_chg": 16606.0,
+  "ballots_chg_pct": 0.6405862255059478
+ }
+}

@@ -1,0 +1,9102 @@
+[
+{
+"page": "Home",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "3",
+"reason": "election date"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "19",
+"reason": "date"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "4:35",
+"reason": "time"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "19",
+"reason": "date"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "23",
+"reason": "date"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "5",
+"reason": "date"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "19",
+"reason": "date"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "1",
+"reason": "list ordinal"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2",
+"reason": "list ordinal"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "3",
+"reason": "list ordinal"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "4",
+"reason": "list ordinal"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "5",
+"reason": "list ordinal"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "6",
+"reason": "list ordinal"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|regdem_2022",
+"fmt": "n",
+"display": "1,270,544"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|regdem_2026",
+"fmt": "n",
+"display": "1,239,489"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|regdem_chg",
+"fmt": "sn",
+"display": "−31,055"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|regdem_chg_pct",
+"fmt": "sp1",
+"display": "−2.4%"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|regact_2022",
+"fmt": "n",
+"display": "4,143,929"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|regact_2026",
+"fmt": "n",
+"display": "4,374,827"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|regact_chg",
+"fmt": "sn",
+"display": "+230,898"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|P22",
+"fmt": "p2",
+"display": "30.66%"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|P26",
+"fmt": "p2",
+"display": "28.33%"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|dP",
+"fmt": "s2",
+"display": "−2.33"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|dem_2022",
+"fmt": "n",
+"display": "1,287,891"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|dem_2026",
+"fmt": "n",
+"display": "1,434,824"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|dem_chg",
+"fmt": "sn",
+"display": "+146,933"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|dem_chg_pct",
+"fmt": "sp1",
+"display": "+11.4%"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|ballots_2022",
+"fmt": "n",
+"display": "2,592,313"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|ballots_2026",
+"fmt": "n",
+"display": "2,608,919"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|ballots_chg",
+"fmt": "sn",
+"display": "+16,606"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|ballots_chg_pct",
+"fmt": "sp1",
+"display": "+0.6%"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|S22",
+"fmt": "p2",
+"display": "49.68%"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|S26",
+"fmt": "p2",
+"display": "55.00%"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|dS",
+"fmt": "s2",
+"display": "+5.32"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|G22",
+"fmt": "s2",
+"display": "+19.02"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|G26",
+"fmt": "s2",
+"display": "+26.66"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|dG",
+"fmt": "s2",
+"display": "+7.64"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|rep_2022",
+"fmt": "n",
+"display": "1,270,774"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|rep_2026",
+"fmt": "n",
+"display": "1,094,393"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|govtotal_2022",
+"fmt": "n",
+"display": "2,559,485"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|govtotal_2026",
+"fmt": "n",
+"display": "2,579,147"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "k|n_loss",
+"fmt": "n",
+"display": "14"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|regdem_2022",
+"fmt": "n",
+"display": "1,270,544"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|regdem_2026",
+"fmt": "n",
+"display": "1,239,489"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|regact_chg",
+"fmt": "sn",
+"display": "+230,898"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "c|Pinal|regdem_chg",
+"fmt": "sn",
+"display": "+465"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "k|n_P_fell",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "c|Yavapai|dP",
+"fmt": "s2",
+"display": "−1.86"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "c|Santa Cruz|dP",
+"fmt": "s2",
+"display": "−6.55"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "k|n_S_rose",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "c|Apache|dS",
+"fmt": "s2",
+"display": "+0.76"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "c|Yuma|dS",
+"fmt": "s2",
+"display": "+8.89"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "k|n_dem_votes_rose",
+"fmt": "n",
+"display": "13"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "k|n_dem_votes_fell",
+"fmt": "n",
+"display": "2"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "k|n_pos",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "c|Yuma|dG",
+"fmt": "s2",
+"display": "+13.05"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "c|Yavapai|dG",
+"fmt": "s2",
+"display": "+4.15"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "k|median_dG",
+"fmt": "s2",
+"display": "+7.03"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|dG",
+"fmt": "s2",
+"display": "+7.64"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "g|all|implied",
+"fmt": "sn",
+"display": "+137,207"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "c|Maricopa|implied_extra_votes",
+"fmt": "sn",
+"display": "+93,190"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "k|maricopa_share_implied",
+"fmt": "p1",
+"display": "67.9%"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "fit|dG_on_drop|b",
+"fmt": "f2",
+"display": "3.30"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "fit|dG_on_drop|m",
+"fmt": "f2",
+"display": "1.29"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "fit|dG_on_drop|r2",
+"fmt": "f2",
+"display": "0.47"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "fit|dG_on_drop|n",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Home",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "3",
+"reason": "election date"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "19",
+"reason": "date"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "4:35",
+"reason": "time"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "19",
+"reason": "date"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "23",
+"reason": "date"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "5",
+"reason": "date"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "1",
+"reason": "step ordinal"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|S22",
+"fmt": "p2",
+"display": "50.57%"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|dem_2022",
+"fmt": "n",
+"display": "790,352"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|ballots_2022",
+"fmt": "n",
+"display": "1,562,758"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|S26",
+"fmt": "p2",
+"display": "56.55%"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|dem_2026",
+"fmt": "n",
+"display": "881,998"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|ballots_2026",
+"fmt": "n",
+"display": "1,559,706"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|dS",
+"fmt": "s2",
+"display": "+5.97"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|P22",
+"fmt": "p2",
+"display": "30.05%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|regdem_2022",
+"fmt": "n",
+"display": "731,792"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|regact_2022",
+"fmt": "n",
+"display": "2,435,397"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|P26",
+"fmt": "p2",
+"display": "28.11%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|regdem_2026",
+"fmt": "n",
+"display": "727,925"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|regact_2026",
+"fmt": "n",
+"display": "2,589,827"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|dP",
+"fmt": "s2",
+"display": "−1.94"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|dG",
+"fmt": "s2",
+"display": "+7.92"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|residual",
+"fmt": "s2",
+"display": "+5.97"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|dem_2026",
+"fmt": "n",
+"display": "881,998"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|S22",
+"fmt": "p2",
+"display": "50.57%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|ballots_2026",
+"fmt": "n",
+"display": "1,559,706"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|implied_extra_votes",
+"fmt": "sn",
+"display": "+93,190"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|dem_2026",
+"fmt": "n",
+"display": "881,998"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|dem_2022",
+"fmt": "n",
+"display": "790,352"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|regdem_2026",
+"fmt": "n",
+"display": "727,925"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|regdem_2022",
+"fmt": "n",
+"display": "731,792"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|gap_reg_scaled",
+"fmt": "sn",
+"display": "+95,822"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|pop2025",
+"fmt": "n",
+"display": "4,689,558"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "k|maricopa_share_implied",
+"fmt": "p1",
+"display": "67.9%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|regdem_chg",
+"fmt": "an",
+"display": "3,867"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|regact_chg",
+"fmt": "n",
+"display": "154,430"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|dP",
+"fmt": "a2",
+"display": "1.94"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|dS",
+"fmt": "f2",
+"display": "5.97"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2",
+"reason": "step ordinal"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2025",
+"reason": "census vintage year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|pop2025",
+"fmt": "n",
+"display": "4,689,558"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|P22",
+"fmt": "p2",
+"display": "30.05%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|P26",
+"fmt": "p2",
+"display": "28.11%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|S22",
+"fmt": "p2",
+"display": "50.57%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|S26",
+"fmt": "p2",
+"display": "56.55%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|dS",
+"fmt": "s2",
+"display": "+5.97"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|dP",
+"fmt": "s2",
+"display": "−1.94"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|dG",
+"fmt": "s2",
+"display": "+7.92"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|implied_extra_votes",
+"fmt": "sn",
+"display": "+93,190"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|pop2025",
+"fmt": "n",
+"display": "1,074,685"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|P22",
+"fmt": "p2",
+"display": "39.07%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|P26",
+"fmt": "p2",
+"display": "36.25%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|S22",
+"fmt": "p2",
+"display": "59.82%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|S26",
+"fmt": "p2",
+"display": "63.99%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|dS",
+"fmt": "s2",
+"display": "+4.17"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|dP",
+"fmt": "s2",
+"display": "−2.83"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|dG",
+"fmt": "s2",
+"display": "+7.00"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|implied_extra_votes",
+"fmt": "sn",
+"display": "+17,231"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|pop2025",
+"fmt": "n",
+"display": "539,380"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|P22",
+"fmt": "p2",
+"display": "24.88%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|P26",
+"fmt": "p2",
+"display": "22.57%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|S22",
+"fmt": "p2",
+"display": "41.22%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|S26",
+"fmt": "p2",
+"display": "47.17%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|dS",
+"fmt": "s2",
+"display": "+5.95"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|dP",
+"fmt": "s2",
+"display": "−2.31"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|dG",
+"fmt": "s2",
+"display": "+8.26"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|implied_extra_votes",
+"fmt": "sn",
+"display": "+9,608"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|pop2025",
+"fmt": "n",
+"display": "252,552"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|P22",
+"fmt": "p2",
+"display": "19.47%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|P26",
+"fmt": "p2",
+"display": "17.61%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|S22",
+"fmt": "p2",
+"display": "35.49%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|S26",
+"fmt": "p2",
+"display": "37.78%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|dS",
+"fmt": "s2",
+"display": "+2.29"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|dP",
+"fmt": "s2",
+"display": "−1.86"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|dG",
+"fmt": "s2",
+"display": "+4.15"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|implied_extra_votes",
+"fmt": "sn",
+"display": "+2,791"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|pop2025",
+"fmt": "n",
+"display": "228,102"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|P22",
+"fmt": "p2",
+"display": "14.02%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|P26",
+"fmt": "p2",
+"display": "11.81%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|S22",
+"fmt": "p2",
+"display": "24.61%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|S26",
+"fmt": "p2",
+"display": "26.75%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|dS",
+"fmt": "s2",
+"display": "+2.13"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|dP",
+"fmt": "s2",
+"display": "−2.21"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|dG",
+"fmt": "s2",
+"display": "+4.34"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|implied_extra_votes",
+"fmt": "sn",
+"display": "+1,704"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|pop2025",
+"fmt": "n",
+"display": "224,449"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|P22",
+"fmt": "p2",
+"display": "30.52%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|P26",
+"fmt": "p2",
+"display": "26.36%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|S22",
+"fmt": "p2",
+"display": "42.84%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|S26",
+"fmt": "p2",
+"display": "51.73%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|dS",
+"fmt": "s2",
+"display": "+8.89"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|dP",
+"fmt": "s2",
+"display": "−4.16"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|dG",
+"fmt": "s2",
+"display": "+13.05"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|implied_extra_votes",
+"fmt": "sn",
+"display": "+4,324"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|big6|share_ballots26",
+"fmt": "p1",
+"display": "91.4%"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|regdem_chg",
+"fmt": "n",
+"display": "465"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "3",
+"reason": "step ordinal"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|big6|n",
+"fmt": "n",
+"display": "6"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|big6|S22",
+"fmt": "p2",
+"display": "49.72%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|big6|S26",
+"fmt": "p2",
+"display": "55.15%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|big6|P22",
+"fmt": "p2",
+"display": "30.14%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|big6|P26",
+"fmt": "p2",
+"display": "27.93%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|big6|dS",
+"fmt": "s2",
+"display": "+5.43"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|big6|dP",
+"fmt": "s2",
+"display": "−2.21"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|big6|dG",
+"fmt": "s2",
+"display": "+7.64"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|big6|median_dG",
+"fmt": "s2",
+"display": "+7.46"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|big6|min_dG",
+"fmt": "s2",
+"display": "+4.15"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|big6|max_dG",
+"fmt": "s2",
+"display": "+13.05"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|big6|implied",
+"fmt": "sn",
+"display": "+128,849"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|other|n",
+"fmt": "n",
+"display": "9"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|other|S22",
+"fmt": "p2",
+"display": "49.29%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|other|S26",
+"fmt": "p2",
+"display": "53.39%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|other|P22",
+"fmt": "p2",
+"display": "35.67%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|other|P26",
+"fmt": "p2",
+"display": "32.30%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|other|dS",
+"fmt": "s2",
+"display": "+4.10"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|other|dP",
+"fmt": "s2",
+"display": "−3.38"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|other|dG",
+"fmt": "s2",
+"display": "+7.47"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|other|median_dG",
+"fmt": "s2",
+"display": "+7.03"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|other|min_dG",
+"fmt": "s2",
+"display": "+4.18"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|other|max_dG",
+"fmt": "s2",
+"display": "+11.59"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|other|implied",
+"fmt": "sn",
+"display": "+8,358"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|all|n",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|all|S22",
+"fmt": "p2",
+"display": "49.68%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|all|S26",
+"fmt": "p2",
+"display": "55.00%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|all|P22",
+"fmt": "p2",
+"display": "30.66%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|all|P26",
+"fmt": "p2",
+"display": "28.33%"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|all|dS",
+"fmt": "s2",
+"display": "+5.32"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|all|dP",
+"fmt": "s2",
+"display": "−2.33"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|all|dG",
+"fmt": "s2",
+"display": "+7.64"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|all|median_dG",
+"fmt": "s2",
+"display": "+7.03"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|all|min_dG",
+"fmt": "s2",
+"display": "+4.15"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|all|max_dG",
+"fmt": "s2",
+"display": "+13.05"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|all|implied",
+"fmt": "sn",
+"display": "+137,207"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "k|n_pos",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "k|sd_dG",
+"fmt": "f2",
+"display": "2.69"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "k|mean_dG",
+"fmt": "s2",
+"display": "+7.55"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "k|size_dG_r",
+"fmt": "f2",
+"display": "−0.14"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "k|size_dG_p",
+"fmt": "f2",
+"display": "0.63"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "k|spearman_rho",
+"fmt": "f2",
+"display": "−0.17"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "k|spearman_p",
+"fmt": "f2",
+"display": "0.54"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "k|size_dS_r",
+"fmt": "f2",
+"display": "0.22"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "k|size_dS_p",
+"fmt": "f2",
+"display": "0.42"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "k|size_dP_r",
+"fmt": "f2",
+"display": "0.57"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "k|size_dP_p",
+"fmt": "f2",
+"display": "0.03"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|all|dS",
+"fmt": "f2",
+"display": "5.32"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|all|ballots_2026",
+"fmt": "n",
+"display": "2,608,919"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|all|implied_pooled",
+"fmt": "sn",
+"display": "+138,683"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|all|implied",
+"fmt": "sn",
+"display": "+137,207"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "k|n_loss",
+"fmt": "n",
+"display": "14"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|all|implied_loss",
+"fmt": "sn",
+"display": "+127,599"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "g|all|gap_reg_scaled",
+"fmt": "sn",
+"display": "+175,993"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "k|n_loss",
+"fmt": "n",
+"display": "14"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|regdem_2022",
+"fmt": "n",
+"display": "65,357"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|regdem_2026",
+"fmt": "n",
+"display": "65,822"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "k|median_residual",
+"fmt": "s2",
+"display": "+4.28"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|pop2025",
+"fmt": "n",
+"display": "4,689,558"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|regdem_2022",
+"fmt": "n",
+"display": "731,792"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|regdem_2026",
+"fmt": "n",
+"display": "727,925"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|dP",
+"fmt": "s2",
+"display": "−1.94"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|dG",
+"fmt": "s2",
+"display": "+7.92"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|residual",
+"fmt": "s2",
+"display": "+5.97"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|implied_extra_votes",
+"fmt": "sn",
+"display": "+93,190"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|pop2025",
+"fmt": "n",
+"display": "1,074,685"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|regdem_2022",
+"fmt": "n",
+"display": "250,018"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|regdem_2026",
+"fmt": "n",
+"display": "238,460"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|dP",
+"fmt": "s2",
+"display": "−2.83"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|dG",
+"fmt": "s2",
+"display": "+7.00"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|residual",
+"fmt": "s2",
+"display": "+4.17"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|implied_extra_votes",
+"fmt": "sn",
+"display": "+17,231"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|pop2025",
+"fmt": "n",
+"display": "252,552"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|regdem_2022",
+"fmt": "n",
+"display": "32,326"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|regdem_2026",
+"fmt": "n",
+"display": "30,907"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|dP",
+"fmt": "s2",
+"display": "−1.86"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|dG",
+"fmt": "s2",
+"display": "+4.15"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|residual",
+"fmt": "s2",
+"display": "+2.29"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|implied_extra_votes",
+"fmt": "sn",
+"display": "+2,791"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|pop2025",
+"fmt": "n",
+"display": "228,102"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|regdem_2022",
+"fmt": "n",
+"display": "20,603"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|regdem_2026",
+"fmt": "n",
+"display": "17,359"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|dP",
+"fmt": "s2",
+"display": "−2.21"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|dG",
+"fmt": "s2",
+"display": "+4.34"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|residual",
+"fmt": "s2",
+"display": "+2.13"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|implied_extra_votes",
+"fmt": "sn",
+"display": "+1,704"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|pop2025",
+"fmt": "n",
+"display": "224,449"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|regdem_2022",
+"fmt": "n",
+"display": "32,090"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|regdem_2026",
+"fmt": "n",
+"display": "29,502"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|dP",
+"fmt": "s2",
+"display": "−4.16"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|dG",
+"fmt": "s2",
+"display": "+13.05"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|residual",
+"fmt": "s2",
+"display": "+8.89"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|implied_extra_votes",
+"fmt": "sn",
+"display": "+4,324"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|pop2025",
+"fmt": "n",
+"display": "144,368"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|regdem_2022",
+"fmt": "n",
+"display": "36,569"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|regdem_2026",
+"fmt": "n",
+"display": "33,719"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|dP",
+"fmt": "s2",
+"display": "−2.02"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|dG",
+"fmt": "s2",
+"display": "+6.95"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|residual",
+"fmt": "s2",
+"display": "+4.93"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|implied_extra_votes",
+"fmt": "sn",
+"display": "+2,767"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|pop2025",
+"fmt": "n",
+"display": "126,332"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|regdem_2022",
+"fmt": "n",
+"display": "19,423"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|regdem_2026",
+"fmt": "n",
+"display": "18,287"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|dP",
+"fmt": "s2",
+"display": "−2.97"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|dG",
+"fmt": "s2",
+"display": "+7.36"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|residual",
+"fmt": "s2",
+"display": "+4.39"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|implied_extra_votes",
+"fmt": "sn",
+"display": "+2,057"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|pop2025",
+"fmt": "n",
+"display": "109,946"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|regdem_2022",
+"fmt": "n",
+"display": "24,144"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|regdem_2026",
+"fmt": "n",
+"display": "22,804"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|dP",
+"fmt": "s2",
+"display": "−3.80"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|dG",
+"fmt": "s2",
+"display": "+7.03"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|residual",
+"fmt": "s2",
+"display": "+3.24"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|implied_extra_votes",
+"fmt": "sn",
+"display": "+1,309"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|pop2025",
+"fmt": "n",
+"display": "64,445"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|regdem_2022",
+"fmt": "n",
+"display": "27,625"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|regdem_2026",
+"fmt": "n",
+"display": "26,498"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|dP",
+"fmt": "s2",
+"display": "−3.42"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|dG",
+"fmt": "s2",
+"display": "+4.18"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|residual",
+"fmt": "s2",
+"display": "+0.76"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|implied_extra_votes",
+"fmt": "sn",
+"display": "+208"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|pop2025",
+"fmt": "n",
+"display": "53,801"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|regdem_2022",
+"fmt": "n",
+"display": "8,431"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|regdem_2026",
+"fmt": "n",
+"display": "7,396"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|dP",
+"fmt": "s2",
+"display": "−3.24"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|dG",
+"fmt": "s2",
+"display": "+5.64"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|residual",
+"fmt": "s2",
+"display": "+2.41"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|implied_extra_votes",
+"fmt": "sn",
+"display": "+509"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|pop2025",
+"fmt": "n",
+"display": "50,020"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|regdem_2022",
+"fmt": "n",
+"display": "14,022"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|regdem_2026",
+"fmt": "n",
+"display": "13,671"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|dP",
+"fmt": "s2",
+"display": "−6.55"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|dG",
+"fmt": "s2",
+"display": "+11.18"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|residual",
+"fmt": "s2",
+"display": "+4.63"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|implied_extra_votes",
+"fmt": "sn",
+"display": "+659"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|pop2025",
+"fmt": "n",
+"display": "40,157"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|regdem_2022",
+"fmt": "n",
+"display": "4,542"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|regdem_2026",
+"fmt": "n",
+"display": "4,139"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|dP",
+"fmt": "s2",
+"display": "−3.24"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|dG",
+"fmt": "s2",
+"display": "+8.48"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|residual",
+"fmt": "s2",
+"display": "+5.24"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|implied_extra_votes",
+"fmt": "sn",
+"display": "+552"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|pop2025",
+"fmt": "n",
+"display": "16,711"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|regdem_2022",
+"fmt": "n",
+"display": "2,150"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|regdem_2026",
+"fmt": "n",
+"display": "1,854"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|dP",
+"fmt": "s2",
+"display": "−2.66"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|dG",
+"fmt": "s2",
+"display": "+6.13"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|residual",
+"fmt": "s2",
+"display": "+3.48"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|implied_extra_votes",
+"fmt": "sn",
+"display": "+186"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|pop2025",
+"fmt": "n",
+"display": "9,312"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|regdem_2022",
+"fmt": "n",
+"display": "1,452"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|regdem_2026",
+"fmt": "n",
+"display": "1,146"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|dP",
+"fmt": "s2",
+"display": "−6.25"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|dG",
+"fmt": "s2",
+"display": "+11.59"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|residual",
+"fmt": "s2",
+"display": "+5.34"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|implied_extra_votes",
+"fmt": "sn",
+"display": "+112"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|pop2025",
+"fmt": "n",
+"display": "4,689,558"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|dem_2022",
+"fmt": "n",
+"display": "790,352"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|ballots_2022",
+"fmt": "n",
+"display": "1,562,758"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|S22",
+"fmt": "f2",
+"display": "50.57"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|regdem_2022",
+"fmt": "n",
+"display": "731,792"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|regact_2022",
+"fmt": "n",
+"display": "2,435,397"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|P22",
+"fmt": "f2",
+"display": "30.05"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|dem_2026",
+"fmt": "n",
+"display": "881,998"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|ballots_2026",
+"fmt": "n",
+"display": "1,559,706"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|S26",
+"fmt": "f2",
+"display": "56.55"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|regdem_2026",
+"fmt": "n",
+"display": "727,925"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|regact_2026",
+"fmt": "n",
+"display": "2,589,827"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|P26",
+"fmt": "f2",
+"display": "28.11"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|dG",
+"fmt": "s2",
+"display": "+7.92"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Maricopa|gap_reg_scaled",
+"fmt": "sn",
+"display": "+95,822"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|pop2025",
+"fmt": "n",
+"display": "1,074,685"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|dem_2022",
+"fmt": "n",
+"display": "241,398"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|ballots_2022",
+"fmt": "n",
+"display": "403,556"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|S22",
+"fmt": "f2",
+"display": "59.82"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|regdem_2022",
+"fmt": "n",
+"display": "250,018"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|regact_2022",
+"fmt": "n",
+"display": "639,885"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|P22",
+"fmt": "f2",
+"display": "39.07"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|dem_2026",
+"fmt": "n",
+"display": "264,440"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|ballots_2026",
+"fmt": "n",
+"display": "413,270"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|S26",
+"fmt": "f2",
+"display": "63.99"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|regdem_2026",
+"fmt": "n",
+"display": "238,460"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|regact_2026",
+"fmt": "n",
+"display": "657,885"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|P26",
+"fmt": "f2",
+"display": "36.25"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|dG",
+"fmt": "s2",
+"display": "+7.00"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pima|gap_reg_scaled",
+"fmt": "sn",
+"display": "+34,202"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|pop2025",
+"fmt": "n",
+"display": "539,380"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|dem_2022",
+"fmt": "n",
+"display": "60,019"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|ballots_2022",
+"fmt": "n",
+"display": "145,600"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|S22",
+"fmt": "f2",
+"display": "41.22"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|regdem_2022",
+"fmt": "n",
+"display": "65,357"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|regact_2022",
+"fmt": "n",
+"display": "262,694"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|P22",
+"fmt": "f2",
+"display": "24.88"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|dem_2026",
+"fmt": "n",
+"display": "76,211"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|ballots_2026",
+"fmt": "n",
+"display": "161,571"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|S26",
+"fmt": "f2",
+"display": "47.17"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|regdem_2026",
+"fmt": "n",
+"display": "65,822"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|regact_2026",
+"fmt": "n",
+"display": "291,682"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|P26",
+"fmt": "f2",
+"display": "22.57"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|dG",
+"fmt": "s2",
+"display": "+8.26"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Pinal|gap_reg_scaled",
+"fmt": "sn",
+"display": "+15,765"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|pop2025",
+"fmt": "n",
+"display": "252,552"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|dem_2022",
+"fmt": "n",
+"display": "44,316"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|ballots_2022",
+"fmt": "n",
+"display": "124,871"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|S22",
+"fmt": "f2",
+"display": "35.49"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|regdem_2022",
+"fmt": "n",
+"display": "32,326"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|regact_2022",
+"fmt": "n",
+"display": "166,052"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|P22",
+"fmt": "f2",
+"display": "19.47"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|dem_2026",
+"fmt": "n",
+"display": "46,024"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|ballots_2026",
+"fmt": "n",
+"display": "121,818"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|S26",
+"fmt": "f2",
+"display": "37.78"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|regdem_2026",
+"fmt": "n",
+"display": "30,907"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|regact_2026",
+"fmt": "n",
+"display": "175,542"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|P26",
+"fmt": "f2",
+"display": "17.61"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|dG",
+"fmt": "s2",
+"display": "+4.15"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yavapai|gap_reg_scaled",
+"fmt": "sn",
+"display": "+3,653"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|pop2025",
+"fmt": "n",
+"display": "228,102"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|dem_2022",
+"fmt": "n",
+"display": "20,369"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|ballots_2022",
+"fmt": "n",
+"display": "82,758"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|S22",
+"fmt": "f2",
+"display": "24.61"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|regdem_2022",
+"fmt": "n",
+"display": "20,603"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|regact_2022",
+"fmt": "n",
+"display": "146,919"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|P22",
+"fmt": "f2",
+"display": "14.02"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|dem_2026",
+"fmt": "n",
+"display": "21,355"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|ballots_2026",
+"fmt": "n",
+"display": "79,840"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|S26",
+"fmt": "f2",
+"display": "26.75"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|regdem_2026",
+"fmt": "n",
+"display": "17,359"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|regact_2026",
+"fmt": "n",
+"display": "146,942"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|P26",
+"fmt": "f2",
+"display": "11.81"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|dG",
+"fmt": "s2",
+"display": "+4.34"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Mohave|gap_reg_scaled",
+"fmt": "sn",
+"display": "+4,193"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|pop2025",
+"fmt": "n",
+"display": "224,449"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|dem_2022",
+"fmt": "n",
+"display": "20,063"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|ballots_2022",
+"fmt": "n",
+"display": "46,830"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|S22",
+"fmt": "f2",
+"display": "42.84"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|regdem_2022",
+"fmt": "n",
+"display": "32,090"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|regact_2022",
+"fmt": "n",
+"display": "105,133"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|P22",
+"fmt": "f2",
+"display": "30.52"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|dem_2026",
+"fmt": "n",
+"display": "25,161"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|ballots_2026",
+"fmt": "n",
+"display": "48,636"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|S26",
+"fmt": "f2",
+"display": "51.73"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|regdem_2026",
+"fmt": "n",
+"display": "29,502"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|regact_2026",
+"fmt": "n",
+"display": "111,922"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|P26",
+"fmt": "f2",
+"display": "26.36"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|dG",
+"fmt": "s2",
+"display": "+13.05"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Yuma|gap_reg_scaled",
+"fmt": "sn",
+"display": "+6,716"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|pop2025",
+"fmt": "n",
+"display": "144,368"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|dem_2022",
+"fmt": "n",
+"display": "34,389"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|ballots_2022",
+"fmt": "n",
+"display": "55,475"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|S22",
+"fmt": "f2",
+"display": "61.99"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|regdem_2022",
+"fmt": "n",
+"display": "36,569"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|regact_2022",
+"fmt": "n",
+"display": "90,829"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|P22",
+"fmt": "f2",
+"display": "40.26"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|dem_2026",
+"fmt": "n",
+"display": "37,569"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|ballots_2026",
+"fmt": "n",
+"display": "56,141"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|S26",
+"fmt": "f2",
+"display": "66.92"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|regdem_2026",
+"fmt": "n",
+"display": "33,719"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|regact_2026",
+"fmt": "n",
+"display": "88,175"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|P26",
+"fmt": "f2",
+"display": "38.24"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|dG",
+"fmt": "s2",
+"display": "+6.95"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Coconino|gap_reg_scaled",
+"fmt": "sn",
+"display": "+5,860"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|pop2025",
+"fmt": "n",
+"display": "126,332"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|dem_2022",
+"fmt": "n",
+"display": "19,137"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|ballots_2022",
+"fmt": "n",
+"display": "47,284"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|S22",
+"fmt": "f2",
+"display": "40.47"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|regdem_2022",
+"fmt": "n",
+"display": "19,423"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|regact_2022",
+"fmt": "n",
+"display": "77,394"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|P22",
+"fmt": "f2",
+"display": "25.10"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|dem_2026",
+"fmt": "n",
+"display": "21,005"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|ballots_2026",
+"fmt": "n",
+"display": "46,817"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|S26",
+"fmt": "f2",
+"display": "44.87"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|regdem_2026",
+"fmt": "n",
+"display": "18,287"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|regact_2026",
+"fmt": "n",
+"display": "82,634"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|P26",
+"fmt": "f2",
+"display": "22.13"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|dG",
+"fmt": "s2",
+"display": "+7.36"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Cochise|gap_reg_scaled",
+"fmt": "sn",
+"display": "+2,987"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|pop2025",
+"fmt": "n",
+"display": "109,946"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|dem_2022",
+"fmt": "n",
+"display": "18,058"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|ballots_2022",
+"fmt": "n",
+"display": "40,974"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|S22",
+"fmt": "f2",
+"display": "44.07"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|regdem_2022",
+"fmt": "n",
+"display": "24,144"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|regact_2022",
+"fmt": "n",
+"display": "69,040"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|P22",
+"fmt": "f2",
+"display": "34.97"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|dem_2026",
+"fmt": "n",
+"display": "19,138"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|ballots_2026",
+"fmt": "n",
+"display": "40,455"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|S26",
+"fmt": "f2",
+"display": "47.31"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|regdem_2026",
+"fmt": "n",
+"display": "22,804"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|regact_2026",
+"fmt": "n",
+"display": "73,154"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|P26",
+"fmt": "f2",
+"display": "31.17"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|dG",
+"fmt": "s2",
+"display": "+7.03"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Navajo|gap_reg_scaled",
+"fmt": "sn",
+"display": "+2,082"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|pop2025",
+"fmt": "n",
+"display": "64,445"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|dem_2022",
+"fmt": "n",
+"display": "17,739"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|ballots_2022",
+"fmt": "n",
+"display": "27,010"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|S22",
+"fmt": "f2",
+"display": "65.68"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|regdem_2022",
+"fmt": "n",
+"display": "27,625"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|regact_2022",
+"fmt": "n",
+"display": "51,981"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|P22",
+"fmt": "f2",
+"display": "53.14"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|dem_2026",
+"fmt": "n",
+"display": "18,164"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|ballots_2026",
+"fmt": "n",
+"display": "27,341"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|S26",
+"fmt": "f2",
+"display": "66.44"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|regdem_2026",
+"fmt": "n",
+"display": "26,498"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|regact_2026",
+"fmt": "n",
+"display": "53,295"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|P26",
+"fmt": "f2",
+"display": "49.72"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|dG",
+"fmt": "s2",
+"display": "+4.18"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Apache|gap_reg_scaled",
+"fmt": "sn",
+"display": "+1,149"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|pop2025",
+"fmt": "n",
+"display": "53,801"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|dem_2022",
+"fmt": "n",
+"display": "7,674"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|ballots_2022",
+"fmt": "n",
+"display": "22,802"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|S22",
+"fmt": "f2",
+"display": "33.65"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|regdem_2022",
+"fmt": "n",
+"display": "8,431"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|regact_2022",
+"fmt": "n",
+"display": "33,949"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|P22",
+"fmt": "f2",
+"display": "24.83"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|dem_2026",
+"fmt": "n",
+"display": "7,620"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|ballots_2026",
+"fmt": "n",
+"display": "21,130"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|S26",
+"fmt": "f2",
+"display": "36.06"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|regdem_2026",
+"fmt": "n",
+"display": "7,396"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|regact_2026",
+"fmt": "n",
+"display": "34,245"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|P26",
+"fmt": "f2",
+"display": "21.60"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|dG",
+"fmt": "s2",
+"display": "+5.64"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Gila|gap_reg_scaled",
+"fmt": "sn",
+"display": "+888"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|pop2025",
+"fmt": "n",
+"display": "50,020"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|dem_2022",
+"fmt": "n",
+"display": "8,724"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|ballots_2022",
+"fmt": "n",
+"display": "13,308"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|S22",
+"fmt": "f2",
+"display": "65.55"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|regdem_2022",
+"fmt": "n",
+"display": "14,022"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|regact_2022",
+"fmt": "n",
+"display": "29,189"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|P22",
+"fmt": "f2",
+"display": "48.04"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|dem_2026",
+"fmt": "n",
+"display": "9,993"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|ballots_2026",
+"fmt": "n",
+"display": "14,238"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|S26",
+"fmt": "f2",
+"display": "70.19"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|regdem_2026",
+"fmt": "n",
+"display": "13,671"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|regact_2026",
+"fmt": "n",
+"display": "32,952"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|P26",
+"fmt": "f2",
+"display": "41.49"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|dG",
+"fmt": "s2",
+"display": "+11.18"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Santa Cruz|gap_reg_scaled",
+"fmt": "sn",
+"display": "+1,487"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|pop2025",
+"fmt": "n",
+"display": "40,157"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|dem_2022",
+"fmt": "n",
+"display": "3,087"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|ballots_2022",
+"fmt": "n",
+"display": "11,006"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|S22",
+"fmt": "f2",
+"display": "28.05"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|regdem_2022",
+"fmt": "n",
+"display": "4,542"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|regact_2022",
+"fmt": "n",
+"display": "19,487"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|P22",
+"fmt": "f2",
+"display": "23.31"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|dem_2026",
+"fmt": "n",
+"display": "3,504"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|ballots_2026",
+"fmt": "n",
+"display": "10,525"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|S26",
+"fmt": "f2",
+"display": "33.29"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|regdem_2026",
+"fmt": "n",
+"display": "4,139"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|regact_2026",
+"fmt": "n",
+"display": "20,623"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|P26",
+"fmt": "f2",
+"display": "20.07"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|dG",
+"fmt": "s2",
+"display": "+8.48"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Graham|gap_reg_scaled",
+"fmt": "sn",
+"display": "+691"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|pop2025",
+"fmt": "n",
+"display": "16,711"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|dem_2022",
+"fmt": "n",
+"display": "1,646"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|ballots_2022",
+"fmt": "n",
+"display": "5,594"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|S22",
+"fmt": "f2",
+"display": "29.42"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|regdem_2022",
+"fmt": "n",
+"display": "2,150"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|regact_2022",
+"fmt": "n",
+"display": "11,311"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|P22",
+"fmt": "f2",
+"display": "19.01"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|dem_2026",
+"fmt": "n",
+"display": "1,758"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|ballots_2026",
+"fmt": "n",
+"display": "5,343"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|S26",
+"fmt": "f2",
+"display": "32.90"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|regdem_2026",
+"fmt": "n",
+"display": "1,854"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|regact_2026",
+"fmt": "n",
+"display": "11,338"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|P26",
+"fmt": "f2",
+"display": "16.35"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|dG",
+"fmt": "s2",
+"display": "+6.13"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|La Paz|gap_reg_scaled",
+"fmt": "sn",
+"display": "+339"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|pop2025",
+"fmt": "n",
+"display": "9,312"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|dem_2022",
+"fmt": "n",
+"display": "920"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|ballots_2022",
+"fmt": "n",
+"display": "2,487"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|S22",
+"fmt": "f2",
+"display": "36.99"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|regdem_2022",
+"fmt": "n",
+"display": "1,452"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|regact_2022",
+"fmt": "n",
+"display": "4,669"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|P22",
+"fmt": "f2",
+"display": "31.10"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|dem_2026",
+"fmt": "n",
+"display": "884"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|ballots_2026",
+"fmt": "n",
+"display": "2,088"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|S26",
+"fmt": "f2",
+"display": "42.34"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|regdem_2026",
+"fmt": "n",
+"display": "1,146"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|regact_2026",
+"fmt": "n",
+"display": "4,611"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|P26",
+"fmt": "f2",
+"display": "24.85"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|dG",
+"fmt": "s2",
+"display": "+11.59"
+},
+{
+"page": "Reverse-Math",
+"kind": "data",
+"key": "c|Greenlee|gap_reg_scaled",
+"fmt": "sn",
+"display": "+158"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "3",
+"reason": "election date"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "19",
+"reason": "date"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "4:35",
+"reason": "time"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "19",
+"reason": "date"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "23",
+"reason": "date"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "5",
+"reason": "date"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|b",
+"fmt": "s2",
+"display": "+3.30"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|m",
+"fmt": "f2",
+"display": "1.29"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|b",
+"fmt": "s4",
+"display": "+3.3019"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|m",
+"fmt": "f4",
+"display": "1.2892"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "4",
+"reason": "decimal places"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "95%",
+"reason": "confidence level"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|b",
+"fmt": "s2",
+"display": "+3.30"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|b",
+"fmt": "s4",
+"display": "+3.3019"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|b_ci_lo",
+"fmt": "f2",
+"display": "0.38"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|b_ci_hi",
+"fmt": "f2",
+"display": "6.22"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|m",
+"fmt": "f2",
+"display": "1.29"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|m",
+"fmt": "f4",
+"display": "1.2892"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|m_ci_lo",
+"fmt": "f2",
+"display": "0.47"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|m_ci_hi",
+"fmt": "f2",
+"display": "2.11"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|b_se",
+"fmt": "f2",
+"display": "1.35"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|b_se",
+"fmt": "f4",
+"display": "1.3510"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|m_se",
+"fmt": "f2",
+"display": "0.38"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|m_se",
+"fmt": "f4",
+"display": "0.3779"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|r2",
+"fmt": "f2",
+"display": "0.47"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|r2",
+"fmt": "f4",
+"display": "0.4724"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|m_p",
+"fmt": "f3",
+"display": "0.005"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|resid_se",
+"fmt": "f2",
+"display": "2.03"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|n",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|n",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "1",
+"reason": "unit (per one point)"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|m",
+"fmt": "f2",
+"display": "1.29"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|b",
+"fmt": "s2",
+"display": "+3.30"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|r2pct",
+"fmt": "p0",
+"display": "47%"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|n",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|m_se",
+"fmt": "f2",
+"display": "0.38"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "g|all|dP",
+"fmt": "a2",
+"display": "2.33"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "g|all|pred_dG",
+"fmt": "s2",
+"display": "+6.30"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "g|all|dG",
+"fmt": "s2",
+"display": "+7.64"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Maricopa|P22",
+"fmt": "f2",
+"display": "30.05"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Maricopa|P26",
+"fmt": "f2",
+"display": "28.11"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Maricopa|regdrop",
+"fmt": "f4",
+"display": "1.9411"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|b",
+"fmt": "s4",
+"display": "+3.3019"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|m",
+"fmt": "f4",
+"display": "1.2892"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Maricopa|regdrop",
+"fmt": "f4",
+"display": "1.9411"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Maricopa|fit_dG",
+"fmt": "s2",
+"display": "+5.80"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Maricopa|dG",
+"fmt": "s2",
+"display": "+7.92"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Maricopa|res_dG",
+"fmt": "s2",
+"display": "+2.11"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "11",
+"reason": "template line number"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Maricopa|residual",
+"fmt": "s2",
+"display": "+5.97"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|b",
+"fmt": "s2",
+"display": "+3.30"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|b_se",
+"fmt": "f2",
+"display": "1.35"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|m",
+"fmt": "f2",
+"display": "1.29"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|m_se",
+"fmt": "f2",
+"display": "0.38"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|r2",
+"fmt": "f2",
+"display": "0.47"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|n",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop_wtd|b",
+"fmt": "s2",
+"display": "+6.43"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop_wtd|b_se",
+"fmt": "f2",
+"display": "1.40"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop_wtd|m",
+"fmt": "f2",
+"display": "0.48"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop_wtd|m_se",
+"fmt": "f2",
+"display": "0.60"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop_wtd|r2",
+"fmt": "f2",
+"display": "0.05"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop_wtd|n",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop_narrowed|b",
+"fmt": "s2",
+"display": "+3.46"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop_narrowed|b_se",
+"fmt": "f2",
+"display": "1.09"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop_narrowed|m",
+"fmt": "f2",
+"display": "1.14"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop_narrowed|m_se",
+"fmt": "f2",
+"display": "0.31"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop_narrowed|r2",
+"fmt": "f2",
+"display": "0.53"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop_narrowed|n",
+"fmt": "n",
+"display": "14"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Maricopa|dG",
+"fmt": "s2",
+"display": "+7.92"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Maricopa|regdrop",
+"fmt": "f2",
+"display": "1.94"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop_wtd|m_p",
+"fmt": "f2",
+"display": "0.44"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|G22_on_P22|b",
+"fmt": "s2",
+"display": "+8.38"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|G22_on_P22|b_se",
+"fmt": "f2",
+"display": "4.10"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|G22_on_P22|m",
+"fmt": "f3",
+"display": "0.168"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|G22_on_P22|m_se",
+"fmt": "f3",
+"display": "0.127"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|G22_on_P22|r2",
+"fmt": "f2",
+"display": "0.12"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|G22_on_P22|n",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|G26_on_P26|b",
+"fmt": "s2",
+"display": "+14.46"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|G26_on_P26|b_se",
+"fmt": "f2",
+"display": "4.03"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|G26_on_P26|m",
+"fmt": "f3",
+"display": "0.243"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|G26_on_P26|m_se",
+"fmt": "f3",
+"display": "0.139"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|G26_on_P26|r2",
+"fmt": "f2",
+"display": "0.19"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|G26_on_P26|n",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|G22_on_P22|m_p",
+"fmt": "f2",
+"display": "0.21"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|G26_on_P26|m_p",
+"fmt": "f2",
+"display": "0.10"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "k|yi_d_intercept",
+"fmt": "f2",
+"display": "6.08"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "0",
+"reason": "x-axis origin"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "k|yi_p_d_intercept",
+"fmt": "f2",
+"display": "0.30"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "k|yi_d_slope",
+"fmt": "f3",
+"display": "0.074"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "k|yi_p_d_slope",
+"fmt": "f2",
+"display": "0.70"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "100",
+"reason": "percent scale"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "100",
+"reason": "percent scale"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "100",
+"reason": "percent scale"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "1",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "3",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "1",
+"reason": "template line ref"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2",
+"reason": "template line ref"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "100",
+"reason": "percent scale"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "4",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "5",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "6",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "4",
+"reason": "template line ref"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "5",
+"reason": "template line ref"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "100",
+"reason": "percent scale"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "7",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "3",
+"reason": "template line ref"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "6",
+"reason": "template line ref"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "8",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "9",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "10",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "4",
+"reason": "template line ref"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "11",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "8",
+"reason": "template line ref"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "9",
+"reason": "template line ref"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "12",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "1",
+"reason": "template line ref"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "3",
+"reason": "template line ref"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "100",
+"reason": "percent scale"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2",
+"reason": "template line ref"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "13",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|b",
+"fmt": "s4",
+"display": "+3.3019"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "fit|dG_on_drop|m",
+"fmt": "f4",
+"display": "1.2892"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "9",
+"reason": "template line ref"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "14",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "8",
+"reason": "template line ref"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "13",
+"reason": "template line ref"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "1",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|dem_2022",
+"fmt": "n",
+"display": "20,063"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|dem_2026",
+"fmt": "n",
+"display": "25,161"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "2",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|ballots_2022",
+"fmt": "n",
+"display": "46,830"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|ballots_2026",
+"fmt": "n",
+"display": "48,636"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "3",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|S22",
+"fmt": "p2",
+"display": "42.84%"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|S26",
+"fmt": "p2",
+"display": "51.73%"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "4",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|regdem_2022",
+"fmt": "n",
+"display": "32,090"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|regdem_2026",
+"fmt": "n",
+"display": "29,502"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "5",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|regact_2022",
+"fmt": "n",
+"display": "105,133"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|regact_2026",
+"fmt": "n",
+"display": "111,922"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "6",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|P22",
+"fmt": "p2",
+"display": "30.52%"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|P26",
+"fmt": "p2",
+"display": "26.36%"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "7",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|G22",
+"fmt": "s2",
+"display": "+12.32"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|G26",
+"fmt": "s2",
+"display": "+25.37"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "8",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|dG",
+"fmt": "s2",
+"display": "+13.05"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "9",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|regdrop",
+"fmt": "f2",
+"display": "4.16"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "10",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "11",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|residual",
+"fmt": "s2",
+"display": "+8.89"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "12",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|implied_extra_votes",
+"fmt": "sn",
+"display": "+4,324"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "13",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|fit_dG",
+"fmt": "s2",
+"display": "+8.67"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "static",
+"display": "14",
+"reason": "template line"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|res_dG",
+"fmt": "s2",
+"display": "+4.38"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Maricopa|regdrop",
+"fmt": "f2",
+"display": "1.94"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Maricopa|dG",
+"fmt": "s2",
+"display": "+7.92"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Maricopa|fit_dG",
+"fmt": "s2",
+"display": "+5.80"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Maricopa|res_dG",
+"fmt": "s2",
+"display": "+2.11"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Pima|regdrop",
+"fmt": "f2",
+"display": "2.83"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Pima|dG",
+"fmt": "s2",
+"display": "+7.00"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Pima|fit_dG",
+"fmt": "s2",
+"display": "+6.95"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Pima|res_dG",
+"fmt": "s2",
+"display": "+0.05"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Pinal|regdrop",
+"fmt": "f2",
+"display": "2.31"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Pinal|dG",
+"fmt": "s2",
+"display": "+8.26"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Pinal|fit_dG",
+"fmt": "s2",
+"display": "+6.28"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Pinal|res_dG",
+"fmt": "s2",
+"display": "+1.98"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yavapai|regdrop",
+"fmt": "f2",
+"display": "1.86"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yavapai|dG",
+"fmt": "s2",
+"display": "+4.15"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yavapai|fit_dG",
+"fmt": "s2",
+"display": "+5.70"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yavapai|res_dG",
+"fmt": "s2",
+"display": "−1.55"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Mohave|regdrop",
+"fmt": "f2",
+"display": "2.21"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Mohave|dG",
+"fmt": "s2",
+"display": "+4.34"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Mohave|fit_dG",
+"fmt": "s2",
+"display": "+6.15"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Mohave|res_dG",
+"fmt": "s2",
+"display": "−1.81"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|regdrop",
+"fmt": "f2",
+"display": "4.16"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|dG",
+"fmt": "s2",
+"display": "+13.05"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|fit_dG",
+"fmt": "s2",
+"display": "+8.67"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Yuma|res_dG",
+"fmt": "s2",
+"display": "+4.38"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Coconino|regdrop",
+"fmt": "f2",
+"display": "2.02"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Coconino|dG",
+"fmt": "s2",
+"display": "+6.95"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Coconino|fit_dG",
+"fmt": "s2",
+"display": "+5.91"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Coconino|res_dG",
+"fmt": "s2",
+"display": "+1.04"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Cochise|regdrop",
+"fmt": "f2",
+"display": "2.97"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Cochise|dG",
+"fmt": "s2",
+"display": "+7.36"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Cochise|fit_dG",
+"fmt": "s2",
+"display": "+7.13"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Cochise|res_dG",
+"fmt": "s2",
+"display": "+0.23"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Navajo|regdrop",
+"fmt": "f2",
+"display": "3.80"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Navajo|dG",
+"fmt": "s2",
+"display": "+7.03"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Navajo|fit_dG",
+"fmt": "s2",
+"display": "+8.20"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Navajo|res_dG",
+"fmt": "s2",
+"display": "−1.17"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Apache|regdrop",
+"fmt": "f2",
+"display": "3.42"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Apache|dG",
+"fmt": "s2",
+"display": "+4.18"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Apache|fit_dG",
+"fmt": "s2",
+"display": "+7.72"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Apache|res_dG",
+"fmt": "s2",
+"display": "−3.53"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Gila|regdrop",
+"fmt": "f2",
+"display": "3.24"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Gila|dG",
+"fmt": "s2",
+"display": "+5.64"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Gila|fit_dG",
+"fmt": "s2",
+"display": "+7.48"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Gila|res_dG",
+"fmt": "s2",
+"display": "−1.83"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Santa Cruz|regdrop",
+"fmt": "f2",
+"display": "6.55"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Santa Cruz|dG",
+"fmt": "s2",
+"display": "+11.18"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Santa Cruz|fit_dG",
+"fmt": "s2",
+"display": "+11.75"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Santa Cruz|res_dG",
+"fmt": "s2",
+"display": "−0.57"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Graham|regdrop",
+"fmt": "f2",
+"display": "3.24"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Graham|dG",
+"fmt": "s2",
+"display": "+8.48"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Graham|fit_dG",
+"fmt": "s2",
+"display": "+7.48"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Graham|res_dG",
+"fmt": "s2",
+"display": "+1.01"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|La Paz|regdrop",
+"fmt": "f2",
+"display": "2.66"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|La Paz|dG",
+"fmt": "s2",
+"display": "+6.13"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|La Paz|fit_dG",
+"fmt": "s2",
+"display": "+6.73"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|La Paz|res_dG",
+"fmt": "s2",
+"display": "−0.59"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Greenlee|regdrop",
+"fmt": "f2",
+"display": "6.25"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Greenlee|dG",
+"fmt": "s2",
+"display": "+11.59"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Greenlee|fit_dG",
+"fmt": "s2",
+"display": "+11.35"
+},
+{
+"page": "Locked-Arizona-Formula",
+"kind": "data",
+"key": "c|Greenlee|res_dG",
+"fmt": "s2",
+"display": "+0.24"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "3",
+"reason": "election date"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "19",
+"reason": "date"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "4:35",
+"reason": "time"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "19",
+"reason": "date"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "23",
+"reason": "date"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "5",
+"reason": "date"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|dG",
+"fmt": "s2",
+"display": "+13.05"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|dS",
+"fmt": "f2",
+"display": "8.89"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|dP",
+"fmt": "a2",
+"display": "4.16"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|dG",
+"fmt": "s2",
+"display": "+4.15"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|dS",
+"fmt": "f2",
+"display": "2.29"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|dP",
+"fmt": "a2",
+"display": "1.86"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|dG",
+"fmt": "s2",
+"display": "+13.05"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Greenlee|dG",
+"fmt": "s2",
+"display": "+11.59"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Santa Cruz|dG",
+"fmt": "s2",
+"display": "+11.18"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|dG",
+"fmt": "s2",
+"display": "+8.48"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|dG",
+"fmt": "s2",
+"display": "+8.26"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|dS",
+"fmt": "s2",
+"display": "+8.89"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Greenlee|dS",
+"fmt": "s2",
+"display": "+5.34"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Santa Cruz|dS",
+"fmt": "s2",
+"display": "+4.63"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|dS",
+"fmt": "s2",
+"display": "+5.24"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|dS",
+"fmt": "s2",
+"display": "+5.95"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|dP",
+"fmt": "s2",
+"display": "−4.16"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Greenlee|dP",
+"fmt": "s2",
+"display": "−6.25"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Santa Cruz|dP",
+"fmt": "s2",
+"display": "−6.55"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|dP",
+"fmt": "s2",
+"display": "−3.24"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|dP",
+"fmt": "s2",
+"display": "−2.31"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Mohave|P22",
+"fmt": "p2",
+"display": "14.02%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Mohave|dG",
+"fmt": "s2",
+"display": "+4.34"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|La Paz|P22",
+"fmt": "p2",
+"display": "19.01%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|La Paz|dG",
+"fmt": "s2",
+"display": "+6.13"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|P22",
+"fmt": "p2",
+"display": "19.47%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|dG",
+"fmt": "s2",
+"display": "+4.15"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|P22",
+"fmt": "p2",
+"display": "23.31%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|dG",
+"fmt": "s2",
+"display": "+8.48"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Gila|P22",
+"fmt": "p2",
+"display": "24.83%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Gila|dG",
+"fmt": "s2",
+"display": "+5.64"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|P22",
+"fmt": "p2",
+"display": "23.31%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|dG",
+"fmt": "s2",
+"display": "+8.48"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|regdem_chg",
+"fmt": "sn",
+"display": "+465"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "k|n_loss",
+"fmt": "n",
+"display": "14"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|pop2025",
+"fmt": "n",
+"display": "539,380"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|P22",
+"fmt": "p2",
+"display": "24.88%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|P26",
+"fmt": "p2",
+"display": "22.57%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|S22",
+"fmt": "p2",
+"display": "41.22%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|S26",
+"fmt": "p2",
+"display": "47.17%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|G22",
+"fmt": "s2",
+"display": "+16.34"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|G26",
+"fmt": "s2",
+"display": "+24.60"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|dG",
+"fmt": "s2",
+"display": "+8.26"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|implied_extra_votes",
+"fmt": "sn",
+"display": "+9,608"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|pop2025",
+"fmt": "n",
+"display": "252,552"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|P22",
+"fmt": "p2",
+"display": "19.47%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|P26",
+"fmt": "p2",
+"display": "17.61%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|S22",
+"fmt": "p2",
+"display": "35.49%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|S26",
+"fmt": "p2",
+"display": "37.78%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|G22",
+"fmt": "s2",
+"display": "+16.02"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|G26",
+"fmt": "s2",
+"display": "+20.17"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|dG",
+"fmt": "s2",
+"display": "+4.15"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|implied_extra_votes",
+"fmt": "sn",
+"display": "+2,791"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Mohave|pop2025",
+"fmt": "n",
+"display": "228,102"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Mohave|P22",
+"fmt": "p2",
+"display": "14.02%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Mohave|P26",
+"fmt": "p2",
+"display": "11.81%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Mohave|S22",
+"fmt": "p2",
+"display": "24.61%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Mohave|S26",
+"fmt": "p2",
+"display": "26.75%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Mohave|G22",
+"fmt": "s2",
+"display": "+10.59"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Mohave|G26",
+"fmt": "s2",
+"display": "+14.93"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Mohave|dG",
+"fmt": "s2",
+"display": "+4.34"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Mohave|implied_extra_votes",
+"fmt": "sn",
+"display": "+1,704"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|pop2025",
+"fmt": "n",
+"display": "224,449"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|P22",
+"fmt": "p2",
+"display": "30.52%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|P26",
+"fmt": "p2",
+"display": "26.36%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|S22",
+"fmt": "p2",
+"display": "42.84%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|S26",
+"fmt": "p2",
+"display": "51.73%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|G22",
+"fmt": "s2",
+"display": "+12.32"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|G26",
+"fmt": "s2",
+"display": "+25.37"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|dG",
+"fmt": "s2",
+"display": "+13.05"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|implied_extra_votes",
+"fmt": "sn",
+"display": "+4,324"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Gila|pop2025",
+"fmt": "n",
+"display": "53,801"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Gila|P22",
+"fmt": "p2",
+"display": "24.83%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Gila|P26",
+"fmt": "p2",
+"display": "21.60%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Gila|S22",
+"fmt": "p2",
+"display": "33.65%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Gila|S26",
+"fmt": "p2",
+"display": "36.06%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Gila|G22",
+"fmt": "s2",
+"display": "+8.82"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Gila|G26",
+"fmt": "s2",
+"display": "+14.47"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Gila|dG",
+"fmt": "s2",
+"display": "+5.64"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Gila|implied_extra_votes",
+"fmt": "sn",
+"display": "+509"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Santa Cruz|pop2025",
+"fmt": "n",
+"display": "50,020"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Santa Cruz|P22",
+"fmt": "p2",
+"display": "48.04%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Santa Cruz|P26",
+"fmt": "p2",
+"display": "41.49%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Santa Cruz|S22",
+"fmt": "p2",
+"display": "65.55%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Santa Cruz|S26",
+"fmt": "p2",
+"display": "70.19%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Santa Cruz|G22",
+"fmt": "s2",
+"display": "+17.52"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Santa Cruz|G26",
+"fmt": "s2",
+"display": "+28.70"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Santa Cruz|dG",
+"fmt": "s2",
+"display": "+11.18"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Santa Cruz|implied_extra_votes",
+"fmt": "sn",
+"display": "+659"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|pop2025",
+"fmt": "n",
+"display": "40,157"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|P22",
+"fmt": "p2",
+"display": "23.31%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|P26",
+"fmt": "p2",
+"display": "20.07%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|S22",
+"fmt": "p2",
+"display": "28.05%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|S26",
+"fmt": "p2",
+"display": "33.29%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|G22",
+"fmt": "s2",
+"display": "+4.74"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|G26",
+"fmt": "s2",
+"display": "+13.22"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|dG",
+"fmt": "s2",
+"display": "+8.48"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|implied_extra_votes",
+"fmt": "sn",
+"display": "+552"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|La Paz|pop2025",
+"fmt": "n",
+"display": "16,711"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|La Paz|P22",
+"fmt": "p2",
+"display": "19.01%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|La Paz|P26",
+"fmt": "p2",
+"display": "16.35%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|La Paz|S22",
+"fmt": "p2",
+"display": "29.42%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|La Paz|S26",
+"fmt": "p2",
+"display": "32.90%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|La Paz|G22",
+"fmt": "s2",
+"display": "+10.42"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|La Paz|G26",
+"fmt": "s2",
+"display": "+16.55"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|La Paz|dG",
+"fmt": "s2",
+"display": "+6.13"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|La Paz|implied_extra_votes",
+"fmt": "sn",
+"display": "+186"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Greenlee|pop2025",
+"fmt": "n",
+"display": "9,312"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Greenlee|P22",
+"fmt": "p2",
+"display": "31.10%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Greenlee|P26",
+"fmt": "p2",
+"display": "24.85%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Greenlee|S22",
+"fmt": "p2",
+"display": "36.99%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Greenlee|S26",
+"fmt": "p2",
+"display": "42.34%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Greenlee|G22",
+"fmt": "s2",
+"display": "+5.89"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Greenlee|G26",
+"fmt": "s2",
+"display": "+17.48"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Greenlee|dG",
+"fmt": "s2",
+"display": "+11.59"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Greenlee|implied_extra_votes",
+"fmt": "sn",
+"display": "+112"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Maricopa|share_ballots26",
+"fmt": "p1",
+"display": "59.8%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "4",
+"reason": "rule constant"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "k|cooks_cut",
+"fmt": "f3",
+"display": "0.267"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2.5",
+"reason": "rule threshold"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "k|nar_Yuma_cooks",
+"fmt": "f3",
+"display": "0.264"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "k|nar_Yuma_stud",
+"fmt": "f2",
+"display": "2.81"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|regdrop",
+"fmt": "f2",
+"display": "4.16"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|dG",
+"fmt": "s2",
+"display": "+13.05"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "fit|dG_on_drop_narrowed|b",
+"fmt": "s2",
+"display": "+3.46"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "fit|dG_on_drop_narrowed|m",
+"fmt": "f2",
+"display": "1.14"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "fit|dG_on_drop_narrowed|r2",
+"fmt": "f2",
+"display": "0.53"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "fit|dG_on_drop_narrowed|n",
+"fmt": "n",
+"display": "14"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "k|size_dG_slope",
+"fmt": "s2",
+"display": "−0.53"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "k|size_dG_r",
+"fmt": "f2",
+"display": "−0.14"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "k|size_dG_p",
+"fmt": "f2",
+"display": "0.63"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Maricopa|dG",
+"fmt": "s2",
+"display": "+7.92"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "g|all|dG",
+"fmt": "s2",
+"display": "+7.64"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "k|tx|2022|min_ballots_minus_gov",
+"fmt": "n",
+"display": "41"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "k|tx|2026|min_ballots_minus_gov",
+"fmt": "n",
+"display": "21"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "k|nogov_lo|2022",
+"fmt": "p2",
+"display": "1.22%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "k|nogov_hi|2022",
+"fmt": "p2",
+"display": "1.70%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "k|nogov_lo|2026",
+"fmt": "p2",
+"display": "0.75%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "k|nogov_hi|2026",
+"fmt": "p2",
+"display": "1.82%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|turnout22",
+"fmt": "p2",
+"display": "75.20%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|turnout26",
+"fmt": "p2",
+"display": "69.40%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "g|all|turnout22",
+"fmt": "p2",
+"display": "62.56%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "g|all|turnout26",
+"fmt": "p2",
+"display": "59.63%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Maricopa|ballots_2022",
+"fmt": "n",
+"display": "1,562,758"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Maricopa|govtotal_2022",
+"fmt": "n",
+"display": "1,543,535"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Maricopa|nogov22",
+"fmt": "n",
+"display": "19,223"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Maricopa|turnout22",
+"fmt": "p2",
+"display": "64.17%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Maricopa|ballots_2026",
+"fmt": "n",
+"display": "1,559,706"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Maricopa|govtotal_2026",
+"fmt": "n",
+"display": "1,539,513"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Maricopa|nogov26",
+"fmt": "n",
+"display": "20,193"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Maricopa|turnout26",
+"fmt": "p2",
+"display": "60.22%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pima|ballots_2022",
+"fmt": "n",
+"display": "403,556"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pima|govtotal_2022",
+"fmt": "n",
+"display": "398,553"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pima|nogov22",
+"fmt": "n",
+"display": "5,003"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pima|turnout22",
+"fmt": "p2",
+"display": "63.07%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pima|ballots_2026",
+"fmt": "n",
+"display": "413,270"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pima|govtotal_2026",
+"fmt": "n",
+"display": "410,185"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pima|nogov26",
+"fmt": "n",
+"display": "3,085"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pima|turnout26",
+"fmt": "p2",
+"display": "62.82%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|ballots_2022",
+"fmt": "n",
+"display": "145,600"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|govtotal_2022",
+"fmt": "n",
+"display": "143,826"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|nogov22",
+"fmt": "n",
+"display": "1,774"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|turnout22",
+"fmt": "p2",
+"display": "55.43%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|ballots_2026",
+"fmt": "n",
+"display": "161,571"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|govtotal_2026",
+"fmt": "n",
+"display": "160,327"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|nogov26",
+"fmt": "n",
+"display": "1,244"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Pinal|turnout26",
+"fmt": "p2",
+"display": "55.39%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|ballots_2022",
+"fmt": "n",
+"display": "124,871"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|govtotal_2022",
+"fmt": "n",
+"display": "123,191"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|nogov22",
+"fmt": "n",
+"display": "1,680"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|turnout22",
+"fmt": "p2",
+"display": "75.20%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|ballots_2026",
+"fmt": "n",
+"display": "121,818"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|govtotal_2026",
+"fmt": "n",
+"display": "120,679"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|nogov26",
+"fmt": "n",
+"display": "1,139"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yavapai|turnout26",
+"fmt": "p2",
+"display": "69.40%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Mohave|ballots_2022",
+"fmt": "n",
+"display": "82,758"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Mohave|govtotal_2022",
+"fmt": "n",
+"display": "81,510"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Mohave|nogov22",
+"fmt": "n",
+"display": "1,248"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Mohave|turnout22",
+"fmt": "p2",
+"display": "56.33%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Mohave|ballots_2026",
+"fmt": "n",
+"display": "79,840"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Mohave|govtotal_2026",
+"fmt": "n",
+"display": "79,058"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Mohave|nogov26",
+"fmt": "n",
+"display": "782"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Mohave|turnout26",
+"fmt": "p2",
+"display": "54.33%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|ballots_2022",
+"fmt": "n",
+"display": "46,830"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|govtotal_2022",
+"fmt": "n",
+"display": "46,111"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|nogov22",
+"fmt": "n",
+"display": "719"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|turnout22",
+"fmt": "p2",
+"display": "44.54%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|ballots_2026",
+"fmt": "n",
+"display": "48,636"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|govtotal_2026",
+"fmt": "n",
+"display": "47,998"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|nogov26",
+"fmt": "n",
+"display": "638"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Yuma|turnout26",
+"fmt": "p2",
+"display": "43.46%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Coconino|ballots_2022",
+"fmt": "n",
+"display": "55,475"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Coconino|govtotal_2022",
+"fmt": "n",
+"display": "54,727"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Coconino|nogov22",
+"fmt": "n",
+"display": "748"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Coconino|turnout22",
+"fmt": "p2",
+"display": "61.08%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Coconino|ballots_2026",
+"fmt": "n",
+"display": "56,141"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Coconino|govtotal_2026",
+"fmt": "n",
+"display": "55,529"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Coconino|nogov26",
+"fmt": "n",
+"display": "612"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Coconino|turnout26",
+"fmt": "p2",
+"display": "63.67%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Cochise|ballots_2022",
+"fmt": "n",
+"display": "47,284"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Cochise|govtotal_2022",
+"fmt": "n",
+"display": "46,666"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Cochise|nogov22",
+"fmt": "n",
+"display": "618"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Cochise|turnout22",
+"fmt": "p2",
+"display": "61.10%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Cochise|ballots_2026",
+"fmt": "n",
+"display": "46,817"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Cochise|govtotal_2026",
+"fmt": "n",
+"display": "46,360"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Cochise|nogov26",
+"fmt": "n",
+"display": "457"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Cochise|turnout26",
+"fmt": "p2",
+"display": "56.66%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Navajo|ballots_2022",
+"fmt": "n",
+"display": "40,974"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Navajo|govtotal_2022",
+"fmt": "n",
+"display": "40,411"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Navajo|nogov22",
+"fmt": "n",
+"display": "563"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Navajo|turnout22",
+"fmt": "p2",
+"display": "59.35%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Navajo|ballots_2026",
+"fmt": "n",
+"display": "40,455"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Navajo|govtotal_2026",
+"fmt": "n",
+"display": "39,971"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Navajo|nogov26",
+"fmt": "n",
+"display": "484"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Navajo|turnout26",
+"fmt": "p2",
+"display": "55.30%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Apache|ballots_2022",
+"fmt": "n",
+"display": "27,010"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Apache|govtotal_2022",
+"fmt": "n",
+"display": "26,614"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Apache|nogov22",
+"fmt": "n",
+"display": "396"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Apache|turnout22",
+"fmt": "p2",
+"display": "51.96%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Apache|ballots_2026",
+"fmt": "n",
+"display": "27,341"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Apache|govtotal_2026",
+"fmt": "n",
+"display": "26,843"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Apache|nogov26",
+"fmt": "n",
+"display": "498"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Apache|turnout26",
+"fmt": "p2",
+"display": "51.30%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Gila|ballots_2022",
+"fmt": "n",
+"display": "22,802"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Gila|govtotal_2022",
+"fmt": "n",
+"display": "22,450"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Gila|nogov22",
+"fmt": "n",
+"display": "352"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Gila|turnout22",
+"fmt": "p2",
+"display": "67.17%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Gila|ballots_2026",
+"fmt": "n",
+"display": "21,130"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Gila|govtotal_2026",
+"fmt": "n",
+"display": "20,884"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Gila|nogov26",
+"fmt": "n",
+"display": "246"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Gila|turnout26",
+"fmt": "p2",
+"display": "61.70%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Santa Cruz|ballots_2022",
+"fmt": "n",
+"display": "13,308"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Santa Cruz|govtotal_2022",
+"fmt": "n",
+"display": "13,099"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Santa Cruz|nogov22",
+"fmt": "n",
+"display": "209"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Santa Cruz|turnout22",
+"fmt": "p2",
+"display": "45.59%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Santa Cruz|ballots_2026",
+"fmt": "n",
+"display": "14,238"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Santa Cruz|govtotal_2026",
+"fmt": "n",
+"display": "14,061"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Santa Cruz|nogov26",
+"fmt": "n",
+"display": "177"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Santa Cruz|turnout26",
+"fmt": "p2",
+"display": "43.21%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|ballots_2022",
+"fmt": "n",
+"display": "11,006"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|govtotal_2022",
+"fmt": "n",
+"display": "10,847"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|nogov22",
+"fmt": "n",
+"display": "159"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|turnout22",
+"fmt": "p2",
+"display": "56.48%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|ballots_2026",
+"fmt": "n",
+"display": "10,525"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|govtotal_2026",
+"fmt": "n",
+"display": "10,395"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|nogov26",
+"fmt": "n",
+"display": "130"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Graham|turnout26",
+"fmt": "p2",
+"display": "51.04%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|La Paz|ballots_2022",
+"fmt": "n",
+"display": "5,594"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|La Paz|govtotal_2022",
+"fmt": "n",
+"display": "5,499"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|La Paz|nogov22",
+"fmt": "n",
+"display": "95"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|La Paz|turnout22",
+"fmt": "p2",
+"display": "49.46%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|La Paz|ballots_2026",
+"fmt": "n",
+"display": "5,343"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|La Paz|govtotal_2026",
+"fmt": "n",
+"display": "5,277"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|La Paz|nogov26",
+"fmt": "n",
+"display": "66"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|La Paz|turnout26",
+"fmt": "p2",
+"display": "47.12%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Greenlee|ballots_2022",
+"fmt": "n",
+"display": "2,487"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Greenlee|govtotal_2022",
+"fmt": "n",
+"display": "2,446"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Greenlee|nogov22",
+"fmt": "n",
+"display": "41"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Greenlee|turnout22",
+"fmt": "p2",
+"display": "53.27%"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Greenlee|ballots_2026",
+"fmt": "n",
+"display": "2,088"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Greenlee|govtotal_2026",
+"fmt": "n",
+"display": "2,067"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Greenlee|nogov26",
+"fmt": "n",
+"display": "21"
+},
+{
+"page": "Floor-and-Ceiling",
+"kind": "data",
+"key": "c|Greenlee|turnout26",
+"fmt": "p2",
+"display": "45.28%"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Graphs",
+"kind": "data",
+"key": "g|all|dG",
+"fmt": "s2",
+"display": "+7.64"
+},
+{
+"page": "Graphs",
+"kind": "data",
+"key": "fit|dG_on_drop|b",
+"fmt": "f2",
+"display": "3.30"
+},
+{
+"page": "Graphs",
+"kind": "data",
+"key": "fit|dG_on_drop|m",
+"fmt": "f2",
+"display": "1.29"
+},
+{
+"page": "Graphs",
+"kind": "data",
+"key": "fit|dG_on_drop|r2",
+"fmt": "f2",
+"display": "0.47"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Graphs",
+"kind": "data",
+"key": "fit|G22_on_P22|r2",
+"fmt": "f2",
+"display": "0.12"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Graphs",
+"kind": "data",
+"key": "fit|G26_on_P26|r2",
+"fmt": "f2",
+"display": "0.19"
+},
+{
+"page": "Graphs",
+"kind": "data",
+"key": "k|n_loss",
+"fmt": "n",
+"display": "14"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "100%",
+"reason": "reference line"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "3",
+"reason": "election date"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "19",
+"reason": "date"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "4:35",
+"reason": "time"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "19",
+"reason": "date"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Graphs",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "23",
+"reason": "date"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "5",
+"reason": "date"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2025",
+"reason": "census vintage year"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "1",
+"reason": "section ordinal"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2",
+"reason": "section ordinal"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2022",
+"reason": "repeat of heading static in image alt text"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "2026",
+"reason": "repeat of heading static in image alt text"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "3",
+"reason": "section ordinal"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "4",
+"reason": "section ordinal"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "5",
+"reason": "section ordinal"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "6",
+"reason": "section ordinal"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "7",
+"reason": "section ordinal"
+},
+{
+"page": "Graphs",
+"kind": "static",
+"display": "8",
+"reason": "section ordinal"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "3",
+"reason": "election date"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "19",
+"reason": "date"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "4:35",
+"reason": "time"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "19",
+"reason": "date"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "23",
+"reason": "date"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "5",
+"reason": "date"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "3",
+"reason": "page count"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "93",
+"reason": "Nebraska county count (template name)"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "data",
+"key": "c|Apache|P26",
+"fmt": "p1",
+"display": "49.7%"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "1",
+"reason": "page number"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2",
+"reason": "page number"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "3",
+"reason": "page number"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "1",
+"reason": "page number"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2",
+"reason": "page number"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "data",
+"key": "g|all|regdem_2022",
+"fmt": "n",
+"display": "1,270,544"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "data",
+"key": "g|all|regdem_2026",
+"fmt": "n",
+"display": "1,239,489"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "data",
+"key": "g|all|dem_2022",
+"fmt": "n",
+"display": "1,287,891"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "data",
+"key": "g|all|dem_2026",
+"fmt": "n",
+"display": "1,434,824"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "data",
+"key": "g|all|ballots_2022",
+"fmt": "n",
+"display": "2,592,313"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "data",
+"key": "g|all|ballots_2026",
+"fmt": "n",
+"display": "2,608,919"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "data",
+"key": "g|all|P26",
+"fmt": "p1",
+"display": "28.3%"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "23",
+"reason": "date"
+},
+{
+"page": "Arizona-County-PDF-Information",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "_Sidebar",
+"kind": "static",
+"display": "1",
+"reason": "list ordinal"
+},
+{
+"page": "_Sidebar",
+"kind": "static",
+"display": "2",
+"reason": "list ordinal"
+},
+{
+"page": "_Sidebar",
+"kind": "static",
+"display": "3",
+"reason": "list ordinal"
+},
+{
+"page": "_Sidebar",
+"kind": "static",
+"display": "4",
+"reason": "list ordinal"
+},
+{
+"page": "_Sidebar",
+"kind": "static",
+"display": "5",
+"reason": "list ordinal"
+},
+{
+"page": "_Sidebar",
+"kind": "static",
+"display": "6",
+"reason": "list ordinal"
+},
+{
+"page": "_Sidebar",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "_Sidebar",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "_Sidebar",
+"kind": "static",
+"display": "23",
+"reason": "date"
+},
+{
+"page": "_Sidebar",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "3",
+"reason": "election date"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "19",
+"reason": "date"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "4:35",
+"reason": "time"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "19",
+"reason": "date"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "23",
+"reason": "date"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "5",
+"reason": "date"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "data",
+"key": "g|all|S22",
+"fmt": "p2",
+"display": "49.68%"
+},
+{
+"page": "README",
+"kind": "data",
+"key": "g|all|S26",
+"fmt": "p2",
+"display": "55.00%"
+},
+{
+"page": "README",
+"kind": "data",
+"key": "g|all|dS",
+"fmt": "s2",
+"display": "+5.32"
+},
+{
+"page": "README",
+"kind": "data",
+"key": "g|all|P22",
+"fmt": "p2",
+"display": "30.66%"
+},
+{
+"page": "README",
+"kind": "data",
+"key": "g|all|P26",
+"fmt": "p2",
+"display": "28.33%"
+},
+{
+"page": "README",
+"kind": "data",
+"key": "g|all|dP",
+"fmt": "s2",
+"display": "−2.33"
+},
+{
+"page": "README",
+"kind": "data",
+"key": "g|all|G22",
+"fmt": "s2",
+"display": "+19.02"
+},
+{
+"page": "README",
+"kind": "data",
+"key": "g|all|G26",
+"fmt": "s2",
+"display": "+26.66"
+},
+{
+"page": "README",
+"kind": "data",
+"key": "g|all|dG",
+"fmt": "s2",
+"display": "+7.64"
+},
+{
+"page": "README",
+"kind": "data",
+"key": "fit|dG_on_drop|b",
+"fmt": "f2",
+"display": "3.30"
+},
+{
+"page": "README",
+"kind": "data",
+"key": "fit|dG_on_drop|m",
+"fmt": "f2",
+"display": "1.29"
+},
+{
+"page": "README",
+"kind": "data",
+"key": "fit|dG_on_drop|r2",
+"fmt": "f2",
+"display": "0.47"
+},
+{
+"page": "README",
+"kind": "data",
+"key": "fit|dG_on_drop|n",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "README",
+"kind": "data",
+"key": "g|all|implied",
+"fmt": "sn",
+"display": "+137,207"
+},
+{
+"page": "README",
+"kind": "data",
+"key": "k|n_counties",
+"fmt": "n",
+"display": "15"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "256",
+"reason": "hash algorithm name"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "19",
+"reason": "date"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "256",
+"reason": "hash algorithm name"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "5",
+"reason": "date"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "19",
+"reason": "date"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "4:35",
+"reason": "time"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2022",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2025",
+"reason": "census vintage year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "23",
+"reason": "date"
+},
+{
+"page": "README",
+"kind": "static",
+"display": "2026",
+"reason": "year"
+}
+]
